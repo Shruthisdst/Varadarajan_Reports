@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ias_books SYSTEM "ias_books.dtd">
+
+<ias_books>
+	<book code="01" btitle="Report on Scientific Studies on the Factors Related to Bhopal Toxic Gas Leakage">
+		<s1 title="Introduction" page="0012">
+			<s2 title="The Bhopal Pesticides Plant" page="0012">
+				<s3 title="MIC Manufacturing Process" page="0013"></s3>
+				<s3 title="MIC Storage System" page="0014"></s3>
+				<s3 title="Vent Gas Scrubber" page="0019"></s3>
+				<s3 title="Flare Tower" page="0021"></s3>
+			</s2>
+			<s2 title="The Event" page="0022"></s2>
+			<s2 title="&#x2018;Operation Faith&#x2019;" page="0025"></s2>
+		</s1>
+		<s1 title="Examination of Tank 610 and its Contents" page="0035">
+			<s2 title="Sampling" page="0035">
+				<s3 title="Core Samples from the Manhole Nozzle" page="0035"></s3>
+				<s3 title="Samples from Tank Residue after Opening the Tank" page="0038"></s3>
+				<s3 title="Samples from Pipelines" page="0038"></s3>
+				<s3 title="MIC Samples from Tank 611" page="0038"></s3>
+				<s3 title="Metal Pieces Cut from Tank 610" page="0039"></s3>
+			</s2>
+			<s2 title="Chemical Analysis" page="0039">
+				<s3 title="Physical Appearance of Samples of Residue" page="0039"></s3>
+				<s3 title="Solubility Characteristics" page="0040"></s3>
+				<s3 title="Qualitative Analysis" page="0040"></s3>
+				<s3 title="Analytical Procedures" page="0040"></s3>
+				<s3 title="Analytical Results" page="0041"></s3>
+			</s2>
+			<s2 title="&#x2018;Total Representative&#x2019; Sample of Residue and its Analysis" page="0041">
+				<s3 title="Product Distribution" page="0042"></s3>
+				<s3 title="Annexure 2.1" page="0054"></s3>
+			</s2>
+		</s1>
+		<s1 title="Chemistry of Formation of Compounds in Tank 610" page="0066">
+			<s2 title="Experiments" page="0066"></s2>
+			<s2 title="Observations" page="0066"></s2>
+			<s2 title="Discussion" page="0067">
+				<s3 title="Material Balance" page="0070"></s3>
+			</s2>
+			<s2 title="Comments" page="0070"></s2>
+			<s2 title="Gaseous Products on Reaction of MIC" page="0070"></s2>
+			<s2 title="Annexure 3.1" page="0074"></s2>
+		</s1>
+		<s1 title="An analysis of design and engineering features" page="0082">
+			<s2 title="MIC and its Characteristics" page="0082"></s2>
+			<s2 title="Storage Tank" page="0083"></s2>
+			<s2 title="Nitrogen" page="0084"></s2>
+			<s2 title="Instrumentation and Control Systems" page="0084"></s2>
+			<s2 title="Refrigeration" page="0085"></s2>
+			<s2 title="Vent Gas Scrubber" page="0085"></s2>
+		</s1>
+		<s1 title="An Analysis of the Event" page="0086"></s1>
+	</book>
+	<book code="02" btitle="The Chemical Phenomena Leading to the Tragic Toxic Gas Leakage at the Union Carbide Pesticide Plant, Bhopal and Aftermath">
+		<s1 title="Report of NCL" page="0004">
+			<s2 title="Introduction" page="0006"></s2>
+			<s2 title="Part-I: Analysis of Samples" page="0007"></s2>
+			<s2 title="A Plausible Chemistry of the Event" page="0042"></s2>
+			<s2 title="Was Cyanide Present in Leaked MIC?" page="0053"></s2>
+			<s2 title="Part-II: Modelling and Computer Simulation of Bhopal Accident" page="0061">
+				<s3 title="General Philosophy of Modelling" page="0063"></s3>
+				<s3 title="Estimation of Model Parameters" page="0064"></s3>
+				<s3 title="A Model Formulation" page="0068"></s3>
+				<s3 title="Important Results of the Analysis" page="0072"></s3>
+			</s2>
+			<s2 title="References" page="0076"></s2>
+			<s2 title="Appendices I" page="0077"></s2>
+			<s2 title="Appendices II" page="0081"></s2>
+			<s2 title="Appendices III" page="0082"></s2>
+		</s1>
+		<s1 title="Report of RRL (Hyderabad)" page="0097">
+			<s2 title="PART I: Decomposition Studies on MIC" page="0099"></s2>
+			<s2 title="PART II: Design and Engineering Effort of RRLH Scientists" page="0111"></s2>
+			<s2 title="Appendix I" page="0117"></s2>
+			<s2 title="Appendix II" page="0120"></s2>
+			<s2 title="Appendix III" page="0121"></s2>
+			<s2 title="Negligence" page="0124"></s2>
+		</s1>
+		<s1 title="Report of NAL" page="0125">
+			<s2 title="Introduction" page="0127"></s2>
+			<s2 title="Visual Examination" page="0127"></s2>
+			<s2 title="Chemical Analysis" page="0127"></s2>
+			<s2 title="Scanning Electron Microscopy" page="0128"></s2>
+			<s2 title="Metallography" page="0128"></s2>
+			<s2 title="Discussion" page="0128"></s2>
+		</s1>
+		<s1 title="Report of NIO" page="0141">
+			<s2 title="Introduction" page="0143"></s2>
+			<s2 title="Objectives" page="0143"></s2>
+			<s2 title="Sampling and Analysis" page="0143"></s2>
+			<s2 title="Results" page="0144"></s2>
+		</s1>
+		<s1 title="Report of NEERI" page="0151">
+			<s2 title="Introduction" page="0155"></s2>
+			<s2 title="Neeri&#x2019;s Participation" page="0155"></s2>
+			<s2 title="Manufacturing Processes" page="0155"></s2>
+			<s2 title="Physico-Chemical and Toxicological Properties of MIC" page="0156"></s2>
+			<s2 title="Analytical Methods and Studies for MIC, Primary and Secondary Amines" page="0157"></s2>
+			<s2 title="Monitoring of Water Quality" page="0158"></s2>
+			<s2 title="Monitoring of Air" page="0160"></s2>
+			<s2 title="Monitoring of Soils" page="0161"></s2>
+			<s2 title="Climatological Study and Weather Report" page="0162"></s2>
+			<s2 title="Environmental Aspects of Chemical Accidents" page="0163"></s2>
+			<s2 title="Conclusion" page="0165"></s2>
+			<s2 title="Annexure 1" page="0166"></s2>
+			<s2 title="Annexure 2" page="0167"></s2>
+			<s2 title="Annexure 3" page="0171"></s2>
+			<s2 title="Annexure 4" page="0175"></s2>
+			<s2 title="Annexure 5" page="0176"></s2>
+			<s2 title="Annexure 6" page="0179"></s2>
+			<s2 title="Annexure 7" page="0181"></s2>
+			<s2 title="Annexure 8" page="0182"></s2>
+			<s2 title="Annexure 9" page="0184"></s2>
+			<s2 title="Annexure 10" page="0186"></s2>
+			<s2 title="Annexure 11" page="0191"></s2>
+		</s1>
+		<s1 title="Report of ITRC" page="0195">
+			<s2 title="List of Participants" page="0199"></s2>
+			<s2 title="Introduction" page="0203"></s2>
+			<s2 title="General Characteristics of the Subjects" page="0206"></s2>
+			<s2 title="Symptomatology" page="0212"></s2>
+			<s2 title="Clinical Findings" page="0215"></s2>
+			<s2 title="Lung Function Studies" page="0216"></s2>
+			<s2 title="Radiological Studies" page="0244"></s2>
+			<s2 title="Haematological Studies" page="0250"></s2>
+			<s2 title="Biochemical Studies" page="0259"></s2>
+			<s2 title="Immunological Studies" page="0265"></s2>
+			<s2 title="Chromosomal Studies" page="0269"></s2>
+			<s2 title="Behavioural-Psychological Studies" page="0272"></s2>
+			<s2 title="Case Reports" page="0281"></s2>
+			<s2 title="Discussion" page="0284"></s2>
+			<s2 title="Acknowledgements" page="0287"></s2>
+			<s2 title="Bibliography" page="0288"></s2>
+			<s2 title="Appendix" page="0302">
+				<s3 title="Chemistry and Toxicology of MIC" page="0300"></s3>
+				<s3 title="Procedures for the Determination of MIC in the Environment" page="0303"></s3>
+				<s3 title="Toxicity of MIC" page="0305"></s3>
+			</s2>
+		</s1>
+	</book>
+	<book code="03" btitle="Report of the Expert Committee on Atmospheric Environmental Quality and Preservation of Taj Mahal and Agra Monuments">
+		<s1 title="Historical Background" page="0003"></s1>
+		<s1 title="Further Developments" page="0004"></s1>
+		<s1 title="Review of Taj Trapezium" page="0005"></s1>
+		<s1 title="Standards and Guidelines for Emissions and Air Quality" page="0005"></s1>
+		<s1 title="Public Interest Legal Action" page="0006"></s1>
+		<s1 title="Appointment of Expert Committee" page="0007"></s1>
+		<s1 title="Factors Concerning Atmospheric Environmental Quality and Preservation of Monuments" page="0009"></s1>
+		<s1 title="Assistance from Experts" page="0010"></s1>
+		<s1 title="Structure of the Report" page="0010"></s1>
+		<s1 title="State of Monuments and Changes During the Last 50 Years" page="0011"></s1>
+		<s1 title="Ambient Air Quality in the Trapezium" page="0016"></s1>
+		<s1 title="Energy Forms Availability and Utilisation" page="0025"></s1>
+		<s1 title="Technologies for Clean and Safe Operations" page="0029"></s1>
+		<s1 title="Plans of Major Producers, Suppliers and Consumers of Energy in the Short Term of 18 Months and Medium Term of 5 Years" page="0031">
+			<s2 title="Electrical Power Supply" page="0031"></s2>
+			<s2 title="Green Approach and Ten Point Initiatives" page="0032"></s2>
+			<s2 title="Mathura Refinery" page="0032"></s2>
+			<s2 title="Supply of Cleaner Fuels" page="0033"></s2>
+		</s1>
+		<s1 title="Industries in Agra" page="0034"></s1>
+		<s1 title="Others:" page="0035">
+			<s2 title="Brick Kilns" page="0035"></s2>
+			<s2 title="Commercial Establishments" page="0036"></s2>
+			<s2 title="Industries at Ferozabad" page="0036"></s2>
+		</s1>
+		<s1 title="General Considerations" page="0037"></s1>
+		<s1 title="Acknowledgements" page="0039"></s1>
+		<s1 title="Annexure I" page="0040"></s1>
+		<s1 title="Annexure II" page="0047"></s1>
+		<s1 title="Annexure III" page="0049"></s1>
+		<s1 title="Annexure IV" page="0040"></s1>
+		<s1 title="Annexure V" page="0057"></s1>
+		<s1 title="Annexure VI" page="0060"></s1>
+		<s1 title="Annexure VII" page="0062"></s1>
+		<s1 title="Annexure VIII" page="0096"></s1>
+		<s1 title="Annexure IX-A" page="0112"></s1>
+		<s1 title="Annexure IX-B" page="0113"></s1>
+		<s1 title="Annexure X-A" page="0118"></s1>
+		<s1 title="Annexure X-B" page="0120"></s1>
+		<s1 title="Annexure XI" page="0123"></s1>
+		<s1 title="Annexure XII" page="0130"></s1>
+		<s1 title="Annexure XIII" page="0133"></s1>
+		<s1 title="Annexure XIV" page="0137"></s1>
+	</book>
+	<book code="04" btitle="Report of the Expert Committee on the Environmental Impact of Mathura Refinery">
+		<s1 title="Introduction" page="0005"></s1>
+		<s1 title="Activities of the Committee" page="0006"></s1>
+		<s1 title="Observations by the Committee" page="0008">
+			<s2 title="Studies by NEERI" page="0008"></s2>
+			<s2 title="Comparison of Existing Sulphur Dioxide Levels at Different Cities" page="0008"></s2>
+			<s2 title="Possible Sources of Pollution at Agra" page="0009"></s2>
+			<s2 title="Pollution Abatement Measures at the Refinery" page="0009"></s2>
+			<s2 title="Studies on the Dispersal of Pollutants from the Refinery" page="0010"></s2>
+			<s2 title="Study of the Present State of Preservation of Monuments (Studies by Tecneco)" page="0011"></s2>
+			<s2 title="Studies in Respect of Effect of the Refinery Effluents on Bharatpur Bird Sanctuary" page="0011"></s2>
+			<s2 title="Indigenous Capabilities for Studie" page="0011"></s2>
+		</s1>
+		<s1 title="Conclusions" page="0013"></s1>
+		<s1 title="Recommendations" page="0014"></s1>
+		<s1 title="Annexures" page="0016">
+			<s2 title="Ministry of Petroleum and Chemicals" page="0016"></s2>
+			<s2 title="Ministry of Petroleum" page="0017"></s2>
+			<s2 title="List of Participants" page="0018"></s2>
+			<s2 title="List of Agenda Items Considered by the Committee" page="0020"></s2>
+			<s2 title="Baseline Air Quality Survey at Agra" page="0022"></s2>
+			<s2 title="Note on Salient Features of the Proposed Mathura Refinery, Effluents and their Treatment" page="0043"></s2>
+			<s2 title="Details of Additional Cost on Account of Pollution Abatement Measures Adopted by IOC" page="0050"></s2>
+			<s2 title="Report on The Dispersal of Pollutants from a Refinery Stack" page="0051"></s2>
+			<s2 title="Summary of the First and Second Report on the Studies for the Preservation of Monumenis from Mathura Refinery Air Pollution Made by M/s. Tecneco" page="0086"></s2>
+			<s2 title="Results of IMD Study on Dispersal of Pollutants from the Refinery Using Meteorological Data Collected at the Mathura Observatory" page="0088"></s2>
+			<s2 title="Summary of the Third and Final Report Made by M/s. Tecneco on the Studies for the Preservation of Monuments in Agra from Mathura Refinery Air Pollution" page="0089"></s2>
+			<s2 title="Bharatpur Bird Sanctuary Correspondence Exchange" page="0099"></s2>
+		</s1>
+	</book>
+	<book code="05" btitle="Draft Report of the State Level Advisory Committee Appointed by the Government of Gujarat to Identify Operation &amp; Maintenance Problems of Powerstations in Gujarat">
+		<s1 title="Introduction" page="0013">
+			<s2 title="Background of the Power Situation" page="0013"></s2>
+			<s2 title="Constitution of the Committee" page="0016"></s2>
+			<s2 title="Proceedings of the Committee" page="0018"></s2>
+			<s2 title="Methodoloty" page="0019"></s2>
+			<s2 title="Structure of the Report" page="0021"></s2>
+		</s1>
+		<s1 title="Review of Operating &amp; Maintenance Practices" page="0022">
+			<s2 title="Introduction" page="0022"></s2>
+			<s2 title="Commissioning Experience" page="0022"></s2>
+			<s2 title="Operating and Maintenance Practices" page="0023"></s2>
+			<s2 title="Review of Implementation of Earlier Committee Recommendations" page="0026"></s2>
+			<s2 title="Outage Analysis" page="0032"></s2>
+			<s2 title="Organisation of Maintenance" page="0033"></s2>
+		</s1>
+		<s1 title="Design &amp; Reliability of Equipment" page="0035">
+			<s2 title="Introduction" page="0035"></s2>
+			<s2 title="Design and Fabrication Defects Identified by GEB" page="0035"></s2>
+			<s2 title="Rajadhyaksha Committee Observations" page="0041"></s2>
+			<s2 title="Discussion with Chairman BHEL" page="0042"></s2>
+			<s2 title="Action to be taken by GEB" page="0045"></s2>
+		</s1>
+		<s1 title="Other Problem Areas" page="0049">
+			<s2 title="Analysis of Outages" page="0049"></s2>
+			<s2 title="Instrumentation and Controls" page="0051"></s2>
+			<s2 title="Spare Parts Management" page="0054"></s2>
+			<s2 title="Coal Quality" page="0058"></s2>
+			<s2 title="Rehabilitation Programme Undertaken by GEB on Indigenous Sets" page="0059"></s2>
+		</s1>
+		<s1 title="Human Resources Management" page="0061">
+			<s2 title="Introduction" page="0061"></s2>
+			<s2 title="Requirement Availability and Quality of Personnel at Power Stations" page="0061"></s2>
+			<s2 title="Recruitment" page="0064"></s2>
+			<s2 title="Training" page="0066"></s2>
+			<s2 title="Specialists" page="0069"></s2>
+			<s2 title="Performance Appraisal and Promotion Policies" page="0070"></s2>
+			<s2 title="Industrial Relations" page="0072"></s2>
+		</s1>
+		<s1 title="Organisation Structure and Financial Practices" page="0074">
+			<s2 title="Introduction" page="0074"></s2>
+			<s2 title="Changes needed in Organisation at Power Station" page="0074"></s2>
+			<s2 title="Performance Review" page="0078"></s2>
+			<s2 title="Organisation of the Board" page="0079"></s2>
+			<s2 title="Information Handling" page="0084"></s2>
+			<s2 title="Financial Practices" page="0085"></s2>
+		</s1>
+		<s1 title="Summary of Recommendations and Outlook for the Future" page="0087">
+			<s2 title="Summary of Recommendations" page="0087"></s2>
+			<s2 title="Review of Operating and Maintenance Practices" page="0087"></s2>
+			<s2 title="Design and Reliability of Equipment" page="0089"></s2>
+			<s2 title="Other Problem Areas" page="0091"></s2>
+			<s2 title="Human Resources Management" page="0093"></s2>
+			<s2 title="Organisation Structure and Financial Practices" page="0096"></s2>
+			<s2 title="Outlook for the Future" page="0099"></s2>
+		</s1>
+	</book>
+	<book code="06" btitle="Council of Scientific and Industrial Research Measures Taken at Bhopal">
+		<s1 title="Introduction" page="0002"></s1>
+		<s1 title="General Conditions in Bhopal" page="0002"></s1>
+		<s1 title="Action Taken" page="0003"></s1>
+		<s1 title="List of Scientists Who Participated in the Followup Actions at Bhopal after the UCIL accident in December, 1984" page="0012"></s1>
+	</book>
+	<book code="07" btitle="CSIR's Contribution to Understanding the Chemical Phenomena Leading to the Tragic Toxic Gas Leakage at the Union Carbide Pesticide Plant, Bhopal and Aftermath">
+		<s1 title="Preface" page="0006"></s1>
+		<s1 title="Introduction" page="0008"></s1>
+		<s1 title="Special Report - Bhopal (Reproduced from Chemical and Engineering News Vol 63 No. 48 Dec 1985 pp. 18-32)" page="0014"></s1>
+		<s1 title="Measures Taken at Bhopal by CSIR" page="0026"></s1>
+		<s1 title="Report on Scientific Studies on the Factors Related to Bhopal Toxic Gas Leakage" page="0038">
+			<s2 title="Introduction" page="0048">
+				<s3 title="The Bhopal Pesticides Plant" page="0048">
+					<s4 title="MIC Manufacturing Process" page="0048"></s4>
+					<s4 title="MIC Storage System" page="0049"></s4>
+					<s4 title="Vent Gas Scrubber" page="0052"></s4>
+					<s4 title="Flare Tower" page="0052"></s4>
+				</s3>
+				<s3 title="The Event" page="0052"></s3>
+				<s3 title="&#x2018;Operation Faith&#x2019;" page="0055"></s3>
+			</s2>
+			<s2 title="Examination of Tank 610 and its Contents" page="0060">
+				<s3 title="Sampling" page="0060">
+					<s4 title="Core Samples from the Manhole Nozzle" page="0060"></s4>
+					<s4 title="Samples from Tank Residue after Opening the Tank" page="0060"></s4>
+					<s4 title="Samples from Pipelines" page="0063"></s4>
+					<s4 title="MIC Samples from Tank 611" page="0063"></s4>
+					<s4 title="Metal Pieces Cut from Tank 610" page="0063"></s4>
+				</s3>
+				<s3 title="Chemical Analysis" page="0063">
+					<s4 title="Physical Appearance of Samples of Residue" page="0063"></s4>
+					<s4 title="Solubility Characteristics" page="0063"></s4>
+					<s4 title="Qualitative Analysis" page="0063"></s4>
+					<s4 title="Analytical Procedures" page="0064"></s4>
+					<s4 title="Analytical Results" page="0064"></s4>
+				</s3>
+			</s2>
+			<s2 title="Total Representative Sample of Residue and its Analysis" page="0064">
+				<s3 title="Product Distribution" page="0064"></s3>
+				<s3 title="Annexure" page="0073"></s3>
+			</s2>
+			<s2 title="Chemistry of Formation of Compounds in Tank 610" page="0080">
+				<s3 title="Experiments" page="0080"></s3>
+				<s3 title="Discussion" page="0081">
+					<s4 title="Material Balance" page="0082"></s4>
+				</s3>
+				<s3 title="Comments" page="0083"></s3>
+				<s3 title="Gaseous Products on Reaction of MIC" page="0083"></s3>
+				<s3 title="Annexure 3.1" page="0085"></s3>
+			</s2>
+			<s2 title="An Analysis of Design and Engineering Features" page="0092">
+				<s3 title="MIC and its Characteristics" page="0092"></s3>
+				<s3 title="Storage Tank" page="0092"></s3>
+				<s3 title="Nitrogen" page="0093"></s3>
+				<s3 title="Instrumentation and Control Systems" page="0093"></s3>
+				<s3 title="Refrigeration" page="0093"></s3>
+				<s3 title="Vent Gas Scrubber" page="0093"></s3>
+			</s2>
+			<s2 title="An Analysis of the Event" page="0096"></s2>
+		</s1>
+		<s1 title="Summary of Work Done by Constituent Laboratories of CSIR" page="0100"></s1>
+	</book>
+	<book code="08" btitle="Report of the Working Group on Research and Development in Public Sector Enterprises">
+		<s1 title="Introduction" page="0003"></s1>
+		<s1 title="Terms of Reference" page="0005"></s1>
+		<s1 title="Role of Research and Development" page="0008"></s1>
+		<s1 title="Establishment of RDD on a Sound Basis in Public Sector Units:" page="0009">
+			<s2 title="- Information Systems for Short Term RDD Goals" page="0010"></s2>
+			<s2 title="- Financial Management Information System" page="0010"></s2>
+			<s2 title="- Corporate Planning and Long Term RDD Goals" page="0010"></s2>
+			<s2 title="- Organisation of RDD in PSEs" page="0011"></s2>
+			<s2 title="- Coordination of RDD in Related Industries" page="0012"></s2>
+			<s2 title="- Research Council for the Public Sector" page="0012"></s2>
+			<s2 title="- RDD and Export" page="0013"></s2>
+			<s2 title="- RDD and Lead Compenies" page="0014"></s2>
+			<s2 title="- Capital Equipment for RDD" page="0014"></s2>
+		</s1>
+		<s1 title="Identification of Specific RDD Problems" page="0014"></s1>
+		<s1 title="Technological Standards" page="0015"></s1>
+		<s1 title="Cooperation with National Laboratories" page="0016"></s1>
+		<s1 title="Implementation of S &amp; T Plan of NCST" page="0017"></s1>
+		<s1 title="Extending Technological Assistance to Small Scale Entrepreneurs" page="0018"></s1>
+		<s1 title="Annexure I : Status of Projects Identified in the Draft S &amp; T Plan 1974-79 of NCST in -" page="0020">
+			<s2 title="Chemical Sector" page="0021"></s2>
+			<s2 title="Oil Sector" page="0032"></s2>
+			<s2 title="Metallurgical Sector" page="0044"></s2>
+			<s2 title="Heavy Electricals Sector" page="0053"></s2>
+			<s2 title="Heavy Engineering Sector" page="0059"></s2>
+		</s1>
+	</book>
+	<book code="09" btitle="Review of Estimates of Predictions of Atmospheric Environmental Quality at Taj Mahal and Agra Monuments">
+		<s1 title="Expert Committee on Atmospheric Environmental Quality and Preservatin of taj Mahal and Agra Monuments" page="0002"></s1>
+		<s1 title="State of Monuments and Marble in Trapezium" page="0025"></s1>
+		<s1 title="Technical Note Summary" page="0028"></s1>
+		<s1 title="National Environmental Engineering Research Institute Nehru Marg, Nagpur-440 020 : Pollution in Agra Region" page="0031"></s1>
+		<s1 title="Conservation of the California Building, San Diego, U.S.A. - A Case History" page="0044"></s1>
+		<s1 title="Pollutant Effects on Stone Monuments" page="0064"></s1>
+		<s1 title="A Study on Minerology and Microstructure of Building Material Components of Victoria Memorial Monument Calcutta" page="0069"></s1>
+		<s1 title="National Environmental Engineering Research Institute" page="0104"></s1>
+		<s1 title="Note : Harmonization Air Pollution Modlling in India" page="0107"></s1>
+		<s1 title="Air Pollution Studies to Redefine Taj Trapezium Coordinates" page="0113"></s1>
+		<s1 title="An Pollution by Industries in Taj Trapezium Zone (TTZ)" page="0130"></s1>
+		<s1 title="Technical Report : Issues Associated with Fuel Supply Alternatives for Industries in Agra-Mathura Region" page="0135"></s1>
+		<s1 title="List of Foundries Who Have Voluntered to Change to Divided Blast Cupola" page="0138"></s1>
+		<s1 title="Taj Trapezium Udyog Sangharsh Samiti, C-48, Foundry Nagar, Agra-262005 : Fax Message" page="0143"></s1>
+		<s1 title="Rapid Environmental Impact Assessment for Proposed Matching Secondary Processing Facilities of Mathura Refinery : U.P." page="0148"></s1>
+	</book>
+	<book code="10" btitle="Report of the Expert Committee on Atmospheric Environmental Quality and Preservation of Taj Mahal and Agra Monuments">
+		<s1 title="Note on Conservation of Taj Mahal (Complied by Jagat Pati Joshi, Former, DG, ASI)" page="0004">
+			<s2 title="History of Major Structural Conservation" page="0004"></s2>
+			<s2 title="Era of Environmental Threats &amp; Committees" page="0021"></s2>
+			<s2 title="Scientific Researches on Taj" page="0040"></s2>
+			<s2 title="Tourism and Taj" page="0045"></s2>
+			<s2 title="Appendices" page="0049">
+				<s3 title="Translation of Badshanama by Mullah Abdul Hamid" page="0049"></s3>
+				<s3 title="Translation from Mirat" page="0051"></s3>
+				<s3 title="Translation of a Letter from Aurangzeb to Shahjahan, Adab-i-Alamgiri, page 29" page="0053"></s3>
+				<s3 title="Extract from Report of J W Alexander Esquire, Executive Engineer, Agra Provincial Division, P.W.D. 1874" page="0055"></s3>
+				<s3 title="The Expanded Advisory Committee on the Restoration and Conservation of the Taj Mahal at Agra, 1943" page="0057"></s3>
+				<s3 title="The Committee to Examine the Taj Building 1956" page="0058"></s3>
+			</s2>
+			<s2 title="References" page="0059"></s2>
+		</s1>
+		<s1 title="The Agra Heritage Project Joint Blue Ribbon Panel, Notes and Observation Arising from Panel Deliberations, January 8-13, 1995" page="0066"></s1>
+		<s1 title="Ecological Situation and Conservation of Monuments in Agra and the Taj Trapizium Zone by Prof. Jaweed Ashraf, Jawaharlal Nehru University" page="0076">
+			<s2 title="Summary" page="0078"></s2>
+			<s2 title="Introduction" page="0079"></s2>
+			<s2 title="Consequences of Agro-Technological Changes in the Region" page="0080"></s2>
+			<s2 title="Gaseous Pollution in Agra and Industry" page="0082"></s2>
+			<s2 title="Sewage Processing in the Cities of TTZ" page="0083"></s2>
+			<s2 title="Should Industry be Permitted in TTZ?" page="0084"></s2>
+			<s2 title="Flood Lighting, light pollution and Ministry of Tourism" page="0086"></s2>
+			<s2 title="Flood Lighting, Light Pollution and Night View of Taj" page="0086"></s2>
+			<s2 title="Enhanced Damage Potential Due to Ministry of Tourism" page="0087"></s2>
+			<s2 title="Visual Situation of Agra Monuments Specifically of Taj Today" page="0088"></s2>
+			<s2 title="ASI and Blatant Violations of All Conservation Norms" page="0090"></s2>
+			<s2 title="Climatic Situation in TTZ" page="0091"></s2>
+			<s2 title="Gardens and Orchards Round Agra During Medieval Times" page="0092"></s2>
+			<s2 title="Vegetation in TTZ and Round Taj as Element of Monument Conservation" page="0093"></s2>
+			<s2 title="Microclimatic Situation Round Taj" page="0094"></s2>
+			<s2 title="Socio-Cultural Aspects of Taj During Medieval Times" page="0095"></s2>
+			<s2 title="Human and Animal Population of Medieval Agra" page="0096"></s2>
+			<s2 title="Need for Reviewing Conservation Norms" page="0098"></s2>
+			<s2 title="Role of City Administration and of the State Government" page="0099"></s2>
+			<s2 title="Specific Legislative Measures and their Coordination in TTZ" page="0100"></s2>
+			<s2 title="Suggested Measures for Pollution Control and Monument Conservation in Agra and in the TTZ" page="0101"></s2>
+			<s2 title="Annexure-A : Jaweed Ashraf, 1994, Ecological Conditions of Medieval Agra, Nat.Semin. On Environ.Pllut. &amp; Preserv. of Hist. Monum, New Delhi (in press)" page="0106"></s2>
+			<s2 title="Annexure-B : Jaweed Ashraf, 1994, Light, Sand and Thermal Damage to Archaeological Monuments, Nat.Sem. on Environ. Pollut. &amp; Preserv. of Hist. Monum. New Delhi (in press)" page="0118"></s2>
+			<s2 title="Annexure-C : Jaweed Ashraf, 1991, Concept of Forest in Kautilya and its Significance for Emergence of Land Use Pattern in India, in Human Habitation: Culture Environment Interface (Ed. S.K.Chandhok), Delhi, p.65-70" page="0144"></s2>
+			<s2 title="Annexure-D : Jaweed Ashraf, 1982, Changing Distribution of Wild Animals Between 16th and 19th Centuries and its Significance for the Dynamic of Ecological Changes in Medieval Hindustan, The Geographer, vol.XXIX, No. 2, pp. 53-62." page="0144"></s2>
+		</s1>
+		<s1 title="Holistic Approach to Protection of Taj Mahal, Prof. S. C. Pandeya" page="0144"></s1>
+		<s1 title="Bibliography" page="0144"></s1>
+	</book>
+	<book code="11" btitle="Innovatre India">
+		<s1 title="Total Technology Development and Delivery" page="0001">
+			<s2 title="Scientific Equipment" page="0002"></s2>
+			<s2 title="Oil Exploration" page="0002"></s2>
+			<s2 title="Catalysts" page="0003"></s2>
+			<s2 title="Milk Revolution" page="0003"></s2>
+			<s2 title="Detailed Engineering" page="0004"></s2>
+			<s2 title="Malaviya's Role" page="0004"></s2>
+			<s2 title="Cracker" page="0005"></s2>
+			<s2 title="Separation Process" page="0005"></s2>
+			<s2 title="Blood Bags" page="0006"></s2>
+			<s2 title="State Support" page="0006"></s2>
+		</s1>
+	</book>
+</ias_books>

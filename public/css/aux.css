@@ -1,0 +1,108 @@
+/*Enable this if secondary (submenu) is required in the navbar*/
+
+/*.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left:-1px;
+    -webkit-border-radius:0 6px 6px 6px;
+    -moz-border-radius:0 6px 6px 6px;
+    border-radius:0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display:block;
+}
+.dropdown-submenu>a:after {
+    display:block;
+    content:" ";
+    float:right;
+    width:0;
+    height:0;
+    border-color:transparent;
+    border-style:solid;
+    border-width:5px 0 5px 5px;
+    border-left-color:#cccccc;
+    margin-top:5px;
+    margin-right:-10px;
+}
+.dropdown-submenu:hover>a:after {
+    border-left-color:#ffffff;
+}
+.dropdown-submenu.pull-left {
+    float:none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+}
+.navbar-nav .dropdown-menu .dropdown-menu {
+    left: calc(100% + 2px);
+    border: 1px solid #E8E8E8;
+    border-left: 1px solid #6A737E;
+    min-width: 190px;
+    border-radius: 0px;
+}*/
+
+
+/*Enable if on-hover class is required for outline buttons*/
+/*.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: #eee;
+    border-color: #eee;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: #eee;
+    color: #eee;
+    box-shadow: none;
+}*/
+
+/*Custom search engine styles*/
+
+.gsc-control-cse{
+    background: none !important;
+    border: none !important;
+    margin-bottom: 30px;
+}
+.gsc-input-box{
+    height: 30px !important;
+}
+.gsc-input{
+    font-size: 14px !important;
+    color: #777 !important;
+    font-weight: 400 !important;
+    font-family: 'Open Sans', sans-serif !important;
+    margin-top: 10px;
+    background: none !important;
+}
+.gsc-search-box, .gsc-input>input:focus, .gsc-input-box-focus, .gsc-input-box-hover{
+    box-shadow: none !important;
+}
+.gsst_a .gscb_a{
+    margin-top: 6px !important;
+}
+.gsib_a{
+    padding: 4px 6px 2px !important;
+}
+.gsc-search-button{
+    width: 71px !important;
+    height: 30px !important;
+
+    /*padding: 0px !important;*/
+}
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus{
+    border: none !important;
+}
+input.gsc-search-button-v2{
+    margin-top: 4px !important;
+}
+.gsc-selected-option-container{
+    padding-right: 68px !important;
+}
+.push-down{
+    padding-top: 90px;
+}
