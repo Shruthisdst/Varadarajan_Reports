@@ -10,7 +10,7 @@ class viewHelper extends View {
 
         $articleCount = count($data);
         echo $articleCount;
-        echo ($articleCount > 1) ? ' articles' : ' article';
+        echo ($articleCount > 1) ? ' Pages' : ' Page';
     }
 
     public function displayAllJournalsSearchCount($data = array()) {

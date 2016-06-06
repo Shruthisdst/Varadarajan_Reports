@@ -28,6 +28,13 @@
 	padding-bottom: 20px;
 	border-bottom: 1px solid rgba( 0, 0, 0, 0.05 );
 }
+.main-title {
+	color: #636363;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 20px;
+	margin: 0 0 15px 0;
+}
 .title-median {
 	color: #636363;
 	font-size: 15px;

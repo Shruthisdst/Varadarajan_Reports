@@ -7,7 +7,7 @@
                 <ul class="list-unstyled clear-margins"><!-- widgets -->
                     <li class="widget-container widget_recent_news"><!-- widgets list -->
                         <div class="recent-news-text clear-margins">
-							<h1 class="title-median">Varadarajan Books</h1>
+							<h1 class="main-title">Introduction</h1><hr />
 							<div class="recent-news-meta">&nbsp;</div>
 							<p class="gap-below">Founded in 1934 by Sir C V Raman the Indian Academy of Sciences, Bangalore was registered as a Society on 27 April 1934 with the main objective of promoting the progress and upholding the cause of science. The Academy began functioning with 65 Founding Fellows and the formal inauguration took place at the Indian Institute of Science.</p>
                             <p class="gap-below">On the same afternoon its first general meeting of Fellows was held during which Sir C V Raman was elected President and the draft resolution of the Academy was adopted.</p>

@@ -31,6 +31,7 @@ foreach($data as $row) {
 			<span class="journal-article-meta-feature">Report <?=$viewHelper->displayBcode($row->bcode)?></span>
 		</p>
 		<p class="journal-article-list-title"><?=$row->btitle?></p>
+			<span class="journal-article-subtitle">Pages : </span>
 <?php
 $temp = $row->btitle;
 }
