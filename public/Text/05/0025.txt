@@ -1,0 +1,37 @@
+-14-
+
+2.3.5
+
+An annual schedule of preventive maintenance is prepared
+but the power stations are not able to adhere to this schedule because of frequent unscheduled outages. Some of the
+pending maintenance tasks are performed during such unscheduled outages. The sets, by and large, are made available
+when scheduled for maintenance. At times, shortages of
+spare parts has resulted in a delay in the maintenance schedule. But the spares position is now improving.
+
+2.3.6
+
+The suppliers of equipments have given only general guide
+lines On maintenance. However
+
+G.E~B.
+
+prepares its own ma-
+
+intenance schedules based on past experience.
+2.3.7
+
+The targets for completion of maintenance works are set,
+but because of unexpected repairs or other difficulties,
+they are usually delayed. As against the norm of 4 weeks
+for boiler overhaul, and 80 days for turbogenerator overhaul, the recent experience in G.E.B. has been 30 to 40
+days for boilers and 115 to 125 days for turbogenerators.
+The delays are due to several reasons. Poor finish of the
+bolts are said to cause delays in opening up the sets. When
+unexpected problems arise, the BHEL personnel at site
+being too junior have to refer problems to their head office
+and delays result. Incorrect or inadequate clearances and
+warping due to manufacturing defect or operations at uneven temperatures result in additional problems. Even where
+the capacity of sets are identical, many parts are not
+interchangeable and considerable time is taken in modification of such parts.
+
+

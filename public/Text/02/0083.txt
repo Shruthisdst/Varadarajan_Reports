@@ -1,0 +1,166 @@
+TYPE *,'Initial
+
+*,
+
+gUESS
+
+values
+
+~r~:
+
+(3") .::
+\'0 (3) , ' T I NE= ' ,RO
+'Initlal guess values are:'
+WRITE(2,il) 'YO(l)=' ,YO(1), 'YO(2).::' ,YO(2), 'YO(:::)=' ,YO(3), 'TlI'1E=' ,RO
+
+T't'F'E
+
+"t (I ( 1 ) == ' , YO J 1 ) , 'YO ( :::) .:: ' , YO (::) , ' YO
+
+I
+
+,
+
+WRITE(~,*)
+
+WRITE(2,*) 'B=',B, 'RFC02=',RF, 'VARCO~=',VARCO~, ·VARTRIM~',VARTRM
+WRITE(2,*) 'XO,CO~MOL,Y(2),Y(3),PCO:::,TOTP,~P,AALEAK,RC02T,AVOL,RCHTl
+1,RCMT,SRMMA,Y1MIC,"VICHCL"CHCL3,XCHCL3'
+Y ( 1)
+
+Y(2)
+
+= YO (1)
+= YO(3)
+
+= YO(2)
+
+Y(3)
+F(l) = Y(l)
+
+F(2) = Y(2)
+F(3) .:: Y(3)
+
+25
+
+GOTO 140
+XO = RO
+F(l) = EON1(Y)
+F(2)
+
+=
+
+=
+
+EON2(Y)
+
+140
+
+F(3)
+EQN::;(Y)
+DO 10 J
+1,N
+
+10
+
+CONTINUE
+
+=
+
+S(J) = V(J)
+P(J) = F(J)
+V(J) = S(J)+O.5*H*F(J)
+
+= RO+H/2.0
+
+XO
+F ( 1)
+
+= EON1 ey)
+
+F(2)
+F(3)
+
+EON2(Y)
+EON3(Y)
+
+=
+=
+
+DO 20 J
+
+P(J)
+V(J)
+20
+
+=
+
+1,N
+
+= P(J)+2.0*F(J)
+
+= S(J)+O.5~H*F(J)
+
+CONTINUE
+F ( 1) = EON 1 (V)
+F(2)
+
+= EON2(V)
+
+F(3) = EQN3(V)
+
+= I.N
+= P(J)+2.0*F<J)
+
+DO 30 J
+
+P(J)
+
+30
+
+VeJ) = S(J)+H*F(J)
+CONTINUE
+XO ::: RO+H
+
+F(1)
+F(2)
+
+40
+
+c
+c
+c
+c
+
+= EQN1(V)
+
+= EQN~('i'}
+F (3) = EQN3 en
+DO 40 J = 1,N
+V(~) = S(J)+(P(J)+F(J).H/b.O
+CO:-ITINUE
+N5 = NS+l
+
+NI0 = t10n (N5, N7)
+AALEAft IS THE CUI1ULATIVE OF
+
+ALEAJ~
+
+ALEAJ< IS THE LEAl<.
+
+(VAPORS + ENTRoAINt1ENT) IN O. 005HRS. (STEP SI ZEi
+AVOL IS THE THE AVAILABLE VOLUME FOR THE V~POR8
+PC02 IS THE P~ESSURE DUE TO CO~ (Al~.)
+VPR
+IS THE V;';POR PRES3Uf\.E DUE TO t'1LC (ATi1.)
+AALEA~
+
+=(
+
+ALEA~*O.005~57.C/(1.241000.0»+AALEAk
+
+AVOL=2000C.+(RCO~T*VARC02/1000.)X(57./1.2)+AALEAK
+
+85
+
+

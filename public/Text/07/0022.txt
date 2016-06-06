@@ -1,0 +1,206 @@
+,..
+
+I
+
+Proposed mechanism for generation of cyanide in the body after exposure to MIC
+
+fa
+
++
+
+O=C=N-CH3
+
+H
+H
+I ,h~ I
+Hb-N
+.• -C -N-CH
+U.
+!J
+
+•
+
+MIC
+
+H
+H
+I
+I
+
+N-Methylcarbamoyl
+hemoglobin
+
+H
+I
+
++
+
+Hb-N -C-N=CH
+·U I V
+
+H
+I
+
++
+
+/
+
+Hb-N-C=N=C
+.. V
+C\
+
+H
+
+H
+
+H H
+I
+
+I
+
+Hb-N=C
+
++
+
+I
+H
+
+!
++
+
+H
+
+(Series of tautomeric shifts)
+
+:N=CH
+
+!
+
+Physiologic pH
+
+Hb = Hemoglobin
+= Adenosine
+monophosphale
+
+AMP
+
+ATP = Adenosine
+Irlphosphate
+
+-eN + H+
+
+AlP
+
+~
+
+.
+
+H~AMP
+,. ,)
+
+Hb-N-C=N-CH
+••
+~.
+3
+Activated
+adenylyl hemoglobin
+
+H
+
+!
+
+H
+
+I
++ I
+Hb-N-~ N~?-H
+H
+
+0'
+
+'n thIs scheme, the N-termlnal ends
+hemoglobIn would react wid,
+methyl Isocyanate to produce Ule N-methylcarbamoyl hemoglobin. That
+product would react with the adenylyl group at adenosine triphosphate
+(AlP) 10 generate activated adenyl)'1 hemoglobin. Following elimination
+of adenosine monophosphate (AMP), a series
+tautomerIc shirts
+would result In the splitting oil of hydrogen cyanide, whIch Ionizes at
+phYSiologIc pH. The liberated cyanide Ion would bind
+hemoglobin.
+cytochrome oxidase, and other physiologically critical enzymes, Ihus
+ravorlng equilibrium toward hydrogen cyanide production
+
+0'
+
+'0
+
+Source: Harold Teague, Pembroke State University
+
+from Madhya Pradesh authorities, broke into thiosulfate dispensaries run by volunteer phYSicians, arrested
+them, and confiscated the thiosulfate supplies.
+liThe cyanide issue is important not merely for its
+biomedical/toxicological aspects," declares morcha leader Sadgopal, a biochemist who received a Ph.D. in
+1968 from California Institute of Technology under
+James Bonner. liThe real importance lies in the legal
+ramifications. To us it is important because a serious
+attempt would be made by Carbide lawyers to establish that a large portion of the lung damage can be
+explained by such things as endemic tuberculosis. It is
+at this point that the issue of cyanide toxicity would
+become crucial because if you can establish that so
+many thousands of people received clinical benefit
+from sodium thiosulfate injections and you have a
+clinical record, then you have established that they
+were suffering from cyanide or cyanide like toxicity. If
+sodium thiosulfate gives relief, it is a specific antidote
+and its effect is shown by a specific chemical urine
+test for thiocyanate. High levels of it in urine would
+measure the amount of exposure."
+What Sadgopal did manage to do, with the legal
+help of a Bombay activist lawyer, Indira Jaisingh, was
+to win an order by the chief justice of the Indian
+Supreme Court. The chief justice instructed the Madhya
+Pradesh government to allow the distribution of thiosulfate to volunteer groups, like the People's Medical
+Center, to continue their treatment. Sadgopal says his
+case was strengthened by Heeresh Chandra, chief
+pathologist at Gandhi Medical College in Bhopal.
+Chandra had been one of the first to detect symptoms
+of cyanide poisoning and to this day continues to
+insist that cyanide is still being generated in patients
+and that thio3ulfate therapy is useful. What helped,
+too, were the March recommendations in favor of
+thiosulfate by Ramalingaswami's ICMR, which Madhya
+December 2. 1985 C&EN
+
+Pradesh phYSiCians refused to a:ct upon. In a development last month, Sadgopal and Jaisingh also convinced the chief justice to appoint Sadgopal and forensic scientist Chandra to a seven-member committee with direct oversight over the entire clinical
+program in Bhopal.
+The cyanide issue, scientifically speaking, appears
+to have two aspects. One is direct exposure, which
+could have occurred during the first hours in the
+areas closest to the plant. The technical book on this
+one is closed, although the mystery of why exposure
+was so vehemently denied by officialdom isn't. The
+second aspect is indirect exposure owing to unusual
+generation of toxic amounts of hydrogen cyanide in
+the body after exposure to MIC.
+"The way the ICMR scientists have explained the
+mechanism of cyanide generation makes some sense,"
+says biochemist Sadgopal. "That is the concept of the
+body's cyanogen pool generating cyanidelike radicals
+continuously in the bloodstream. When released, they
+could hook onto the hemoglobin, or to some other
+enzyme, or to cytochrome oxidase (a key respiratory
+enzyme). They could either block the respiratory system at the cellular !-evel or modulate the behavior of
+the hemoglobin in releasing or carrying oxygen.
+"Now, the sources that feed into the hypothetical
+cyanogen pool could be many. One possibility could
+be MIC linked to a peptide or amino acid, which is
+gradually hydrolyzed by enzyme action. Then MIC
+could be converted into thioisocyanate by the transfer
+of sulfur from thiosulfate. Thioisocyanate existing in
+equilibrium with thiocyanate is one possibility."
+The scheme, though general, does make some hy.
+pothetical biochemical sense. MIC binds to hemoglobin in a carbamylation reaction. That binding was a
+common clinical observation at Bhopal. (The isocyanatehemoglobin reaction is used to some advantage
+
+

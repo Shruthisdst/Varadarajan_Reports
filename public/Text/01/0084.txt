@@ -1,0 +1,80 @@
+'.3
+
+Nitrogen :
+MIC is kept under a p-esare of nitrogen which is supplied by a carbon
+
+steel header common to all the storage tanks.
+nitrogen line.
+
+There is a strainer in the
+
+Subsequent to the strainer the pipe is of carbon steel and
+
+leads to make-up DMV which also has a body of carbon steel.
+the blowdown DMV is also of carbon steel body.
+
+Similarly,
+
+These carbon steel parts
+
+may be exposed to MIC vapours and get corroded, providing a source of
+contaminant which can enter the MIC storage tank.
+The level in MIC tank is measured by purging of nitrogen.
+
+The
+
+~
+
+header supplying this nitrogen' is made of carbon steel and the connection
+from the manifold to the level instrument is by a copper tube.
+
+There is
+
+no strainer or filter in this line which can prevent entry of rust or metaHic
+particle entering the tank along with nitrogen •
+•A
+
+Instrumentation and Control System:
+
+The pressure in the MIC tank increases rapidly if MIC is contaminated with water.
+
+There is no high pressure alarm to alert the operator
+
+about the build-up of pressure.
+There is a 'graphite rupture disc between the tank and the safety
+valve.
+
+This graphite rupture disc may break because of pressure surges
+
+even under normal conditions.
+
+There is no provision for an alarm to bring
+
+such a breakage of rupture disc to the attention of the operator.
+For the storage of a lethal chemical such as MIC, two instruments
+in paraJlel (one for control/indication and another for alarm) are normally
+
+provided.
+
+No such provision is made.
+
+For example, quite often the level
+
+readings have not been recorded, reportedly because the level system used
+to be out of order very often due to choking problems. In fact, after the
+event, since the only level monitoring system provided for tank 611 was
+not functioning, it was not possible to ascertain the exact quantity of MIC
+in that tank.
+
+An additional level measuring system would have helped
+
+In
+
+such a situation.
+Ingress of contaminants or water can start a reaction with MIC
+
+which will begin slowly and produce a rise in temperature of the tank contents.
+
+73
+
+

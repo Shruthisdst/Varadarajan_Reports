@@ -1,0 +1,54 @@
+NEGLIGENCE
+
+1. Relief valve vent header and process vent
+header should not have been interconnected.
+This interconnection increased the possibility of water entering MIC tanks. It is well
+known that MIC reacts violently with water.
+2. Relief valve vent header should not have
+been flooded with water.
+3. The 6" CI valve located on RVVH near
+phosgene vaporiser should have been slip
+blinded before admitting water through a
+hose
+this is required as per the maintenance manual. This is also essential to avoid
+water entering the R VVH which is also
+connected to MIC tanks 610, 611 and 619.
+D
+
+7. Detailed hazard management procedures are
+neither available nor followed to cope with
+sudden and large releases of MIC stored in
+tank farm.
+8. No effective steps for mitigating the impending disaster were taken although pressure in
+tank 610 started rising 2-3 hours before MIC
+release. At 2220 hrs pressure had gone 10
+psig (normal pressure = 2 psig). MIC release
+occurred after 0015 hr.
+9. Civil authorities were not informed of the
+impending disaster whereby preventing them
+from taking necessary steps between 22 20
+and 00 15 hours before MIC was actually
+released.
+
+4. Vent gas scrubber and flare were not in 10. After the disaster appropriate medical
+treatment could not be provided because
+operation.
+no information was made available.
+5. Analysis of residue in tank 610 shows 11. There is no monitoring method for knowing
+presence of large quantities of hydrolizable
+whether water has entered or is entering
+MIC tank.
+chlorides indicating the off-spec. MIC must
+have been charged into this without knowing
+the consequences.
+12. What was the time lag between release of
+MIC and actual reporting to civil authorities?
+6. Scrubber and flare should not have been
+taken down for maintenance as long as huge
+quantity of MIC was stored in tank farm.
+G. Thyagarajan
+Hyd erabad , 22-11-85
+
+126
+
+

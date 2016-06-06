@@ -1,0 +1,202 @@
+ANOVA
+B.W.
+Sources of variation
+
+D.F.
+
+TABLE-2,a}
+table or perceptual motor speed tests
+
+Vigilanc~
+
+Digit Symbol Test
+
+Tpst
+
+10.58···
+
+131.790
+
+M.S.
+
+F
+
+2
+
+55.74
+
+0.325 (NS)
+
+371
+
+1394.045
+
+387
+
+Within group
+
+F
+
+2
+
+Between group
+
+M.S.
+
+171.580
+
+D.F.
+
+TABLE-2(b)
+Table or meaDS aDd te.~ or significance or difFereDt comparisons
+Character
+
+Group
+
+Size
+
+Mean
+
+SO
+
+Vigilance
+
+Control
+
+100
+
+51.00
+
+8.06
+
+Exposed
+
+290
+
+44.88
+
+M'ale
+
+155
+
+Female
+
+Comparisons
+
+l':I
+
+Diff. of
+means
+
+SE (0)
+
+t
+
+Level of
+significance
+
+-..::a
+
+\0
+
+Digit Symb.ol Control
+Test
+Exposed
+
+Male
+Female
+
+'II • •
+
+Control vs Exposed
+
+6.12
+
+1.3313
+
+4.597
+
+•••
+
+12.42
+
+Control vs Male
+
+6.26
+
+1.4725
+
+4.251
+
+•••
+
+44.74
+
+12.10
+
+Control vs Female
+
+5.95
+
+1.5146
+
+3.928
+
+•••
+
+135
+
+45.05
+
+12.82
+
+Male vs Female
+
+0.31
+
+1.3515
+
+0.229
+
+(NS)
+
+100
+
+44.52
+
+12.85
+
+Control vs Exposed
+
+274
+
+43.37
+
+13.17
+
+Control vs Male
+
+157
+
+43.57
+
+13.37
+
+Control vs Female
+
+117
+
+43.11
+
+12.94
+
+Male vs Female
+
+significant at p<0.001
+(NS) = Not significant
+
+(NS)
+
+(NS)
+
+

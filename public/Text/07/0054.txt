@@ -1,0 +1,68 @@
+tank 610 dropped to 0.25 kg/cm 2g abnormally
+and the material in tank 610 continued to be
+under a low pressure of 0.1 - 0.25 kg/cm 2g
+from 22nd October onwards. Recording of
+such low values is not an indication of any
+positive nitrogen pressure and denotes the
+tank contents were also nearly at atmospheric
+pressure.
+
+branch of R VVH on the downstream side of
+regeneration gas cooler Pressure Safety Valve
+(PSV). They also noticed that the PSV had
+been removed and the open end of R VVH
+branch line was not blinded. Around 00.00
+hours on 3rd December, the operators went
+to the control room and informed the plant
+superintendent and the supervisor that there
+was a MIC leak. They were advised to spray
+The nitrogen pressure in the MIC storage water around the point of leakage.
+tank is also utilised to transfer MIC from the
+storage tank to the Sevin unit. As liquid maAt around 00.15 hours, when the control
+terial is transferred, the gas pressure in the room operator was informed of the MIC leakage,
+tank will show a gradual reduction. When the he observed on the Pressure Indicator (PI)
+pressure in the tank drops to a considerably in the control room that the pressure in the
+low value, the rate of transfer of MIC from tank 610 was shooting up and it was in the
+the storage tank to the Sevin unit, would range of 25 - 30 psig.
+become low. The tank would need to be pressurised again to a higher value by admitting
+Between 00.15 and 00.30 hours, PI of
+high purity nitrogen into the tank.
+tank showed a reading beyond the maximum
+of the scale, i.e. higher than 55 psig.
+From 22nd October to 30th November,
+tank 610 was under nearly atmospheric preThe control room operator went to the
+ssure. No transfer of liquid MIC for Sevin storage area and heard a hissing sound from
+manufacture took place from tank 610. During the Safety Relief Valve (SRV) downstream
+that period MIC was being transferred from line, implying that SR V had popped off. He
+tank 611 to the Sevin unit, whenever required. also noticed that the local temperature and
+However, during the 30th November first pressure transmitters on the tank were indicatshift, there were some problems in the pre- ing beyond their ranges (i.e. +250 C and 55 psig).
+ssurisation system of tank 611 and the pressure
+could not be increased. Therefore, attempts
+At this point, the operator rushed back to
+were made to pressurise tank 610 and transfer the control room and started the vas circuMIC from that tank to the Sevin Unit, but lation pump from the control room. He, howeit could not be pressurised. In the meantime, ever, observed that the flow indicator in the
+alternative system for pressurising tank 611 control room did not show any circulation of
+was made and then it could be pressurised. the caustic soda solution through VGS. In the
+Transfer of MIC to the Sevin unit was then meantime, a gaseous cloud was seen to be
+continued from the tank 611.
+coming out from the stack by the field operator. Reportedly, the siren was sounded around
+In the second shift of 1st December (14.45 00.30 hours, and the plant personnel were
+hours to 22.45 hours) attempts were made alerted about the MIC leakage.
+once again to pressurise tank 610. However,
+this could not be accomplished to any signiFrom around 01.00 hours, water was spraficant extent. No further efforts to pressurise yed on the MIC structure, but reportedly, it
+tank 610 were made.
+did not reach the top of the stack from where
+the gases were coming out.
+On 2nd December, the first leak of MIC
+was noticed at 23.30 hours in the MIC structure
+Around 03.00 hours, the SRV of tank &10
+area (MIC production facility) near VGS. The is reported to have sat back and the gas also
+operators on the ground level in this area ini- stopped coming out from the stack.
+tially noticed some dirty water spilling from a
+Gas that had escaped into the atmosphere
+higher level in the MIC structure. They also
+felt the presence of MIC in the atmosphere due got condensed in contact with the cold air
+to irritation of their eyes. They went up the and due to atmospheric inversion phenomenon,
+stairs in the MIC structure and noticed that settled down slowly on the ground. It then
+MIC and dirty water were coming out of a evaporated and spread in the atmosphere gra47
+
+

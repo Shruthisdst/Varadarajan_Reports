@@ -1,0 +1,55 @@
+TABLE A-2.2
+RETENTION TIME OF DIFFERENT COMPOUNDS ON
+OV-210 + OV-17 396 W/W COLUMN
+
+51. No.
+
+Compound
+
+1.
+
+TMU
+
+1.42
+
+2.
+
+DMU
+
+1.78
+
+3.
+
+MICT
+
+5.55
+
+4:
+
+TRMB
+
+6.04
+
+5.
+
+TMB
+
+6.66
+
+6.
+
+OMI
+
+8.32
+
+7.
+
+Dione
+
+Retention time, min
+
+10.80
+
+(Conditions as given on page 44).
+
+

@@ -1,0 +1,113 @@
+where A IS heat loss due to vaporisation of volatiles.
+
+these vapours and the carbondlOxide gas. The
+integration is continued untIl the time the
+system reaches a pressure of 40 psi where the
+valve is assumed to open allowing the system
+to discharge.
+
+Equation (11) describes the amount of C02
+generated due to reaction. It should be noted
+that rl represents the rate of C02 generation
+measured In the units of litres of gas evolved per
+It is noted that the safety valve has an enor·
+unit time from a 100 m} volume of MIC. The mous capacity to leak out the gases and the
+factor V cor is therefore incorporated to convert system pressure therefore suddenly falls when
+it into proper units and that the actual volume the valve opens. The temperature of the system,
+of the reacting MIC could be taken into account. however, remains relatively unchanged. This has
+The extent of MIC reacted due to water and the important implications in that the liquid now
+product MMA is described by equation (12). starts suddenly boiling which along with the
+The factor b is introduced in this equation to generated C02 creates sufficient turbulence to
+take care of the reactivity of MMA. In the pre- spread the reaction to larger volumes. The reacsent case we assume b value to be of the order tion that was restricted in the beginning to floatof unity. The last equation describing the temp- ing layer now spreads over to a larger volume.
+erature variation takes into account the loss in The system quickly reaches the threshold presheat due to the vaporization of the volatile sure conditions and the valve opens. The model
+materials such as MIC and chloroform. The func- described here now ceases to represent the situational relations used to describe the various rates tion realistically and additional considerations
+and other parameters in these equations appear such as the extent of reaction volume and loss
+in the programme listing that is appended at the due to leakage nc -,: to be incorporated to describe the real situation. The results of the first
+end of this report.
+phase description are presented in the form of
+The set of equations have been numerically computer output at the end of this report.
+integrated to obtain the amount of C02 evolved
+as a function of time (see Figure 3), the amount Phase 2 Model
+of MIC consumed at various stages during the
+reaction, and the temperature of the reactive As discussed earlier, the model during this phase
+medium. The vapour pressure-temperature rela- should describe the semi-continuous nature of
+tions presented earlier have now been used to the system due to the continued outflow of
+obtain the amounts of MIC and chloroform in material from the tank. The governing equations
+the free space and the pressure exerted due to during this phase are:
+
+deC'
+
+2
+CO
+
+dy
+
+(14 )
+
+( O(vc ) - L
+
+= r
+
+2
+
+-d (r·He )
+
+dt
+
+=
+
+r
+
+(eXv. ) + r
+~
+
+CO
+
+MMA
+
+( o{vc ) + 3 r
+
+(O<"ot) - ~ e e k
+
+(15)
+
+tri
+
+2
+
+dT
+
+1
+=
+
+dt
+
+( - 4 H ) + br
+
+r
+
+1
+
+CO
+
+( - A H ) + 3r
+
+MMA
+
+2
+
+(- A H ) -
+
+tri
+
+A
+
+(16)
+
+3
+
+2
+where L is the leak; a Vi and a Vt are the volume corrections of CO 2 and trimer, respectively.
+72
+
+

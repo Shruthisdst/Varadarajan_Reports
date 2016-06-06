@@ -1,0 +1,153 @@
+4.3.2
+
+Quantzfytng toxzc dose - Inhalatwn
+
+Rat
+
+(MIC)
+
+Human
+
+Rat
+
+Lowest published tOXIC concentration in air - 2 ppm toxic effect: irritant effect
+
+4.3.3
+
+Oral lethal dose 50% kill 71 mgfkg
+
+InahalatlOn - lowest publIshed lethal concentratlon in air
+- 31 ppm/4 hr
+
+Work environment, Hygienic Standards
+in different countries for other intermediates of carbaryl
+
+Sweden
+1975
+(mg/m 3 )
+
+USA
+1974
+(ppm)
+
+OSHA
+1974
+(mg/m 3 )
+
+Methylamine
+
+10-
+
+12
+
+12
+
+1
+
+Dimethylemine
+
+10
+
+18
+
+18
+
+1
+
+Phosgene
+
+0.1
+
+0.4
+
+0.4
+
+5
+
+5
+
+Chemical
+
+Carbaryl
+
+4.3.4
+
+GDR
+1974
+(mg/m 3 )
+
+Priority pollutant
+
+Environmental Protection Agency (EPA) of the
+US4 in their code of Federal regulations (USEP A July 1983) classifies methyl isocyanate
+(Hazardous Waste- No.P064) as an acute toxic
+compound (Annexure 2). Methyl isocyanate,
+mono and dimethyl anline and dimethyl urea do
+not appear as priority pollutants in the US EPA
+Tabulations for Priority Pollutant, as of April
+1980. The compounds on the list (Annexure 3)
+are for their presence in the wastewaters from
+industries. Codes of safety prepared by Chemical
+Hazards Sectional Committee of lSI (CDC: 18)
+do not include information on MIC or methylamines. However IS: 8185-1976 refers to phosgene. Even in the proposed programme of CDC
+18, lSI, MIC and alkylamines are not included.
+
+4.3.5
+
+Toxic effects of isocyanate in work
+enviro nment
+
+The available information on the toxic effects of
+isocyanates to humans in work environment are
+given in Annexure 4. these are Abstracts published in Industrial Hygiene Digest.
+5.0 ANALYTICAL METHODS AND STUDIES
+FOR MIC, PRIMARY AND SECONDARY
+AMINES
+
+Literature survey showed the possibility of two
+
+DDR
+1973
+(mg/m 3 )
+
+0.5
+
+0.2
+
+CSSR
+
+1969
+
+(mg/m 3 )
+
+0.4
+
+0.5
+1.0
+
+analytical methods for the study of total isoc~ anates and amines in air samples. Following
+methods were studied:
+
+Spectrophotometric Determination of Aliphatic Isocyanates in the Occupational
+Atmosphere - Part I - Determination of Total
+Isocyanate Concentration
+
+R.F. Walker and M.A. Pinches; Analyst;
+October 1979, Vol. 101, p. 928-936.
+(The above method recommends the use of
+1,1,2-trichloroethane as the extracting solvent
+for complex. As this reagent was not available
+anywhere in India, experiments were done using
+carbon tetrachloride as the alternate solvent)
+
+Tentative method of Analysis for Primary
+and Secondary Amines in the Atmosphere
+(Ninhydrin Method)
+Ref: 43724-01-73T - Standard Methods for
+Air Analysis.
+The details of the analytical methods, apparatus, reagents and procedure adopted are summarised in annexure 5. Ninhydrin Method was
+adopted for environmental monitoring.
+
+159
+
+

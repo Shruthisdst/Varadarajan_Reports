@@ -1,0 +1,194 @@
+Table 4.1.1
+
+PYROLYSIS OF MIC AT 3aaoe - ANALYSIS OF CYANIDE
+.----~--~-------~-~---~~~--~---~-~~~~~~~-~---~~---------~-~~~--------~----------~
+
+np 1e
+~o .
+
+Analysis of
+
+Sample
+
+matrix
+
+Silver nitrate
+method
+. mg.
+
+%
+
+Hydrogen
+
+Colorimetric
+method
+0/
+mg .
+10
+
+cyanide
+
+Ion selective
+electrode
+mg.
+%
+
+----------------------~----~~------~----------~~---~---~-~~--~~~~~--~~~-~-~----~-
+
+a.
+b.
+
+Lab-X
+t·1Ie 100
+
+0.577
+
+0.58
+
+0.504
+
+0.50
+
+Lab-X
+
+7 . 740
+
+11.06
+
+8.625
+
+12.30
+
+20.00
+
+28.00
+
+7 . 889
+
+7.89
+
+7.563
+
+7.60
+
+18.00
+
+18.00
+
+-Not detected-
+
+-Not detected-
+
+0.05
+
+0.45
+
+-Not detected-
+
+0.002
+
+0.002
+
+Nil
+
+Ni 1
+
+-Not detected
+
+0.0040
+
+0.007
+
+Nil
+
+Nil
+
+-Not detected
+
+-Not detected-
+
+Nil
+
+Ni 1
+
+-Not detected-
+
+0.0005
+
+Nil
+
+Nil
+
+1.870
+
+1 .87
+
+f'1IC 70
+
+c.
+d.
+
+Lab-X
+
+MI C 100
+E-611
+r~IC
+
+e.
+
+104
+
+E-611
+
+MIC 100 +
+Acetyl
+3
+chloride
+
+f.
+
+Lab-X
+
+MIC 60
++
+3
+CHC13
+E-611
+
+g ..
+
+MIC +25 ml
+Of O.1002N
+
+NaOH
+
+h.
+
+Lab-X
+
+NIC 25
+25 ml of
+O.1002N
+
+0.002
+
++
+
+NaOH
+
+-------------------------------------------------------------------------------e 1
+
+Colorimetric readings were recorded on "HITACHI-33Q UV-VIS-NIR
+spectrophotometer Jl
+
+e 2
+
+Ion selective electrode readings were taken on Digital high impedance mv
+
+~
+
+All pyrolysis experiments were carried out 3000 C
+
+3
+
+

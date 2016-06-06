@@ -1,0 +1,97 @@
+of formic acid with MIC to form the anhydride
+which decomposes thermally to carbon monomethyl amine. This
+xide, carbon dioxide
+sequence can be confIrmed experimentally.
+Whatever be the route Qf formation of carbon
+monoxide, the source seems to be formic
+acid and not methyl isocynate or its reaction
+products, since carbon monoxide was detectable only in experiments involving chloroform.
+Another significant observation is the
+detection of trimethyl amine in the gaseous
+products of all experiments irrespective of
+whether chloroform is added or not. December
+(1985) report suggested that the formation of
+trimethyl amine was associated with the formation of DMI as in Eq. 10 (P. 58) and this was
+used in the material balance calculations. The
+current observation justifies this suggestion,
+since it lends support for the associated formation of trimethyl amine and DMI. Eq. 10 was
+derived as a continuation of Eq. 7 (P. 58)
+assuming the intermediacy of trimethyl urea
+(TMU, Eq. 8, P. 58) and tetramethyl biuret
+(TRMB, Eq. 9, P. 57). That this approach is
+rational gets established by the evidence trended
+by experiments 43 and 47 carried out on TMU.
+The results are reproduced below:
+
+anF
+
+is formed from TRMB and that TMA is an
+essential co-product, the identification of which
+in the present experiments confirms the above
+reaction sequence.
+Similarly the formation of DMA can be
+by the
+sequence
+reasonably formulated
+0
+~ DMU ~IC ... TMB~DMA +
+2MIC H2
+HNCO MIC .. DMA + DMI and then the branching ~t DMA can be envisaged as above. The
+evidence for this sequence comes from the
+decomposition reactions of TMB. The typical
+example of experiment 29 is cited below:
+
+Expt 29:
+
+TMB + CHCla, 2450 C, 45 min.
+TMU (2.5), DMU(40, MICT(6.1),
+TMB(4.0) DMI(9.3), Dione (1.7)
+
+The major product is DMU and it is evident that
+TMB formed at lower temperatures reverts back
+at higher temperatures to DMU and MIC, from
+which MIC undergoes other reactions. The
+formation of DMI as the next abundant product
+indicates that a portion of TMB breaks up into
+DMA, HNCO and MIC from which TMU, TMU
+based products, DM! and MICT are formed.
+Thus there is ample ground for concluding that
+DMA and TMA are formed in the thermal
+Expt 43: TMU + CHCla + MIC, 2150 C,
+decompositions of MIC reaction products.
+45 min. _----"~~
+The suggestion that the mixture of amine
+TMU(10),DMU(I.4),MICT(46.5),
+hydrochlorides could arise from the disproTMB(a.4), TRMB(I.!7), DMI(12.0),
+portion of methylamine hydrochloride at
+Dione (1.6)
+elevated temperatures as put forward in the
+UC report of March (1985) is untenable because
+Expt 47: TMlJ + CHela, 220o C, 40 min._~>~ of the presence of abundant quantities of MIC.
+TMU (64),DMU(13), TetMU
+Moreover, it is known that methylamine formed
+(present)
+even at lower temperatures is quickly fixed
+up as DMU, the magnitude of the heat of this
+reaction has been discussed earlier in this report.
+Expt 47 indicates that chloroform has no role
+"Having arrived at a logical sequence of major
+to play in the decomposition of TMU. The reactions, a material balance was worked out
+reaction is one of exchange of amine groups at and presented in Annexure 1. TMU formation
+high temperatures, as is usual with methylated was taken as per the present scheme which is
+urease The products are obviously DMU and different from that adopted by the report of
+tetramethyl urea. In contrast, the decomposi- December (1985). Despite this change, the
+tion of TMU in presence of MIC as in Expt 43 material balance remains to be the same.
+produces DMI as the second abundant product
+Analysis of the acetone soluble residues by
+and TRMB to an extent of 1.7%. This implies GC (Table 4) shows the usual trends such as
+that TRMB is formed as an intermediate only (i) the formation of more DMU and less MICT
+to decompose to TMA, MIC and HNCO which with increasing quantities of water and (ii) the
+lead to the formation of DMI. The conversion formation of more dione with more chloroform.
+sequence DMA~ TMU ~TRMB-'TMA The poor formation of DMI is intriguing, but it
++ HNCO "MIC. TMA + DMI gets established by suggests that pressure has to be considered as
+this evidence. Linking this sequence with Eq.7 an important parameter. In experiment 14,
+(P.57), one obtains the Eq. 10 which seems to the reactant concentration is held close to the
+be fairly correct. It is to be noted that HNCO ratio arrived at by the material balance calcula] 09
+
+

@@ -1,0 +1,60 @@
+BASE
+
+LINE
+
+AIRQUALITY
+WIND
+
+SURVEY
+
+AT
+
+AGRA
+
+PATTERN
+
+DEC. 75 - FEB. 76
+DATA
+
+N
+
+12%
+
+DECEMBER 75
+
+15%
+
+FEBRUAR)' 76
+
+%
+
+~L>-b
+
+Scale
+
+Speed index
+
+4 8 12 16
+
+o
+
+~
+~
+
+o
+
+,
+
+2
+
+ems
+
+0- 5Km/hr.
+6 - IOKm/ hr:
+II -20KmI hr.
+
+[NEERI
+
+DATA]
+
+

@@ -3,6 +3,8 @@
 define('DEFAULT_JOURNAL', 'toc');
 define('DEFAULT_BCODE', '01');
 define('METADATA_TABLE', 'book');
+define('FULLTEXT_TABLE', 'fulltextsearch');
+
 
 // search settings
 define('SEARCH_OPERAND', 'AND');

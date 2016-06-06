@@ -1,0 +1,75 @@
+TABLE A-2.1
+RETENTION TIMES OF DIFFERENT COMPOUNDS ON FFAP
+
+(lOCJ6 AND 3CJ6) COLUMN
+
+10% FFAP
+Retention time,
+min
+
+3% FFAP
+Retention time
+min
+
+No.
+
+Compound
+
+1.
+
+TMU
+
+1.6
+
+0.94
+
+2.
+
+MICT
+
+3.95
+
+2.0
+
+3.
+
+DMU
+
+~.96
+
+2.55
+
+~.
+
+Dione
+
+10.48
+
+4.79
+
+5.
+
+TMB
+
+12.61
+
+5.80
+
+6.
+
+DMI
+
+32.28
+
+12.68
+
+7.
+
+Internal standard
+Dibutyl phthalate
+
+(Conditions as given in pages 4~ and 45).
+
+8.15
+
+

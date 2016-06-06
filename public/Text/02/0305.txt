@@ -1,0 +1,47 @@
+TOXICITY
+
+OF
+
+METHYL
+
+ISOCY ANATE
+
+Methyl isocyanate is an irritant to the eyes, mucous membranes and skin and it can cause
+pulmonary irritation and sensitization, Exposure of humans to high concentrations causes cough,
+dyspnoea, increased pulmonary mucous secretion and chest pain. Isocyanate cause pulmonary sensization in susceptible individuals. Should this occur, further exposure must be avoided, since extremely low levels of exposure may trigger an asthmatic episode. Cross sensitization to unrelated
+materials probably does not occur. Experimental exposure of 4 human subjects to 0.4 ppm had no
+effect. .At 2 ppm, there was lacrimation, irritation of the nose and throat and at 4 ppm >th~
+symptoms of irritation were more marked. The symptoms became more severe including unbearable
+irritation, irritation of eyes, nose and throat at a concentration of 21 ppm. The TLV for methyl
+isocyanate is fixed at 0.02 ppm.
+Since very little toxicity data on MIC per se is available, QSAR approach has to be applied
+taking data from TOI and MOL According to Rye (1973). the larger the molecular weight of the
+isocyanate in question, the toxicity, volatility, vapour pressure and total exposure dose are lower.
+Since isocyanate compounds vary in molecular weiQht from the low mono to the high poly form,
+their volatility decreases and t~e exposure hazard is directly proportional to the change. The low
+molecular weight ethyl and methyl isocyanates are skin irritants and can cause permanent
+eye damage and the higher molecular weight compounds are not. The oral toxicity of the entire
+group is relativeiy minor, producing only minimal gastro-intestinal change in very high dose.
+There have been no reports to indicate that skin absorption occurs. Other systemic changes (Le.
+renal, hemopoetic) have not been evident in routine surveillance of workers. The most common,
+most severe and by far the most important human response have occurred in the respiratory
+system.
+The importance of volatility ~f the compounds used is extremely relevant to this response,
+since respiration of the fumes is necessary for exposure response to occur. Other considerations
+are increasing volatilit"{ with rise in temperature and rapid hydration and dissipation of fumes in
+high humidity.
+Two types of responses, irritant and allergic, have occurred once exposure reaches
+sufficient magnitude (Rye, 1973). Direct irritant or toxic response is due to triggering of normal
+protective mechanism of the upper respiratory tract and mimics that of other respiratory irritants.
+The symptoms depending on total dose, appear 4 to 8 hours after onset of exposure and respond
+to supportive measures after removal from exposure, and persists for 3 to 7 days. The symptoms
+are those, associated with increased protective mechanism, with increased secretion, cough, pain on
+respiration, some restrictions of air movements due to combination of secretion. oedema, and pain.
+It is important to discern whether the type of dysponea involved is due to these conditions or to
+pure airway constriction with characteristic expiratory difficulty, as in asthma (Rye, 1973).
+The allergic response in host is not to be expected on initial exposure but usually develops
+after a reasonable time in ·the work area. It may masquerade as a cold or mild hay fever until
+
+307
+
+

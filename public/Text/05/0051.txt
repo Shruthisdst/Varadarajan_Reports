@@ -1,0 +1,89 @@
+-404.2.0
+
+Instrumentation and Controls
+-=--
+
+4.2.1
+
+Several deficiencies were noted ir the instrumentation and
+
+.....
+
+~'T
+
+"'_
+....
+
+. ; _____ ~
+
+. . . . . . . . . . ~~
+
+.....a.aa~
+
+--
+
+~-- ........
+
+Controlrsy~t3ms of both Ukai and Ganah~nagar power stations.
+
+At A E Co.
+
+IS
+
+'8'
+
+station the situation was somewhat
+
+better, but they alsO had problems regarding availability
+of spares due to obsolescence.
+
+The Committee had requested
+
+Shri U K Ray of Tata ChemicalS, Mithapur to make a detailed
+study of the instrumentRtion and control system at Ukai
+The deficiencies
+
+and his report is at Appendix- 7.
+
+noted have resulted and would continue to result in
+frequent trippings, inefficient operations, reduction in
+the life of equipment and may have led to ignoring
+
+some
+
+precautionary measures because of lack of faith in measurements by operating personnel.
+
+Many factors have
+
+resulted in these weaknesses, as described b31ow.
+4.2.2
+
+Several design def8ccs 8,(ist..
+
+In ".any cases improper
+
+mG3SUrement or control signals
+
+ha~~
+
+been selected.
+
+At
+
+times, improper selection of ranges for instruments
+have resulted in imprecise measurements within the
+normal range of operations.
+ments was also found
+
+The mounting of some instru-
+
+improper.
+
+The auto combustion
+
+controls are not working and are operated manually.
+Improper range selection and measurement signals,
+coupled with manual control has resulted in on-Off
+operation rather than smooth proportionate control of
+
+

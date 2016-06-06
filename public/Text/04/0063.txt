@@ -1,0 +1,59 @@
+53
+The table illustrates the sensi tivi ty of 6l!
+to errors in
+a and k. As expected. the response to errors in k is much more
+predominant. A 20% positive error in k, for example, at 40 km
+downwind will cause a four-fold error in
+6~
+Even a small
+error of 10% ill k at 40 km will be reflected by a two-fold error
+in b?::. At smaller distances from the stack the response to error
+in a and k is smaller, but by no means negligible. If we considered
+the errors to be negative, the value would be correspondingly reduced.
+
+5.2
+
+Plume rise
+
+In ta~le 3 we h~~ presented the difference in plume rise ariBmg
+out of the work of Briggs (1969) and ~orton et al(1956). The values
+of Morton et al for no wind and stable conditions were greater by 8
+factor of 2.5 than the values for a stable atmosphere with light wi~.
+
+But, a8 we have seen earlier, the errors in concentration are
+not measured by errors in 6~ ~ or hi but by errore in the ration o~/~
+which is defined by ~ • As indicated by equation 3.5, we are
+mainly concerned with variations in G(~).
+
+A'I'
+Ll6{1fl
+In Ap pen d i x II we h a v e t.a b u 1 ate d val u e 8 0 f 'P' an d
+G -r)
+TillS is an extension ·of the earlier values of Bohac
+et al (10 • cit).
+The computations in Appendix II were made by center~d differences.
+Thus
+
+with a similar
+It will be noted from Appendix II that large errore ill G(~)
+could result irom small errors in \i' t especially when smaii vaiues
+of
+~
+are considered.
+Thus, for 'f' ~ 0.5, a 20~ error in
+would cause a 56~ error in G l~)
+. But, the i~tereeting point ift
+that for Inrp;~ values of
+t
+the error in G ('f) i"8 8mall.
+Thus, for
+1.0, a 10~ error in 'V
+would cauee only 2-4~ error
+in G(~).
+
+'r7
+.
+
+tr
+
+

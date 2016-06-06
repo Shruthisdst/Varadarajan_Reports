@@ -1,0 +1,42 @@
+-16-
+
+2.4.2
+
+The Kulkarni Committee (1975) made several recommendations
+for modernisation of maintenance measures in large thermal
+stations. Their major recommendations are summarised in
+the report of Rajdhyaksha Committee and the progress against each of these recommendations are discussed below.
+a.
+
+A co-ordinated schedule of overhaul of units in the
+system should be drawn up at the beginning of the
+year in consultation with the State/Regional load
+despatch station and the specialised maintenance
+agencies in the system. 4.37(1}
+
+This recommendation has been implemented, only minor delays in carrying out scheduled maintenance activities are
+experienced.
+b.
+
+Meticulous and dotailed planning of scheduled maintenance will enable substantial improvement in the
+spced and efficiency of maintenance. 4.37{~)
+
+In G.E.B. the time taken for scheduled maintenance is considerably above the norm. Although informally several expediting actions are taken by engineers in charge of maintenance, opportunities exist for further reduction in down
+
+time. The norms generally suggested were discussed in
+
+2.3.7. A time and motion study of scheduled outages should
+be commissioned to identify possibilities for reducing
+the down time by allocating more resources in the form of
+man power and equipment. The results of this study as well
+as previous experience should be used to prepare plans for
+scheduled maintenance.
+c.
+
+Only those essential items of work which cannot be
+done while the unit is running should be included
+in the maintenance programme. 4.37(3)
+
+This practice is usually followed.
+
+

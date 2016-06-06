@@ -1,0 +1,103 @@
+The model as described here has two distinctive features. As would be noted the model now
+takes into account the additional trimerization
+reaction. It may be appreciated that the large
+extent of mixing caused due to bubbling of
+generated C02 stirs up the reactant mass dispersing the potential catalysts such as Feel3 (assumed to be present due to corrosion of the tank
+occuring over a long period of time) uniformly
+through the mixture. As is known, excessive
+heat liberation contributes to the rise in the
+temperature of the liquid. The volume correction factors associated with the rate terms in
+equations (14) and (15) take into account the
+extent of reaction volume, where the individual
+reaction proceeds and also converts the rates
+into proper units.
+
+The set of equations (14)-(16) have been
+numerically integrated subject to the appropriate initial conditions that are derived from the
+analysis of the first phase. This enables one to
+estimate the moles of C02, amount of MIC consumed due to each one of the reactions, the
+temperature and the amount of material lost
+through the vent. It is possible in these calculations to keep an account of the amount of MIC
+consumed due to the individual reactions and its
+loss through the vent. The instantaneous temperature of the reactive medium has been used to
+
+calculate the extent of volatiles and the pressure
+exerted due to them in the system. The numerical procedure adopted will be clear from the
+form of the computer output at the end of this
+report.
+As would be noticed, the water being the
+limiting component, it gets consumed during the
+course of the reaction. The MIC-MMA reaction
+being faster than the MIC-water reaction also
+comes to an end. It should be noted, however,
+that the reactions between MIC and other MMA
+based products and the trimerization reaction
+continues. The model during the second phase
+now becomes invalid and we have to move over
+to the next phase to take care of the subsequent
+events.
+
+Phase 3 Model
+It is assumed that during this phase the MIC-
+
+water and MIC-MM~' reaction can be neglected.
+The only predominant reaction during this phase
+is therefore the trimerization. Other reactions
+such as those leading to MIC reactions with
+other MMA based products also cc.ntinue. We
+assume them to be negligibly small in extent. We
+feel that these can be incorporated, if desired,
+by using some effective rate expression. The
+model during this phase can thus be describ~d as
+
+-d ("He)
+::
+
+dt
+di
+
+C<Vi.
+
+-
+
+l
+
+{17 }
+
+trim
+
+1
+::
+
+dt
+
+-3r
+
+vee
+
+[
+
+(-AH)-A
+trim
+3
+
+(18 )
+
+p
+
+The results of the numerical integration during highlight the main findings of the results of thE
+this phase are also presepted as computer out- present model.
+puts at the end of this repC?rt.
+5.4 IMPORTANT RESULTS OF
+It should be noted that models in phase 1 to
+TH E ANALYSIS
+phase 3 follow in succession and time parameters appearing in these models run conti- In phase 1 the major contribution to the buildnuously. This is essential since calculations per- up of pressure in the system seems to have been
+taining to parameters such as the various rate caused due to the generation of C02' During
+functions, the contributions of the leak terms this phase, it may be recollected that the reacand heat loss and generation terms are based on tion begins in localised zones the extent of
+the absolute value of the time parameter. The which is arbitrarily chosen by assigning values to
+functional relations for all these parameters are the parameter Vcor. Several numerical runs with
+listed in the programme listing. We shall now different values of this parameter were execut-
+
+74
+
+

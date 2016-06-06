@@ -1,0 +1,122 @@
+-11-
+
+Ch¥pter II
+REVIEW OF OPERATING AND MAINTENANCg PRATICES
+
+2.1.0
+
+Introduction.
+
+2.1.1
+
+The ability to utilise generating capacity depends largely
+upon observance of proper operating and maintenance prac.
+tices. The Committee found a considerable variation in the
+practices followed at different power power stations. The
+availability of sets at Gandhinagar, Ukai, and A.E. Co.
+power stations has also varied considerably between units
+and over the
+
+years~
+
+(Table I).
+
+Table-I Availability of Sets in
+
+%
+
+1977- 1978-1979- 1980- 198178
+79
+80
+81
+82
+--~-------~-~----~-~--------~----~------------------~- ---
+
+Ukai-I
+
+51
+
+82
+
+87
+
+65
+
+73
+
+Ukai-II
+
+52
+
+81
+
+67
+
+34
+
+61
+
+U ka i-I I I
+
+66
+
+77
+
+35
+
+Ukai-IV
+
+53
+
+37
+
+81
+
+Gandh inagar--I
+
+64
+
+68
+
+89
+
+93
+
+48
+
+Gandhinagar-II
+
+44
+
+64
+
+75
+
+62
+
+88.
+
+22
+
+69
+
+78
+
+71
+
+A.E. Co.
+
+'D' Station
+
+2.2.0
+
+Commissioning Experience.
+
+2.2.1
+
+The Committee noted that most of the sets were commissioned when the installation of instrumentation for proper
+operation were not complete. It was reported that control
+loops such as coal-air mixture temperature controls, he ater level controls, etc, were not installed at the time
+of commissioning. In some cases even the air conditioning
+
+

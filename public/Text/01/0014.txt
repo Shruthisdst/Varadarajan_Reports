@@ -1,0 +1,94 @@
+Phosgene and MMA are reacted in vapour phase to give MCC.
+The reaction products are then qlllenched in chloroform and fed to Phosgene
+Stripping StiU (PSS). Unreacted phosgene is removed
+
+jJn
+
+PSS and recycled.
+
+The bottoms from PSS are fed to the pyroJyser wherre MCC is pyroJysed
+to give MIC and HC} and MIC and HCJ are separated. The pyroJyser condenser
+feeds the MIC Refining StiH (MRS).
+
+In MRS, the MIC is separated from
+
+the chloroform in the upper part al1d is led directly into the storage tanks.
+
+The bottoms of MRS are recycled to the process. The He! formed
+
+J5
+
+scrubbed
+
+with chloroform and extracted with water to produce aqueous HC!. Aqueous
+HC) is disposed off by neutralisation in a litre pit.
+
+1.1.2
+
+MIC storage system
+MIC storage system comprises three horizontal mounded 15,000
+
+gallon (57 M 3 ) tanks and are designated as E-610, E-611 and
+
+E-6~9. Normally
+
+two of the three storage tanks are used to store the product of acceptable
+quality and the third tank is used for temporary storage of off-specification
+material. GeneraUYI off-specification mate~laJ
+
+IS
+
+The two tanks can hold about 90 tonnes of MJC
+
+reprocessed.
+whi~h
+
+can cater to about
+
+30 days of production of Sevin using the stored MIC.
+The tanks are made out of 55 304/55 316, with nominal Olarneu::1
+of 2400 mm (8 feet) and nominal length of 12000 mm (40 feet).
+2
+o
+designed for full vaccum to 2.72 kg/cm g (40 psig) at 121 C.
+
+They are
+
+The schematic layout of the three MIC storage tanks with common
+headers is shown in Figure 1.1
+
+MIC from MR5 condenser in the MIC pro-
+
+duction facility (MIC structure) is led by a long common line of stainless
+steel to the MIC storage tank area and then branches off just before entry
+to the individual storage tanks.
+MIC is to be stored under high purity nitrogen pressure.
+
+The
+
+nitrogen is suppJied to the storage tanks by a common header of carbon
+steel.
+
+Excess nitrogen from individual tanks is taken to a·50 mm (2") common
+
+Process Vent Header (PVH) of carbon steel.
+
+Similarly, the discharges from
+
+Safety Relief Valves (SRV) of indiVidual storage tanks are also taken to
+a common 100 mm (4") Relief Valve Vent Header (RVVH) of carbon steel.
+The tank side PVH and RVVH are interconnected.
+The transfer of MIC from the storage talJlks to the
+
+SeVin
+
+UOlt
+
+is also through a common line.
+
+The instrumentation and control system provided for mdividual
+MIC storage tanks is shown in Figure 1.2.
+
+3
+
+

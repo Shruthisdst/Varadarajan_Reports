@@ -57,6 +57,7 @@ class Database extends PDO {
 	}
 
 	public function insertData($table, $dbh, $data) {
+		//~ var_dump($data);
 
 		// Take list of keys as in schema and data
 	    $keys = implode(', ', array_keys($data));

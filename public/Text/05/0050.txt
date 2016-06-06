@@ -1,0 +1,111 @@
+-394.1.3
+
+Table II shows the number of forced outages by their duration in different years.
+
+Of the total duration of outage,
+
+54 percent were accounted for by outages of less than
+7 days, 32 percent by outages of duration varying between
+7 to 30 days and the remaining 14 percent by outages of
+longer duration.
+Table II - Unscheduled outages by duration
+Ukai and Gandhinagar
+Period of
+outage
+
+(since commissioning)
+
+_ ...
+
+_-_ .... --_
+
+Total Hrs
+down time
+
+No.
+
+... ------- ------ ----upto 24 Hrs
+1 ... 7 days
+7-30 days
+Above 30 days
+
+....
+
+-
+
+Percent or
+total
+
+453
+
+5436
+
+1 91
+
+15280
+
+14.20
+39.90
+
+42
+
+12180
+
+31.80
+
+6
+
+5400
+
+14.10
+
+~-----~~---~--~~-~----------~--~----~-~~-~~-~~--~
+
+Total:
+
+..
+4.1.4
+
+100.00
+
+38296
+
+692
+
+- ... --
+
+---
+
+~..-
+
+..
+
+-
+
+------
+
+Thus the causes of forced outages and their duration vary
+considerably.
+
+It is therefore necessary to consider a
+
+number of factors leading to forced outages and remedy
+them.
+
+Chapters II and III have discussed operations
+
+and maintenance practices and the design and reliability
+of equipment respectively.
+
+Principally, the Committee
+
+fe8ls that the following other areas need attention:
+a)
+b)
+c)
+
+Instrumentation and Cont~ol
+Spare parts management
+Quality of coal.
+
+

@@ -1,0 +1,181 @@
+TABLE 3.2
+MATERIAL BALANCE
+
+Chemical Reaction
+
+Product
+
+1
+
+2
+
+MIC+H O
+2
+
+Kg. mole
+(kg.)
+
+MIC
+Consumed
+kg.
+4
+
+3
+4.17 (129)
+
+MMA+C0
+2
+
+MMA
+
+OMI+TMA +DMA +
+
+DMI
+
+NH +C0
+2
+3
+
+TMA
+
+7.17 (423)
+
+DMA
+DIONE
+
+5
+
+5.47 (246)
+
+~
+
+MIC+H 0 ~
+2
+
+Water
+Consumed
+kg.
+
+3 MIC+H 20+2CHCI 3 -~
+
+Dione+2HCI +
+
+237.7
+
+75.0
+
+3792.2
+
+277.4
+
+2.49 (391)
+
+425.8
+
+44.8
+
+DMU
+
+1.83 (161)
+
+208.6
+
+32.9
+
+TMB
+
+0.81 (117)
+
+138.5
+
+14.6
+
+TMU
+
+1.87 (191)
+
+319.8
+
+67.3
+
+MICT
+
+40.72 (6964 )
+
+6964.0
+
+17.04(2675) ]
+
+CO +CC1
+2
+4
+~
+
+DMU+C0
+
+3 MIC+H O -l)
+2
+
+TMB+C0
+
+2 MIC+H O
+2
+
+3 MIC+2H 0
+2
+3 MIC
+
+-+
+~
+
+2
+2
+
+TMU+NH +2C0
+2
+3
+MICT
+
+12086.6
+
+512.0
+
+Overall reactions
+212.03 MIC + 28.45 H 0 + 4.98 CHCI .... 4.17 MMA
+3
+2
+
++
+
+17.04 DMI
+
++ 7.17 TMA + 5.47 DMA
+
++
+
+2.49 Dione
+
++
+
+1.83 DMU
+
++
+
+0.81 TMB
+
++ 1.87 TMU + 40.72 MJCT + 4.98 HCl
++ 2.49 CC1
+
+62
+
+4
+
++ 4.64
+
+NH3
+
++
+
+28.45 CO 2
+
+

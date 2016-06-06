@@ -1,0 +1,105 @@
+The hydrolysis of MIC with about 500 kg.
+(1100 lb) of water by itself and in the
+absence of other contaminants is not expected to lead to thermal run-away conditions. The presence of this quantity of
+water would have possibly resulted in
+reaction with about three to four tonnes
+of MIC, generation of carbon dioxide,
+breaking of the rupture disc and release
+of C02.
+The temperature of the tank
+content would have gradually risen to
+about 60-70 o C, below the boiling point
+of MIC at that pressure. It is surmised that
+no more than 50 to 100 kg/hr (110-220
+lb/hr) of C02 along with small quantities
+of MIC, Ca 100-150 kg/hr (220 - 330 Ib/hr)
+would have been released. Such emissions
+will cease once the water has been consumed.
+The presence of trace amount of metallic
+contaminants derived from the material
+of the tank or its attachments or from
+extraneous sources, may not necessarily
+initiate a violent reaction under dry conditions. Small amounts of local trimerisation
+may take place, as noticed throughout
+the pipelines and plant. However, the
+ingress of water, would provide for active
+species of initiator to be generated and
+distributed in the liquid.
+
+500 kg (1100 lb) of water could have entered the tank 610 either from the MRS
+condenser (through condenser tube leaks)
+or through RVVH/PVH lines. The fact
+that about 50-90 ppm of sodium was found
+in the tank residues is also significant. The
+observed sodium levels are substantially
+higher than what would have normally
+been present due to the entry of 500 Kg
+(1100 lb) of water (below 0.5 ppm).
+-
+
+Entry of water from the MRS condenser
+appears less likely as the MRS make line
+from MRS condenser to tank 610 was
+flushed with nitrogen, evacuated and blinds
+were inserted in the line between 23 to 25
+October, 1984. Water could have entered
+from the MRS prior to 23 October but it
+would have probably reacted much earlier
+than 2 December, 1984.
+
+-
+
+A detailed analysis indicates that water
+entry through RVVH/PVH lines is quite
+likely. It has been reported that around
+9.30 P.M. on 2 December, 1984, an operator
+was clearing a possible choke of the R VVH
+lines downstream of phosgene stripping
+still filters by water flushing. Presumably
+the 6" isolation valve on the R VVH was
+closed but a slip blind had not been inserted. Under these conditions when the
+filter lines are choked, water could enter
+into the RVVH, if the 6" isolation valve
+had not been tightly shut or passing.
+
+This implies that conditions which were
+ripe for the initiation of a run-away trimerisation reaction already existed in
+tank 610 on the day of the event, and that entry of water would generate active
+initiators and the hydrolysis of MIC would
+provide the necessary heat also for the
+trimerisation reaction to take off with
+explosive violence.
+The
+carbondioxide
+evolved upon hydrolysis would provide
+the necessary mixing leading to even more
+rapid chemical reactions. The storage tank
+thus equalled the conditions of a well mixed tank reactor, supplied with heat.
+Once initiated, the trimerisation reaction
+rapidly led to a temperature increase leading
+to levels as high as 250 0 C with autocatalytic
+and auto-thermal features. At these high
+temperatures, secondary chemical transfor- mation occured leading to the complex
+mixture of products actUally found in the
+tank 610 residue.
+
+90
+
+Furthermore, it is likely that alkaline water
+could have backed up from the VGS accumulator into the RVVH and PVH under
+certain conditions. Indeed, several litres
+of alkaline water was drained from the
+R VVH/PVH lines in the MIC structure
+in May 1985, lending credence to such a
+possibility.
+Furthermore, RVVH/PVH lines are made
+of carbon steel. Back up water or alkali
+through these lines increase the possibility
+of metal contaminants entering the tank,
+especially in the absence of positive nitrogen
+pressure.
+The water that entered R VVH at the time
+of water flushing along with baked up
+alkali solution from the vas already present could find its way into the tank 610
+
+

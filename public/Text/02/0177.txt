@@ -1,0 +1,137 @@
+Absorbance Values Produced by the Proposed
+Method
+
+Experimental Observations
+
+HMDI Solution
+Wavelength : 352 nrn
+Mol. wt. 168.2
+Density 1.05
+
+Amount of isocynate p.g
+
+168.2 mg HMDI
+
+=
+
+1 mg HMDI
+
+=
+
+5
+10
+15
+
+84 mg NCO (isocyanate)
+84 = 0.5 mgNCO
+
+20
+
+Absorbance
+
+0.151
+0.268
+0.421
+0.582
+
+168.2
+1 rol HMDI
+
+=
+
+1.05 gm
+
+Le. 1000 pI HMDI =
+
+1050 mg
+
+=
+
+1050 mg
+1000
+
+1 pI
+
+10 pI
+
+==
+
+= 10.5 mg HMDI
+10 pI = 10.5 mg HMDI in 100 ml
+or 105 mg HMDI in 1000 ml or 105 ppm
+or 52.5 ppm isocyanate (stock)
+
+Standard isocyanate: 5.25 ppm or 5.25 p.g/ml
+Sodium hydroxide solution
+
+40 gm NaOH in 250 ml (to give 4M, NaOH).
+Dilute 2.5 ml of above solution to 100 ml ( 0.1
+M, NaOH). Prepare Standard Pot. Hyd. Phthalate solution (0.1 M) (2.042 gm in 100 ml).
+• 11
+
+5 ml of KH phthalate = 4.65 rol NaOH
+== 5 x 0.1
+NaOH normality
+4.65
+= 0.107
+
+Normality of stock NaOH == 0.107 x 40 =
+4.30M
+
+4.30 XV
+•• V
+
+=
+
+Determination of Primary & Secondary
+Amines in the Atmosphere (Ninhydrin
+Method)
+Apparatus
+
+Spectrophotometer: Spectronic-21
+with 1 em path length cells.
+
+equipped
+
+1050 x 10 =
+1000
+
+.
+
+B.
+
+250 x 4.0
+1000 == 232.5
+
+4.30
+
+232.5 rol of stock NaOH dil. 250 mI, gives 4.0 M
+NaOH.
+
+Heating tubes: Glass tubes (30 ml capacity)
+with stopper and tapered at the bottom.
+Water bath: Thermostat for constant heating
+arrangement at 850C~
+Reagents
+
+Ninhydrin reagent: Prepare a 0.2 % (w/w) solution of ninhydrin in isopropanol (0.16 gm dissolved in 100 ml isopropanol). This reagent is
+stable for 2 weeks if kept in a brown bottle.
+Absorbing solution: Dilute one volume of conca
+Hel to 100 volumes with isopropanol.
+Reagent Grade Pyridine
+n-Butylamine stock solution: (500 pg/ml).
+Weigh 0.250 gm of n-butylamine in a weighing
+bottle and dilute to 500 ml with absorbing solution.
+n-Butylamine calibrating solution: Prepare a
+series of standards containing 2 to 100 p.g/ml nbutylamine by diluting 0.4 to 20 ml of n-butylamine stock solution to 100 ml with absorbing
+solution. Take 1 ml of each solution and follow
+the analytical procedure.
+Analytical Procedure
+
+1.
+
+Take 3 ml of the sample from the absorbing solution (or 1 ml of n-hutylarnine calib-
+
+179
+
+

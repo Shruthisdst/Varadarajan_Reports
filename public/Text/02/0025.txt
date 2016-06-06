@@ -1,0 +1,215 @@
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+3.
+
+30/5/RVVH.PVH line
+solid sample
+Solid Sample No.5
+
+1.9
+
+"
+
+4.
+
+30/5/PVH liquid
+sample No.7
+Sample No.8 (Sr. No.5)
+
+1.42
+
+"
+
+16.62
+
+13.62
+
+13.31
+
+5.
+
+Sample No.8 Sr. No.5
+
+1.37
+
+"
+
+16.41
+
+12.05
+
+11.81
+
+6.
+
+25.82
+30/5/PVH Solid Sample
+before NRV Sample No.10
+
+"
+
+10.47
+
+7.
+
+30/5/PVH-Solid Sample
+No.11 before NRV
+
+25.07
+
+"
+
+14.82
+
+8.
+
+Solid sample from
+R VVH l$t level lead
+end (Towards 200-TR)
+dt. 31/5 11.20 AM.
+S~ple No.17
+
+18.02
+
+."
+
+16.41
+
+"
+
+9.
+
+Solid sample from R VVH
+1st level Dead and
+(Towards 200 TR)
+Dt. 31/511.20 AM
+Sample No.16
+
+15.63
+
+"
+
+16.08
+
+"
+
+1.38 "
+
+"
+
+10.
+
+RVVH liq. from
+bleeder on 2nd level
+B.F. towards sevin
+dt.31/5
+
+1.49
+
+"
+
+10.58
+
+8.199
+
+9.24
+
+11.
+
+R VVH liq. from bleeder
+on 2nd level B.F.
+towards Sevin dt. 31/5
+Sample No.21 Sr. No.8
+
+1.50
+
+"
+
+10.56
+
+7.S7
+
+12.06
+
+1.52
+
+"
+
+11.01
+
+8.75
+
+9.56
+
+11.63
+
+8.56
+
+10.85
+
+16.85
+
+8~59
+
+20.62
+
+12. Solid from RVVH 2nd
+level dead end towards
+Sevin Unit dt. 31/5
+Sample No.24
+13.
+
+-"- Sample No.25
+
+1.50
+
+"
+
+14.
+
+Solid from 4" RVVH
+flange at B.L. dt. 31/5
+14.50 hrs No.27
+
+0.35
+
+"
+
+2.3
+
+"
+
+15.
+
+-"-15.00 MS. No.28
+
+0.35"
+
+"
+
+1.3
+
+"
+
+1.15
+
+"
+
+16.
+
+RVVH VGS line bleeder
+liq. 31/5 Sample No.31
+
+25
+
+

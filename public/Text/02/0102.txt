@@ -1,0 +1,99 @@
+March (1985) states that the last discharges
+of MIC from MIC refining still to tank 610
+contained chloroform to an extent of 12-16%.
+Taking this into account, one can arrive at a
+conclusion that chloroform was present in
+the MIC in the tank 610 to an extent of
+3.608·4.8%. There is no room to assume more
+than 5% of CHClg content in the MIC of tank
+610. So the chloroform concentrations for the
+experiments were chosen in the range 3 to 6
+(W%).
+
+Experiments with different proportions of
+water and chloroform in the selected ranges
+were carried out and the data are given in
+Tables· 1-4.
+3.0 Preliminary Studies
+The GeMS of the commercial sample (Fluka
+1977) used in the reactions showed besides
+MIC, chloroform present as stabilizer and a
+small amount of dimer which readily reverts
+to MIC.
+The mass spectrum of MIC by liquid inlet
+system was identical with the above and a fragment ion peak corresponding to m/z 27 (HCN)
+shows up in both, indicating that MIC fragments
+to HCN on electron impact.
+Pyrolysis of plain MIC at 250°C for 2 hours
+has carried out in a couple of experiments and
+the gases collected showed on GeMS, no other
+components except MIC and the fragment ion
+peak m/z 27 which was less than 2% in intensity.
+The peaks at m/z 83 and 85 observed represent
+CHC1 35 + and CHC135 Cl37 + arising from the
+2
+stabilizer. The solid residue showed the presence
+of only one product, the trimer (MICT) with M+
+1 71 and matching in all respects with an authentic sample of MICT.
+Application of GeMS was tried to identify
+the gaseous products as well as the solids produced in the pyrolysis of MIC with water and
+with water-chloroform mixtures. Table 1 sum..
+marises the experiments carried out and the
+results obtained. It may be seen that all the
+major products are identified in the solids
+formed. But in the case of the gas analysis, only
+carbon dioxide was identified. Vitiated by the
+high concentration of carbon dioxide, the presence or absence of other constituents could
+not be established in GCMS. Therefore, it was
+decided to use GC for subsequent experiments.
+
+4.0 Pyrolysis Studies
+Pyrolysis of MIC in presence of water and water104
+
+chloroform mixtures were carried out in a
+specially made bomb, with provision for coHee·
+tion of gases after the experiment. The bomb
+is a stainless steel cylinder closed at one end and
+fitted at the other end with a screw cap and
+needle valve which could withstand a pressure of
+204 atmospheres. Provision for inserting a thermocouple for measuring the inside temperature
+was made. The general procedure is to charge
+the material by volume in the order, MIC chloroform-water and quickly closed the end
+securely. Then the cylinder is heated electrically
+to the desired temperature and maintained at
+that temperature for two hours. Finally the
+cylinder is withdrawn from the heater and allowed to cool in a well-ventilated hood. When
+the inside temperature has fallen to 1000C,
+gase; are collected in an evacuated gas collector tube and taken for gas analysis by GC. The
+cylinder was allowed to cool to 200 C and the
+solids removed from the reactor by leaching
+with methanol. After evaporating methanol,
+the solids are analybeJ by GC.
+Table 2 gives the experimental conditions
+and table 3 gives the results of gas analysis.
+Table 4 gives the composition of products in
+the acetone extract.
+The presence of amine in the gaseous products in the experiment 9 was recognised but
+the individual identification was not possible
+due to insufficient quantity of the gas mixture.
+In experiment 10, the presence of trimethyl
+amine was confirmed. Other amines are either
+absent or below the level of detection by the
+present procedure. Subsequently, in all the rest
+of the experiments, trimethyl amine was found
+to be present. One additional peak from experiment 14 to 17, which was found to be neutral
+by chemical treatment was identified as being
+due to carbon monoxide.
+5.0 Inferences and Discussion
+The detection of carbon monoxide in the
+gaseous products of experiments 14·17 is an
+important observation. But it is not surprising
+because of the presence of chloroform and water
+in the reaction. December (1985) report describes two experiments (13 and 18) on the
+hydrolysis of chloroform to formic acid by
+water at 200°C. There are instances in literature that report the formation of formic acid
+and hydrochloric acid from chloroform and
+water. Thus formic acid could give rise to carbon monoxide. Alternatively, the origin of
+carbon monoxide can be traced to the reaction
+
+

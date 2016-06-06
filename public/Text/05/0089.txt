@@ -1,0 +1,36 @@
+-18Engineer. Although the personnel may be distributed among
+various stations for their permanent place of posting, they
+should work together as a team for any scheduled maintenance task. (2.4.4.c)
+7.2.12 GEE should have a regular plan for visits by personnel to
+similar power stations elsewhere. The reports of officials
+returning from such visits should be shared among all concerned personnel through a technical newsletter. (2.4.4.d)
+7.2.13 The most important action required is to shift from crisis
+based maintenance to planned maintenance. The steps recommended are: 1. Targets set for availability of sets should
+be realistic. 2. A running list of maintenance tasks on and
+action to upgrade the performance of boiler, turbine and
+especially instrumentation systems be prepared. 3. Whenever
+a set exceeds its targetted availability during a quarter,
+it should be allowed
+
+a
+
+scheduled outage to perform such
+
+maintenance or improvement tasks. (2.4.5)
+7.2.14 The Committee recommends that the deliberations of the outage committees should be widely circulated within and outside the particular power station. (2.5.2)
+7.2.15 The Committee recommends that the laboratories, testing
+equipment and personnel should be upgraded qualitatively.
+(2.5.3).
+Eguipment~
+
+7.3.0
+
+Design and Reliability of
+
+1.3.1
+
+The Committee recommends that GEB should work out a
+definite procedure for inspection during various stages of
+manufacture of equipment. It was learnt that such a programme is included in NTPC contracts with BHEL.(3.5.2.a).
+
+

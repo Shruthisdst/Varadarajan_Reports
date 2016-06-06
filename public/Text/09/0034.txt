@@ -1,0 +1,53 @@
+Table 1
+Predicted Concentration of S02 at Taj Mabal
+From Major Soruces in Agra Region
+Average: 24 Hrly
+
+Unit: uglm3
+
+Season
+
+Agra Region
+Point Sources
+
+Non-Point Sources
+Area
+Line
+
+Winter
+
+11.2
+
+1.5
+
+1.2
+
+% contribution
+atTaj Mahal
+
+(80)
+
+(11)
+
+(9)
+
+Summer
+
+12.3
+
+3.0
+
+1.1
+
+'% Contribution
+atTaj Mahal
+
+(75)
+
+(18)
+
+(7)
+
+Source: NEERI Report on Taj Trapezium Study, July 1993
+
+

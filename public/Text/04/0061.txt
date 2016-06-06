@@ -1,0 +1,90 @@
+51
+Under stable conditions. the plume rise for large di8tance
+is
+F ~
+1\
+2· 9 l
+It • 7)
+There iR flQ;ftin divrrlatt'nce of opinion on the value of the
+numerical constuut. A value of 2.3 instead of 2.9 is often preferred (Perkins, loc. cit), but the difference in Bulphur dioxide concentrations on thls account i8 not large.
+
+h =
+
+IT5 )
+
+(
+
+But considerable differences from the present c~mputations
+can- arise if we consider a very stable atmosphere with little
+or no wind.
+Ullu('r tiJ('-.8C Clrcuwstan(,CA there will be no bending
+of the plume 1 i t will rIse to a certain height until
+the
+~UOr.c1ncv forc~ i!-l completeJy dissipated by mixing wi th the
+environment.
+A relation developed by Morton, Taylor and Turner
+(1956) for such condi tions is
+I
+F '14
+6h - 5·0 s 1/,
+(4.8)
+A comparison of the plume rise evaluated by (4.7) and
+(4.8) ~8 presented below for a wind speed (U) of 3 m sec-I.
+T1BLE -
+
+3
+
+COAWUTATIONS OF PLUME RISE (~ h)
+Plume rise
+
+aO
+
+aZ
+
+5 x 10 3 (sec- 2 )
+
+Driggs (1969)
+
+(m)
+
+Morton et al (1956)
+
+.020
+
+.68
+
+115.2
+
+298.7
+
+.015
+
+.51
+.34
+
+126.7
+145.1
+
+332.8
+387.4
+
+.010
+
+The values obtained by (4.8) are greater by 8 factor
+of about 2.5. Thus (4.8) provides lower valuea of the
+concentration downstream from the stack.
+
+It is not clear up to what distances equation (4.8)
+could be reasonably expected to hold; but in the next section
+wc shall priftcut a comparison wi"th bo~h tho aetB of plume
+rise datu shown in Table 3.
+1t.3
+
+Wind data
+
+In this report, 8 menn value of the wind speed U bas
+been used in ellun tions (3. 1) aud (3. 3). An improvemen t on
+this would be to use a time averaged wind speed at the stack
+heIght.
+
+

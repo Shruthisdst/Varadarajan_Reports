@@ -1,0 +1,56 @@
+'.2
+
+Storage Tank
+The highly toxic and explosive nature of MIC requires that the
+
+storage system and its related instrumentation/control be of high reliability.
+Inspection of MIC storage tanks is difficult, since they are buried.
+Tank 610 was reportedly cleaned and inspected in 1982. Varying quantities
+of MIC from production runs at difierent periods have been filled into tank
+610. Similarly, varying quantities of MIC have been removed at different
+periods.
+Commercially
+
+produced
+
+the form of phosgene and MCC.
+
+MIC contains hydrolysable chloride in
+Ingress of even a small quantity of water
+
+of the order of 40-.50 ml per tonne of MIC, will lead to the reaction of
+water with the hydrolysable chloride to provide hydrogen chloride and with
+a little more of water, aqueous hydrochloric acid. This leads to corrosion
+of stainless steel, the material of construction of the storage tank, leading
+to the formation of ferric chloride which can catalyse the violent run-away
+reaction.
+The Sevin unit could process MIC of the order of 3 to 4 tonnes
+per day. The inventory of MIC in the storage tank was of the order of
+90 tonnes, equivalent to nearly 30 days production.
+It is normal plant practice to have intermediate batch tanks
+to hold production from a single shift or for a day.
+
+The product collected
+
+in these tanks is analysed, its quality ensured and then it is transferred to
+the bulk storage tank. Such a facility of batch tanks had not been provided.
+MIC was directly fed to the bulk storage tanks from MRS witho.Jt any batch
+tank.
+Alternatively, an online analyser could have monitored continuously
+the quality of MIC before it entered the storage tank. An alarm could have
+been provided to alert the operator regarding off-quality MIC and enable
+him to take quick action to prevent contamination of the bulk storage tank
+with off-quality material. There was no provision for such an online analyser I
+alarm system.
+Water is used as the cooling medium in the multi-tubular MRS
+overhead condenser.
+
+Water circulated in the sheH side is at a higher pressure
+
+than the pressure of MIC inside the tubes. Even a pin hole in any (If the
+tubes could lead to a small quantity of water entering the MIC make line
+which is taken directly to the bulk storage tank.
+
+72
+
+

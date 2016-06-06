@@ -1,0 +1,88 @@
+bottles for analysIs at the NIO laboratory in
+Dona Paula, Goa.
+Several varieties of large common lake fishes
+were collected from the Upper La-l{e. Their identification, length, sex and stage of maturity were
+noted down as far as possible. They were dissected and representative portions of different body
+tissues were collected and deep frozen for analysis at NIO, Goa. The Lower Lake was completely eutrophicated and was devoid of the same
+varieties of fish as the Upper Lake. Whatever
+small fishes could be collected from this lake
+were frozen immediately for further analysis.
+However, all the species of fish were not available on all the occasion.
+Four blood samples, 2 ml each, were collected from MIC poisoned male patients, still lying
+at the Hamidia Hospital only during our first
+visit to Bhopal. These samples were centrifuged
+and only the plasma were collected, frozen and
+brought back to NIO.
+At the NIO laboratories, the activated charcoal extracts of the water samples were brought
+to acidic pH by adding 4N HCI to convert the
+amine into its hydrochloride. This was done as
+the hydrochloride is stable for analysis. The adsorbed amines were desorbed by shaking for 6
+hours with 0.1 N HCl.
+Different tissues of fishes were digested with
+4N Hcl overnight to extract the amine. The digested extracts were then neutralized by 10N
+NaOH in a reaction flask. The methylanline gas,
+thus released, was taken into O.OOlN HCI using
+nitrogen gas as the carrier. All the aquous solutions were treated sfrnilarly.
+Attempts were made to analyse the hydrochloride solutions by both gas chromatography
+and spectrophotometry. An alkaline colum
+(USCON 5% + 2% KOH) with column temperature at 500 C, NIP detector temperature 2000 C
+and N2 as carrier gas at the rate of 25 ml/min.,
+was used in a Perkin Elmer Sigma Gas Chromatograph. But the peaks could hardly be detected. We, therefore, analysed the samples spectrophotometrically, concentrating the acid solu·
+tions to 5 mI, applying the lactose method. The
+red-coloured complex was measured at 540 nm.
+The detection limit of the method, calculated by
+replicates of several standard solutions, was 0.2
+ug/ml of the test solution.
+For the determination of AChE, enzymes
+from the different tissues of fishes were extracted by grinding in presence of saline water and
+phosphate buffer (pH 8) and centrifuged at 300
+rpm under refrigerated conditions. These extracts and the plasma from human blood were
+146
+
+analysed spectrophotometncally for their AChE
+activities, using acetylcholine bromide as the
+substrate. The absorbance was measured at 620
+nm. Detection limit, determined by repliate analyses of standards, was 0.01 ug/ml of the test
+solution.
+RESULTS
+The results of the measurements of the biodegradational products and anti-cholinesterase
+activities are presented in Tables 1 through V.
+(i) pH, ammonia and urea in water
+
+Table I indicates the values of pH, ammonianitrogen and urea-nitrogen concentrations of
+water at different depths of the two lakes on
+the threee sampling occasions. It was noticed
+during some of the sampling that the effluents
+from the city of Bhopal were being discharged
+into the Upper t·a1{e. These effluents can be
+expected to contain high amounts of nitrogen
+and phosphorus, the effects of which could be
+seen in the coastal areas of the Lake in the
+growth of copious amounts of weeds and algae.
+As stated earlier, the Lower Lake was fully
+eutrophicated which was evident from the
+large quantities of algae in water samples from
+all the depths. The presence of these algae will
+certainly add to the concentrations of nitrogen
+and phosphorus compounds in water, perhaps
+influenced by the instant toxic effect of MIC,
+before its breakdown in water.
+Values for pH, ammonia-nitrogen and ureanitrogen in the Lower Lake, in general, decreased from the first to the second occasion while
+on the third occasion they increased. We presume that due to the instant toxic effect of MIC
+the organisms died and sank to the bottom,
+which was evident from the high concentrations
+of ammonia-nitrogen and urea-nitrogen in the
+bottom waters. A considerable contribution
+must have also come from the degradation of
+MIC which resulted in very low concentration of
+methylamine in water (Table II). Values during
+the third occasion would indicate eutrophicated
+condition. High values at the surface waters of
+the upper Lake was due to the effluent discharges, as methylamine was absent on all the three
+occasions (Table II). For comparison, we also
+estimated pH, ammonia and urea in tap water of
+RRL during the first occasion. These values
+appear to be fairly reasonable by lSI standard.
+We made an attempt to compute the molepercentage of free ammonia, by applying litera-
+
+

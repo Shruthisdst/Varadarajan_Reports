@@ -1,0 +1,68 @@
+1.2
+
+The Event
+Since the accident occurred in the MIC storage tank 610, it
+
+is important to consider information on aspects such as the chemical com
+position of the contents of the tank, the history of the material stored and
+the observations made by the plant personnel while loading and unloading
+the tank prior to the actual event.
+A t the start of the production run, i.e. 7th October, 1984, tank
+
+610 contained 6.4 tonnes of MIC, presumably from production lots dating
+prior to that time. MIC production run was started on 7th October, and
+MIC was being led to tank 610 till 18th October, 1984. An additional 36
+
+tonnes of MIC that was manufactured during that period was also filled
+in the same tank. On 18th October, about 23 tonnes of MIC were transferred
+to tank 611.
+
+From 19th to 22nd October, all the additional MIC produced
+
+in the plant was fed to and stored in tank 610.
+
+The production of MIC was
+
+stopped on 22nd October and at that time tank 610 contained approximately42 tonnes of MIC.
+
+Tank 611 also contained MIC in quantities of the same
+
+order.
+As per the operating practice, MIC in the storage tank was
+2
+normally kept .under nitrogen pressure of the order of 1 kg/cm g. Reportedly
+2
+till 21st October, the pressure in tank 610 was maintained at 1.25 kg/cm g.
+However, during the night shift (22.45 hours to 06.45 hours) of 21st/22nd
+2
+October, nitrogen pressure in tank 610 dropped to 0.25 kg/cm g abnormally
+and the material in tank 610 continued to be under a low pressure of 0.1
+- 0.25 kg/cm 2g from 22nd October onwards. Recording of such low values
+is not an indication of any positive nitrogen pressure and denotes the tank
+contents were also nearly at atmospheric pressure.
+The nitrogen pressure in the MIC storage tank is also utilised
+to transfer MIC from the storage tank to the Sevin unit. As
+
+liquid material
+
+is transferred, the gas pressure in the tank wiU show a gradual reduction.
+When the pressure in the tank drops to a considerably low value, the rate
+of transfer of MIC from the storage tank to the Sevin unit, would become
+low. The tank would need to be pressurised again to a higher value
+
+by
+
+admitting high purity nitrogen into the tank.
+From 22nd October to 30th November, tank 610 was under nearly
+atmospheric pressure. No transfer of liquid MIC for Sevin manufacture took
+place from tank 610. During that period MIC was bemg transferred from
+tank 611 to the Sevin unit, whenever required.
+
+However, during the 30th
+
+November first shift, there were some problems in the pressurisation system
+of tank 611 and the pressure could not be increased. Therefore, attempts
+were made to pressurise tank 610 and transfer MIC from that tank to the Sevin Unit,
+11
+
+

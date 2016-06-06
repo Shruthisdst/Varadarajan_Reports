@@ -1,0 +1,260 @@
+Calculation of Heat of Formation of
+Trimethyl urea
+
+Calculation of Heat of Formation of Dione
+
+CH 3
+I
+
+N,
+O=C/
+
+C=O
+
+I
+
+I
+
+H 3 C-N,,--- /N-CH 3
+
+C
+Group
+
+No.
+
+Contribution/Group Total
+
+H2
+Group
+
+3
+1
+
+-10.25
+-31.48
+18.94
+13.47
+
+1
+1
+
+Total
+
+-30.76
+-31.48
+18.94
+13.47
+-21.82
+
+No.
+
+..cH3
+
+3
+
+..10.25
+
+-30.75
+
+C=O
+CH2
+
+2
+
+-31.48
+
+-62.96
+
+1
+
+5.57
+
+5.57
+
+3
+
+19.21
+
+57.63
+
+N(Ring)
+
+Contribution/Group
+
+Total
+
+Heat of formation of trimethyl urea =
+-29.82 kcal/gmole
+
+...
+
+__ ................. .-.-._---- --- - -
+
+Calculation of Heat of Formation of DMI
+
+Heat of formation of Dione = - 30.51 kcal/gmole
+
+It
+
+/C,
+
+Calculation of Heat of Formation of
+Trimethyl Biurate
+
+N-CH 3
+
+I
+
+I
+
+3
+
+O=C
+
+/
+
+H -
+
+C=o
+
+"---N/
+
+H
+
+C -
+
+r
+
+H
+
+/
+
+4
+
+0
+
+0
+
+4
+
+H
+
+/
+
+N - C - N - C -N--cH
+
+I
+
+H
+
+H
+Group
+
+- 30.51
+
+--------------- -
+
+o
+H C-N
+
+Total
+
+- -- ---------
+
+3
+
+CH
+
+3
+
+Contribution/Group Total
+
+Group
+
+No.
+
+-CHa
+
+No.
+
+3
+
+·10.25
+
+-30.75
+
+Contribution/Group
+
+Total
+
+..eHa
+
+2
+
+-10.25
+
+-20.50
+
+C
+
+2
+
+-31.48
+
+C=O
+
+-62.96
+
+3
+
+-31.48
+
+-94.44
+
+NH
+
+2
+
+13.47
+
+2
+
+19.21
+
+38.42
+
+26.94
+
+N(Aromatic)
+
+N-
+
+1
+
+18.94
+
+18.94
+
+NH
+
+1
+
+8.5
+
+8.50
+Total .. 47.83
+
+(Aromatic)
+
+Total
+
+-68.02
+
+Heat of fonnation of DMI =-68.02 kcal/gmole
+
+Heat of formation of Trimethyl.Biurate =
+.. 47.83 kcal/gmole
+
+--- ---- -- ---.--.-------- --------------80
+
+

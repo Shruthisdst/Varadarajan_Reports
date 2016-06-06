@@ -1,0 +1,57 @@
+METHODOLOGY
+The following spirometric lung functions were recorded using calibrated Vitalograph
+(Model-S, U. K.) and Morgan's Dry Spirometer (Model M-8, U. K.) in standing position with nose
+clip on. The dry spirometers were frequently' checked for calibration of volume and speed statically
+and dynamically with a 50 ml syringe.
+( i ) Vital Capacity (VC)
+( ii) Forced Vital Capacity (FVC)
+(iii) Forced Expiratory Volumes (FEVo' 75 ' FEVl )
+( iv ) Tiffeneau Index, FEV1/FVC Ratio
+( v) Maximal Voluntary Ventilation (MVV)
+( vi) Forced Expiratory Flow Rate FEFR (200-1200ml)
+(vii) Mid Expiratory Time (MET)
+(viii) Mid Expiratory Flow Rate (MEFR 2S-7S%)
+( ix) Air Velocity Index (AVI)
+( x) Peak Expiratory Flow Rate (PEFR)
+( xi) PEFR/MMEF Ratio
+The population studied was instructed and demonstrated the correct technique to perform
+these spirographic tests. Patients performed at least three satisfactory VC and FVC manoeuvres.
+We determined the test satisfactory if the case understood the instructions and performed the test
+with a smooth continuous exhalation; with apparent maximal effort. The unsatisfactory spirograms
+were discarded on the following grounds :
+(a)
+(b)
+(c)
+(d)
+
+No maximal effort observed while performing the spirometry
+Early termination of expiration
+leakage through mouth
+Mouth piece obstruction by the tongue or teeth
+
+Thus only those spirograms were included in the study which showed less than 5% variation in FVC and FEV) among the three acceptable curves as recommended by Ferris (1978).
+Peak Expiratory Flow Rate (PEFR) was recorded with the help of Peak Flow Meter
+designed by B.M. Wright (Standard Mod~I, U. K,) and the highest value attained was included in the
+study. The values of spirometric lung functions were expressed at Body Temperature and Ambient
+Pressure Saturated with Water Vapour (BTPS). Maximal Voluntary Ventilation was calculated from
+FEV 0'75 by multiplying it by 40. AVI was calculated from the predicted VC and MVV as follows:
+
+% of
+
+AVI
+
+Normal MBC
+
+= -------% of Normal VC
+
+Normal value was considered to be 1.0. Higher values indicated restrictiv~ pattern and
+lower values showed obstructive type of respiratory impairment. The FEVt/FVC percentage between
+70-80% was considered within the normal range and values less than 70CYo indicated central airway
+obstruction.
+The predicted normal values for the various lung function tests were derived from the
+regression equations laid by Rastogi et al (1983) for the adult male population. For the female
+population, the normal predicted values were calculated using Jain's (1966, 1967 & 1969) and
+
+219
+
+

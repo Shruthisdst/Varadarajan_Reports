@@ -1,0 +1,118 @@
+30
+
+CONTINUE
+xO ..::. HO+H
+
+= EQN1CYi
+= EON::(y)
+
+F(I)
+F(::)
+
+F (3) :::: EON::': ( Y i
+DO 40 J ::. 1,N
+
+¥(Jj = S(J)+(p(J)+FeJ})*H/6.0
+CONTINUE
+
+40
+
+t.J5
+
+=
+
+N5+1
+
+NIl):.: MODttJ5,N7i
+AVOL=~OOOO.+(Y(i)~5.0EG3/1000.)*(~7./O.8)
+
+=
+
+~Pl
+PCO~
+
+=
+
+TR
+PVPR
+
+Y(1)*5.0EO~*(O.082+(Y(~)+273.)/AVOL)
+
+=AF'l
+(Y(3)+273.)/(491.0)
+
+=
+
+lO.13565b-(10.42~~46/TR)-(4.94905*ALOG(TR»+O.28959*(TR •• 6.0)
+
+PVPR :: EXP(PVPRi
+C
+
+TVPE*.·TR=·,TR,·PVPR~/,PVPR
+
+PVP ::: PVFR .....55.
+PCHCL::': = EXP(10.b69856-(3S6b.9~3/(Y(3)+273.»)
+SHi1t1A~Rt-1t'1;;+ShMt1A
+
+YCHCL3=YCHCL3-A~2
+
+XIMIC = Y(2}/(Y(2'+YCHCL3+SRMMA)
+XCHCL3 =VCHCL3/Cf(2)+YCHCL3+SRMMA)
+TOTP = PVP*X1MIC + PCHCL3*XCHCL3
+TYPE *, 'PCHCL3,~lMIC,~CHCL3,YCHCL3'
+TYPE *,PCHCL3,XIMIC,XCHCL3,{CHCL3
+AY1=PVP ~klMIC JTOTP
+AY2 = PCHCL3~XCHCL3/TOTP
+AP
+IS THE TOTAL PRESSURE (ATM.)
+AP =(2.0/14.7)+ PC02 +TOTP
+
+c
+C
+
+c
+
+A"1LMIC=AYl
+
+At1CHCL ==AY2
+RCMT IS THE REACTED AMOUNT OF MIC (MOLES)
+AP =(~.O/14.7)+ PC02 + TOTP
+C02MOL=V(1)*S.E03
+TYPE" ~::;2, XC>, CO~t'10L, Y (2) ,Y (3) ., F'CD2, AP, SRt1t1A, Ar'1LMIC, AMCHCL
+IF
+
+041(1. Ea. 0)
+
+THEN
+
+tllR 1 TE (~ , ~32 ) X(, , CO~t10L, Y <2) , Y (3) ,PC02, AF' , SRt1t'lA , At1Lt1 Ie, A,.1CHCL
+ENDIF
+FORMAT(lX,F5.3,lX,F7.2,lX,F5.2,lX,F6.2,lX,F5.2,lX,F5.2.1X,
+C
+112
+
+C
+
+55
+
+F8a3,lX,F5.~,lx,E16.7)
+
+r:o ::
+
+END
+
+c
+
+90
+
+1.
+XO
+
+TLMT
+the upper limit of time T
+IF (X0.GT.TLMT) GOTO 55
+GOlD 25
+CONTINUE
+CLOSE (2)
+
+

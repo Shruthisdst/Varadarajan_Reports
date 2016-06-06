@@ -1,0 +1,57 @@
+ANNEXURE 1
+
+Manufacturing Processes
+Methyl isocyanate is produced by reacting phosgene with methylamine. The reaction takes place
+in two stages. The first stage consists of the reaction of phosgene with monomethylamine leading to the formation of carbamoyl chloride
+(2CH 3 NH 2 + COC1 2
+CH 3 NHCOCl +
+CH 3 NH2 .HCI). The amine is added to the phosgene dissolved in one of the solvents stated earlier (p.2) so that phosgene is in excess.
+In the second stage the suspension obtained
+
+is heated up to 150-2000 C. At elevated temperature amine hydrochloride dissociates, the phosgene reacts with the liberated amine and the carbamoyl chloride splits off HCI, giving an isocyanate. The overall reactions is as follows:
+CH3NH2 + COC1 2 ----:;. CH3N = C = 0 + 2HCl
+
+There are two methods for the continuous
+liquid phase synthesis of MIC. In one method,
+the process is carried out in two steps in two
+separate reactors - one operates at a lo,w temperature and the other at a higher temperature. In
+the other method, the reaction takes place in
+one step in a column type reactor at a high
+temperature (about 200o c). The yield of MIC
+exceeds 90%.
+Phosgene required for MIC synthesis is prepared from carbon monoxide, obtained by passing air over red hot coke, in a controlled manner
+
+168
+
+and then reacting with chlorine gas.
+
+e+0
+
+--..:,. CO
+
+Carbaryl can be synthesised by two principal methods.
+(i)
+
+Interaction of isocyanate with alpha naphthol
+
+Hi) Amidation of the esters of chlorocarbonic
+acid.
+
+o
+
+RN = C = 0 + ArOH~RNH - C~
+'OAr
+
+o
+
+Ar' 0 COel + RNH2 --+RNHC'
++ HCI
+'OAr'
+Both reactions are exothermic and practically irreversible. While the first method is used at
+UCIL, Bhopal, at present, the second method
+was followed up to 1978 at their plant at institute, West Virginia. The esterification of isocyanate is carried out at 60-80 0 C and the isocyanate is gradually added upon stirring to an excess of alpha naphthol. Solvents (e.g. carbon
+tetrachloride) may be used for the reaction with
+naphthol. Both methods give a high yield of product (more than 95%) and have similar cost
+indices.
+
+

@@ -1,0 +1,90 @@
+46
+
+1
+For wind speed (m sec- ) three
+The are :
+
+(i)
+
+U
+
+<
+
+were used.
+
+3-0
+
+(ii)
+
+3·0~ U
+
+<4-2
+
+(iii)
+
+ei~ht
+
+cla~.e8
+
+4·2~U
+
+< 7-0
+
+The classification for mean wind direction was for the
+poirtts of the compass.
+
+Rela t.i va f requen~~ es were evalull ted wi th th e above
+scheme from Dines anemograph records of Delhi for four representative months.
+These are gi,-en in Appendix 1.
+To estimate the impact of uncertainties in input data
+on sulphur dioxide concentration, it is convenient to introduce the variable.
+
+'t'= oz
+h
+
+Whellc e we wri te ( 3 • J )
+
+x = eX
+
+(3.4)
+
+8S
+
+G(
+
+ttl)
+
+h
+
+,
+
+(3.5)
+
+wbere
+
+( 3.6)
+
+and
+
+G
+
+(lJl) == ~
+
+ex p (-
+
+2~2)
+
+(3 .7)
+
+This enab lea us to c onsi der, in turn, the impact
+of errors in (a) meteorological data and stack characteristics, and (b) in
+and
+h.
+Thus, it will be observed
+that the variable C is largely dependent on meteorological
+data and stack characteristics (Q) , while
+Gt'f') is
+
+c:rz
+
+

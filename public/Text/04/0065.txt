@@ -1,0 +1,85 @@
+ss
+1.0. Such all event would make our concentration estimates
+fairly good. From these simple computations, it appears to
+us rea son ab 1 e t 0 in fer th 0. ton mo s t 0 c cas ion s the con c en t r atiOD estimates would be reasonable, especially when 'Y 77,·0
+But, 011 a comparatively few number of occasions, wben 'f' ~<f·O
+the esti~,tes cuuld be out by 50-60~ at a distance 40 km downstrewn f rom the stack.
+
+5.3
+
+Wind Data
+(a) Power Law
+
+As indicated in e.qlJation (4.9 ), a power law was used to
+determine the wiud (U) at the level of the stack height.
+We were
+
+mainly concerned with aacertainib.g the effect for worat meteorological conditions. Consequently, we used n - 0.50 in (4.9) to
+represent stable conditions. The' compu.tations show that the use
+of the power law decreased the concentration values. The numerical value of the ratios.
+(A) Gonceutrution (40 kID) downwind W1 tb pl)w-er law
+Concclltrution (40 km) without power law;
+illl
+
+t-
+
+d
+
+(n) Peak couceutration wi th power In,.,
+
+t-
+
+Peak
+
+COllccutrntioIJ without power law;
+iA f ni rJ y C (tun lHllt.
+A At.utiR ti enl f\flfdysi 8 r41v~al ad very amnli
+variat.ioll of A uud U from oue seusou to auother.
+
+In table 5 we present the average values of A and B from
+two Btack heights. These values were obtained using the wind
+data of Delhi.
+
+TAB L E
+Values of
+Stack heip.:ht
+
+1.
+2.
+
+{m}
+ao
+60
+
+'A'
+
+5
+
+&:
+
+'B'
+
+--L
+
+.JL
+
+.)6
+
+.60
+
+.41
+
+.70
+
+Table 5 indicates that the concentration values
+witho~t 8 power law should be multiplied by a factor of
+about O.~ to obtained the concentration at ~O km and by a
+factor of about 0.65 to obtain the corresponding peak
+
+concentration. The use of a power law would thu8 diminish
+the concentration values by approximately a factor of
+tor stack heights between 60 and 80 m.
+
+t
+
+

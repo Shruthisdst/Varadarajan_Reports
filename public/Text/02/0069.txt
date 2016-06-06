@@ -1,0 +1,110 @@
+components have thus been estimated as 38 tons a balance on this quantity we are able to identlof MIC and 3.04 tons of chloroform. In terms of fy the time at which the water gets totally
+their molar quantities these correspond to nearly consumed. The model in the subsequent stages
+6.66 x 105 moles of MIC mixed with 2.54 x 104 then neglects this reaction. Likewise we have
+moles of chloroform. ThlS mixture in the tank used a counter on the quantities of MIC consumreceived about 450 litres of water (2.5 x 10 4 ed due to its reaction with fvlMA and trimerizamoles) that is assumed to set in the :MIC-water tion. The information is necessary for proper
+reaction. The stoichiometry of MIC-water reac- description of the model in different stages of
+tion suggests that eventually one would end up the reaction mixture. With this background
+with 2.5 x 10 4 moles of MMA and equal quan- information we now turn to the model dev€loptity of C02 that would leave the system. The ment.
+MMA formed however reacts with MIC and
+again basing the calculations on the reaction Phase 1 Model
+stoichionletry suggests that one would end up
+with 2.5 x 10 4 moles of MMA based product. A The mathematical model describing the events
+possible hypothesis that can be made is that during this phase takes into account the reaction
+ignoring other reactions such as trimerization, of MIC with water along with the associated
+we would have about 6.16 x 10 5 moles of MIC heat effects. It is argued that due to the density
+left. The product analysis reveals a large (nearly differences of MIC and water the latter will float
+two-thirds) of total residue as trimer. For the on the surface. This is a conservative estimate
+total resid\le estimated at 15.2 tons,
+this and any contamination of MIC with the chloroamounts to the consumption of about 1.8 x 10 5 form present would further increase the density
+moles of MIC ir' the trimerization reaction. We difference. The model thus envisages a local
+have thus about 4.36 x 10 5 moles of MIC not reaction of MIC with water at the interface, the
+accounted due to the reactior1, ~/hich must have extent of which increases due to the stirring
+left the tank. In addition the chloroform in the action of the generated bubbles of C02. The
+system amounting to 2.54 x 10 4 moles has also heat of reaction that is released causes the templeft the tank. The estimated leakage thus gives a erature of the reaction mass to increase. Part of
+figure of nearly 24 tons of material leaving the this heat will be removed by the volatile reactank that checks well with the accepted reports. tants, which will be vaporising and carbon dioxide will be generated due to the reaction_ This
+In the model developed here this overall will exert a pressure in the tank since the free
+balance will help in identifying the important space available is limited.
+stages during the progress of the reaction. We
+The stage of events discussed above can be
+have now been able to assign approximate values expressed in terms of conservation equations for
+to the quantity of MIC that reaction with water, mass and heat. For the batch mode of operation
+the rate of consumption of which is governed (as is the case during this phase) the equations
+by its kinetics discussed earlier. By maintaining take the following form
+
+dCO
+
+E
+
+2
+
+dt
+
+= r .exp
+1
+
+(T+273) - 293
+
+V
+R
+
+293(T+273 )
+
+cor
+
+=
+
+r
+
+CO
+
+( 11 )
+
+2
+
+dr1IC
+
++ br
+
+= r
+
+dt
+dT
+
+CO
+
+HHA
+
+( 12)
+
+1
+
+r
+
+=
+
+dt
+
+2
+
+V eC
+
+r
+
+co
+
+(- A H ) +
+1
+2
+
+br
+r·1t~A
+
+(- A H )
+2
+
+-A
+
+(13 )
+71
+
+

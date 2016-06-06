@@ -1,0 +1,125 @@
+47
+n function of
+
+OZ
+
+and h.
+
+If we -assume that variations of h
+
+ure smnll comparod to th08 e of C aud
+from (3.5)
+
+(1C
+
++
+
+G
+
+('i'), then we have
+
+l:l G ('t')
+
+(3.8 )
+
+G'fJ
+
+C
+
+V~~I~e~o:~u~o ~ 1~7~j)
+
+have been tabulated by Bohac,
+Ih'(-:-i ek
+from WlliCh w(' 0£U1 comput(' 6 G ('+'>
+In tbe Aub!-H'llu(,Ilt nectinflH we stud J pres en t cs ti mEl tea of the
+two Lerms 011 tile ri gilt hand of(3.B)
+4.
+
+V[ Self:) s r ON OF EltROnS
+
+4.1
+
+Viffusion coefficients
+
+A lar-ge nuwh('r of meteorological and physical features
+influence cry and
+The turbulent structure of the atmosphere 1 th e be i gh t 0 f the stack ab ove th e ground, sur f ace roughness, sampliflg time, wind speed and downwind distances ar(" th~
+main factors which determiue
+and
+It is difficult to
+derive a single expression which will include the effect of 611
+these factors.
+In 'grneral, a samplinlZ; time of 10 minuteB ;s
+ass u me d. n n d II r e ill t 1 vel y 0 pen ) and i s con g ide red for t his
+purpo~e.
+Here we have u~ed lk21roy'B (1t)b9) expressIons for
+ilnd OZ.
+They' w('re
+
+az.
+
+or
+
+a-z.
+
+OY
+
+(4.1)
+
+(4.2)
+where a, b, P and k are cons t811ts.
+The numerical value of
+the se co us tan t S (o r tb ree ca tegor i es of a tmospheri c stab i I i ty
+are given in Table 1.
+
+TABLE -- 1
+Numerical values of 'a,
+Stab j 11. ty
+
+b. p, k
+
+8
+
+k
+
+b
+
+p
+
+1.
+
+Uns tab Ie
+
+.00724
+
+1. 510
+
+1.400
+
+0.719
+
+2.
+
+Neutral
+
+.11000
+
+0.934
+
+1.140
+
+0.698
+
+),
+
+S tau 1 e
+
+.47800
+
+0.655
+
+0.945
+
+0.648
+
+

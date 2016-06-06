@@ -1,0 +1,76 @@
+MIC stored in the storage tanks is to be kept under an atmos-
+
+phere of High Purity (HP) nitrogen. The recommended nitrogen pressure
+2
+in the tanks is of the order of 1.0 kg/cm g. The -tank pressure is indicated
+locally in the field as well as in the control room and controUed remotely
+from the control room by means of a pressure indicating controUer.
+
+HP
+
+nitrogen is admitted into the tank through a make up control valve (make
+up DMV ~ the body material of which is carbon steel.
+
+In case the pressure
+
+is higher than the desired value, nitrogen is vented out into PVH through
+blow down control valve (blow down DMV ~ the body material of which is
+again carbon steel.
+Each of the MIC storage tanks is provided with a temperature
+transmitter on the tank which indicates the temperature of MIC locally
+in the field as well as remotely in the control room.
+
+A high temperature
+
+alarm is provided to alert the operator in the control room in case the temperature of MIC in the tank rises beyond the desired limit.
+Each MIC storage tank is provided with a level transmitter to
+indicate the level of MIC in the tank.
+
+Nitrogen from Gas Blow Back Header
+
+(G BBH) is purged through MIC in the tank and the level is measured with
+back pressure. High and low level alarms are provided.
+SRV is provided on eacti MIC storage tank.
+
+A graphite Rupture
+
+Disc (RD) is located on the pipeline between the tank and the SRV. There
+is a local pressure gauge provided in between the RD and the SRV. This
+would normally-indicate atmospheric pressure. A rise in pressure would indicate
+failure of the RD. Failure of RD can be detected only througt" frequent
+inspection at the site of the tank. The outlet of SR V is of 100 mm (4 II) nominal
+diameter. Three outlets from three tanks are connected to a single common
+RVVH, which has 100 mm (4") nominal diameter.
+A common line designed as MIC reject line is provided from
+
+the MIC storage tanks to send any off-specification material back to the
+MIC plant for reprocessing or to send any contaminated/off specification
+MIC to Vent Gas Scrubber (VG S~ where it is neutralised with- caustic soJution.
+
+1.1.3
+
+Vent gas scrubber :
+The
+
+V~nt
+
+Gas Scrubber (VG S) meant to neutralise the toxic
+
+exhausts from the MIC plant and storage system consists of three sections.
+The upper section of 16.50 mm diameter (.5 •.5 feet) and .5540 mm (18.' feet)
+
+height ;s packed up to a height of 4200 mm (14 feet) with ceramic Berl
+saddLes. The middle section below the packing is of 1650 mm (5.5 feet) diameter
+
+and
+
+2100 mm (7 feet) height.
+
+The third section
+8
+
+comprises
+
+an
+
+

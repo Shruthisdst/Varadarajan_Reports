@@ -34,9 +34,9 @@ class Controller {
 		// Get journal name from URL if not passed
 		if ($journal == '') $journal = $view->getJournalFromPath($path);
 		// Get current issue details for specific journal
-		$current = ($journal) ? $model->getCurrentIssue($journal) : array();
+		//~ $current = ($journal) ? $model->getCurrentIssue($journal) : array();
 		// Show Page
-		(preg_match('/flat\/[^Home]|error|prompt/', $path)) ? $view->showFlatPage($data, $path, $actualPath, $journal, $navigation, $current) : $view->showDynamicPage($data, $path, $actualPath, $journal, $navigation, $current);
+		(preg_match('/flat\/[^Home]|error|prompt/', $path)) ? $view->showFlatPage($data, $path, $actualPath, $journal, $navigation) : $view->showDynamicPage($data, $path, $actualPath, $journal, $navigation);
 	}
 
 	public function isLoggedIn() {

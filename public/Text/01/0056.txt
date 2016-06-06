@@ -1,0 +1,55 @@
+o
+Column oven temperature - 1.5.5 C
+0
+
+Injection port temperature - 2.50 C
+o
+Detector temperature - 300 C
+Injection volume - 2 pi
+Total analysis time - 1.5 min
+Quantitation method - external standard
+
+3.
+
+Carlo Erba - Fracto vap 24.50 coupled with spectra
+physics - sp-\ 100 - computing integrator:
+
+\
+
+G LC conditions :
+Column - FFA P 3% on chromosorb 2-HP
+(glass columns 2 mm 10 x 100 cms)
+Detector - Flame Ionisation Detector (FlO)
+Carrier gas - nitrogen (3.5 ml/min)
+Column oven temperature - 1900 (:
+Injection port temperature - 225 0 C
+Detector temperature - 225 0 C
+Injection volume - 2,.Jl
+Total analysis time - 15 min
+Qua"ltitation method - internal standard
+Several compounds were tried as internal standards, out of which
+dibutyl phthalate was selected since its retention time did not interfere
+with any other component of the sample matrix.
+Standard solutions with internal standard:
+
+Standard solutions of all the compounds with equal amounts
+of internal standard were
+solutions had a wide range.
+
+prepared.
+
+Concentrations of these standard
+
+This was necessary for area matching as in
+
+the case of ex ternal standard.
+Retention time data and order of elution :
+Retention times and elution data for all the compounds on all
+the columns are given in Tables A-2.1 and A-2.2.
+chromatograms are attached in Figures A.I and A.2.
+
+45
+
+Copies of representative
+
+

@@ -1,0 +1,42 @@
+APPENDIX·I
+
+CHEMISTRY AND TOXICOLOGY
+OF METHYL ISOCYANATE
+Chemistry of Methyl Isocyanate
+Isocyanates (R-N =C = 0) resemble aldehydes and ketones in their affinity for active
+hydrogen atoms, but also function as cumulated unsaturated systems thereby making them highly
+reactive. Due to this, isocyanates are useful chemical intermediates. Three isocyanates are of major
+commercial importance. One is methyl isocyanate (MIC), almost all of which is used to make
+carbamate pesticides. The other two are toluene di-isocyanate (TOI) and 4, 4,-diphenylmethane
+diisocyanate (MOl) both of which are used almost exclusively to make urethane and isocyanurate
+polymers.
+TOI and MOl, like MIC, are flammable as well as reactive. MOl and TOI are essentially
+non-volatile, unlike MIC which is highly volatile. MIC is a colourless liquid with a sharp odour. It
+boils at 39.1 °C (at 760 mm Hg) and has a vapour pressure of 348 mm Hg at 20°C. Furthermore,
+although the liquid is slightly lighter than water, the vapour is about twice as heavy as air. If
+released, it tends to stay close to the ground as it diffuses from the source. Thus, MIC has a much
+greater potential for damage than TOI and MOL
+MIC will react with many compounds. The reactions tend to be exothermic and vigorous
+(Fig. 1). MIC and water will react to yield methylamine and carbon dioxide. Methylamine reacts
+further with M IC or other reaction products to give either 1,3-dimethylurea (with excess water) or
+1,3,5-trimethylbiuret (with excess MIC). A trace of acid or base will promote the reaction.
+At room temperature, the MIC-water reaction starts off slowly, and is exothermic. Specifically, it produces about 585 Btu per Ib of MIC or about 3700 Btu per Ib of water. If sufficient
+quantities of both reactants are present, and if the heat is not somehow removed, the temperature
+will go up and the reaction rate will rapidly increase to the point that the MIC will start to boil
+violently. In a closed tank, the pressure could build up to the point that relief valves would open,
+venting both MIC vapour and carbon dioxide .. If safety' devices fail to operate, or if they were overwhelmed by the amount of vapours being generated, the heavy, noxious MIC vapours would escape
+to the atmosphere. MIC in addition to reacting with a great many other chemicals, can also react
+with itself. In the presence of a catalyst, pure M IC will form either a cyclic trimer (trimethyl isocyanate) or a gummy, resinous polymer. Extremely pure MIC will spontaneously form a linear polymer.
+These reactions also are exothermic. Trimerization, for example, liberates about 540 Btu per
+Ib of MIC, equivalent to 54 Kcal per mole of trimer. Any number of substances can catalyze the
+reaction: strong bases such as sodium hydrox!de or sodium methoxide, triphenylarsine, triethylphosphine, metallic chlorides and others. However, the reaction rates and the induction periods vary
+widely with different catalysts. According to the literature, the time required for complete trimerization, using various catalysts, can range from 10 minutes (sodium methoxide) through one hour
+(ferric chloride) to four weeks (4-dimethylaminopyridine). MIC samples contain a small residual
+amount of phosgene which inhibits both the reaction between MIC and water and polymerization.
+But it also should be noted that the phosgene provides a source of chlorine and that most stainless
+steel alloys, although generally chemically resistant, are rather vulnerable to attack by chloride ion.
+In theory, at least, that could lead to production of substances that could act as catalysts.
+
+302
+
+

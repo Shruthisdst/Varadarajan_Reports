@@ -1,0 +1,132 @@
+-24-
+
+Chapter III
+
+-
+
+DESIGN AND RELIABILITY OF EQUIPMENT
+~
+
+~~~~---
+
+3.1.0
+
+Introduction
+
+3.1.1
+
+The imported sets at Dhuvaran have perrormed better than
+the indigenous sets both at Ukai and Gandhinagar as seen
+by the following table .. :
+
+Table I - Availability factor 1977-78 to 1981-82
+
+-
+
+--
+
+Year
+
+--
+
+-
+
+--- -- - - - -Dhuvaran
+Tata- Stage I
+
+- - ... -
+
+1977-78
+1978-79
+1979-80
+1980-81
+1 981-82
+
+...
+
+-- ...
+
+78*
+89
+85
+78
+86
+
+95.45
+83.25
+98~ 38
+94.48
+95.00
+
+----.--~
+
+----Gandhi-
+
+Stage II
+
+-- -
+
+nagar
+
+76.0
+94.5
+
+51.5
+81.5
+40.0
+53.0
+62.0
+
+54.0
+66.0
+53.5
+77.5
+68.0
+
+81~5
+
+94.0
+89.0
+
+Ukai
+
+---
+
+.......
+
+*The figure is based on data for 7 months
+(Sep 77 - Mar 78)
+3.1 .2
+
+Some of the shortcomings in
+
+ope-~
+
+tior,,; of indigenous
+
+sets are a result of design and lanufacturing defects
+and inadequate after sales service by BHEL in terms of
+assistance in solution of problems and supply of spare
+parts ..
+
+.
+
+3.2.0
+
+Design and Fabrication Defects Identi fie d by GEB
+
+3.2.1
+
+Gre
+
+r
+
+has identified several instances where the avail-
+
+ability of the unit s remain poor due to lack of
+quali ty control at fabrication stage and due to poor
+design.
+
+The major points are listed below.
+
+

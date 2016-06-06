@@ -1,0 +1,104 @@
+49
+
+crz
+
+In view of our lack of knowledge about the accuracy of
+we deciued to U8e (".2) to express
+but with aS8umed errora
+in the coefficients a and k. Tbr~e poasibilitiea have been
+explored.
+
+az ,
+
+( 1)
+
+(ii)
+(iii)
+
+'f.'un t
+
+1\
+
++ to,
+
+l'} dud 2U%
+
+iUI
+
+ourntt't.
+
+tUHI
+
+tt
+
+I L(\I' k by
+
+;
+
+Treat k as correct, but alter a
++ 10, 15 and 20~ ;
+Alter bo tb 11 and
++ 10, 15 and 20:'.
+
+by
+
+k by
+
+The resultant changes in concentration estimates are
+
+presented in the next Bection of this paper.
+
+4.2
+
+PLUME
+
+~ISE
+
+The effective atack height is the sum of the physical
+of the stack and the plume ri8e. Tbe latter i8 a function
+of \a) velocity of gases at the point of exit from .tack ;
+(b) atmospheric stability and (c) The bu~y of the effluent
+lase8.
+
+hei~bt
+
+The rise
+
+o~.ccount
+
+of_momentum ba8 been neglected in
+
+This assumption ia not likely to reduce
+the acCUracy of our reault beyond a downwind di.t~nce of a
+
+our
+
+computation8~
+
+few 8tack height. (500 m) from the source of emission. For
+bot plumes, buova"cy Is'by for the more dominant factor.
+
+We expressed the effect of ~Oy •• cy ~y a parameter F,
+which combined the physical characteristic8 of the stack With
+the tempera tu reo f the exbaus t las. F was reI a ted to the
+energy output from the stack by
+Q"
+
+F
+
+v~
+
+= lTCp f T
+
+where Q 18 The emission of beat in Cal/sec. Cp is th~ 8pecific
+heat of a i r , ' is the d~nsjty and T is the environmental
+temperature. The heat emiasion (Q) is
+
+Q=(fCpT)e xQV
+where tpe suffix e denotes the denaity. specific beat and
+temperature of tbe ~Xht1U6t gas aud Q i8 the flow rate
+(m3 sec-I) of the effluent.
+
+(4.4 )
+
+

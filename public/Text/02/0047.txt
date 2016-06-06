@@ -1,0 +1,150 @@
+TABLE A-3.1
+Laboratory Experiments with MIC & Derivatives
+--------------------------~---------------------------- ---------------------------
+
+51.
+
+Reactants
+
+No.
+
+Reaction
+temperature
+
+Time
+min
+
+°c
+2
+
+3
+
+Wt of the product
+in gm
+Acetone
+extract
+
+4
+
+5
+
+Water
+extract
+6
+
+G LC analysis
+of acetone
+extract
+(%w/w)
+7
+
+1.
+
+MICT (2.00g), CHCl3 (9.09g)
+
+200
+
+120
+
+MICT (100)
+
+2.
+
+MICT (1.30g), CHCl3 (3.00g)
+
+200
+
+120
+
+MICT (lOO)
+
+3.
+
+MICT (0.41g), CHaNHaCl (0.14g)
+
+200
+
+120
+
+MICT (100)
+
+4.
+
+MICT (O.4ag), CH 3NH 3 CI (0.29g)
+DMU (0.48g)
+
+200
+
+120
+
+MICT+ DMU
+(qualitative)
+
+5.
+
+MICT (0.52g), NH 4 Cl (0.23g)
+
+200
+
+120
+
+MICT (100)
+
+6.
+
+DMU (2.20g), urea (3.00g)
+
+200-230
+
+300
+
+DMI (1) + unknowns
+
+7.
+
+Methylcarbamoyl chloride (MCC)+
+Dimethyl Allophanyl chloride (DMAC)
+(0.50g)+ Aq NH3 5ml
+
+8.
+
+9.
+~
+
+.....:J
+
+MCC + DMAC (2.35g) + MeNH 2 (excess)
+is solvent CH 2 Cl2
+MCC + DMAC (3.08g) + MIC (4.0g)
+kept at room temperature for ?4 hr
+mixture treated with excess
+MeNH2 in CH2C12
+
+27
+
+30
+
+MICT, DMU, TMB
+(qualitative)
+
+0-5
+
+30
+
+MICT, DMU, TMB
+(qualitative)
+
+27
+
+30
+
+MICT, DMU, TMB
+(qualitative)
+
+Wt in gms
+CI ions in
+wetter extract
+
+7
+
+

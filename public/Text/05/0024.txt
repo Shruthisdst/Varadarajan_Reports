@@ -1,0 +1,44 @@
+-13instrument technician should be available in each shift
+and he should report to the shift charge engineer. He could
+identify the instruments which are not functioning whenever
+a discrepancy is noticed. This would improve the reliability of measurements.
+2.3.2
+
+Many automatic controls are operated manually which is not
+a good operating practice. The unreliability of measurements due to defective instruments and nan-functioning controls have led to this
+
+pra~tice.
+
+Once instruments and con-
+
+trols are functioning properly (Ch. IV) this practice should be checked.
+2.3.3
+
+The Committee found that while a lot of data on operating
+conditions is collected, it is not analysed. The amount of
+data and the routineness of operations naturally lead to
+such neglect. Only when some problems occur, this data is
+examined. The Committee recommends that a small computer
+should be made available at each station which can be used
+to process this data.
+
+It should
+
+b~
+
+programmed to collect
+
+data at the control room, analyse the same, produce warning signals and prepare a summary report of each day's conditions for distribution among plant personnel.
+2.3.4
+
+The Committee also examined the record of operating conditions aver a specified period. It concluded that within
+the limitations introduced by design, instrumentation,
+spares and quality of coal, which are discussed in
+Chapters III
+followed.
+
+&
+
+IV, proper operating procedures were being
+
+

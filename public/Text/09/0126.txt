@@ -1,0 +1,58 @@
+- 2 -
+
+3.
+
+Uncertainties In wind direction
+Uncertain tieD catlsod by fluctuat10no in ,,/illd direction
+are to some extent reflected in table ~ of the Suc:unmar:l of the
+NEERI Report under conoideration. Hourly \'lind dlrcc Lions were
+probably not consIdered £or predicting SOL concentrations
+.from the }'irozabad Glass Industries. A ' zero' value :for
+winter appears questionable, if it is baaed 011 only two wind
+observations per day. There is no mention of a diurnal varia.tion
+in wind direction at this station. ~J.1he same table states that
+~';'-e ~ ~~}~ Lr'::,... to.. that the pollution ( S02 ) predic tions
+for I"lathura wore for Lhe worDt meteorological cOlJdi liiono and
+highest stack emissIons. A clarificatIon of \'Iho.l. was lUeell L
+by the 'worst meteorological condition) • would be helpful.
+The figures in the table suggest that they are short term
+oonoentrations for 24 hours. It would be better to
+consider long term concen-trations based on a wider data sample.
+:;.
+
+AddIj;lon of pollution concentrations from different sources.
+Tablo 2 shows the cumulative concentration obtained
+by addlng the individaual contributions from dIfferent
+sources, i.e., from Agra, Mathura and Bharatpur. This :h:il not
+striotly correct, because the pollution from one source may
+interact with -the p?llution from another source. It should be
+treated as a non lineax problem. Moreover, the wind
+direction from all Lhe three sources need not be identical at any
+given ·time. There oould be the possibili:jy on e££luen-l.s from
+one source interacting with those from another source to
+off-set each other.
+
+4.
+
+Inversions
+There is a critical value of the strength of an Inversion
+In temperature which is modt efl"ective in trappl.ng pollutants.
+In general terms, ·Lh~ effective temperature inversiono should
+satisfy the rollowine criteria: (1) the la.pse rate of potential
+temperature should exceed 0.005 °C/m and (i1) the difference in
+potential temperature between the top and the base of
+an inversion layer should be greater than 2°C. It is Dot
+clear from the NEERI report whether these criteria were
+i'ollowed. On page I1-19 an abnorihally high va.lue of the lapse
+rate ( 28.6°0 / 100 m) has been cited, but there is no mention
+of the depth of this inversion la.yer.
+5.
+pasquill- Glfford classification
+The standard deviations in the azimu-~ha~ and vertical
+directions are related to meteorological varlableo by following
+a classificatlon due to pasquill and Gifford. But, there o.:1:'e
+other classIfications that are aloo in use. In Lhis context,
+we may mention tho schomo or Goldor (D.Golder, 1972,
+Relations among the stability parameters In the surface layer,
+
+

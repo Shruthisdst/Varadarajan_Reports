@@ -1,0 +1,79 @@
+2.
+
+Hawlett Packard • 5730 A with 3380
+A computing integrator
+
+Carrier gas .. nitrogen (35 ml/min)
+Column
+
+oven
+
+temperature .. 1900C
+
+GLC conditions:
+
+Injection port temperature - 2250C
+Column - OV-210+0V-17 3-5% w/w
+on chromosorb W-HB 80/100 (glass
+column 2 mm ID x 180 cm)
+
+Detector temperature - 2250C
+Injection volume 2fll
+
+Detector .. Flame Ionisation Detector
+(FID)
+
+Total analysis time - 15 min
+
+Carrier gas .. nitrogen (30 ml/min)
+
+Quantitation method .. internal standard
+
+Detector temperature - 3000 C
+
+Several compounds were tried as internal
+standards, out of which dibutyl phthalate was
+selected since its retention time did not interfere with any other component of the sample
+matrix.
+
+Injection volume 2,1(,1
+
+Standard solutions with
+
+Total analysis time .. 15 min
+
+Standard solutions of all the compounds with
+equal amounts of internal standard were prepared. Concentrations of these standard solutions had a wide range. This was necessary for
+area matching as in the case of external standard.
+
+Column
+
+oven temperature .. 1550 C
+
+Injection port temperature - 250 0 C
+
+Quantitation method - external standard
+
+3.
+
+Carlo Erba .. Fracto yap 2450 coupled
+with spectra physics .. sp-4100 .. computing integrator:
+
+internal standard:
+
+Retention time data and order of elution:
+GLC conditions:
+Column - FFAP 3% on chromosorb
+2-HP (glass columns 2 mm ID x 100cms)
+Detector .. Flame Ionisation Detector
+
+Retention times and elution data for all the
+compounds on all the columns are given in
+Tables A-2.1 and A-2.2. Copies of representative chromatograms are attached in Figure A.1
+and A.2.
+
+(FID)
+
+67
+
+

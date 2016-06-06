@@ -1,0 +1,77 @@
+61
+Tbe following characteristics were aS8umed for the
+Madras Ile fi De ry :
+Density of the exhaust gas
+
+1180
+
+Specific heat
+
+0.24 cnl/gm/ok
+
+Tempera ture
+
+450 k
+
+Q
+v
+
+1.7 x 10 5 m3 hr- 1
+
+Emission rate (Q)
+
+4000 kg
+
+~tack
+
+beights
+
+0
+
+hr 1
+
+25, 35 and 45 m.
+
+The long term cone ell tra ti on val ues for the above three
+stack heights. are given in Appendix IV.
+As it will be observed from the values in Appendix IV, the peak concentrations
+are observed in Janua~y and August at an approximate distance
+of 2 km from the stack. The values of the peak concentration
+are 122.8 and 97.4 ~g/m3 respectively for January and August •
+.At a distance of 40 km downwind the concentration values are
+3.9 and 3.5tLg/m3 respectively for January and August. The
+prevailing wind is predominently northeasterly in January,
+while in August the winds are largely westerly.
+In the
+computations shown in Apre~dix IV, mean wiqds of Madras for
+a 5-year period (1968-72)- were used.
+We did not use a power
+law for these computations. If a power law had been USCG,
+lower concentrations could be expected.
+
+6.
+
+BACKGROUND AND PERitISSIliLE LEVELS OF SULPliUR DIOXIDE
+
+6.1
+The global background level of Sulphur-dioxide in the
+atmosphere varies from 2.6 to 5.2 Mg/m 3 .
+Thus, we can
+reasonably assume thn t the level of -8_ulphur-di ox1 d~ al ready
+in the air in Agra would be of the order of 5 A.Lg/m) or more
+due to local industries.
+NEERI is actually analysing the
+air samples to have realistic estimates of the present.
+sulphur-dioxide at Agra. This background estimates of sulphur dioxide .ill have to be added to our estimates of sulphur-dioxide from Mathura Refinery to have the realiatic
+estimates.
+
+6.2
+
+The prescribed standards for sulphur-dioxide in different countries express the concentration of this gas a8 averages
+over peri ode of time ra,nging fr.om 1 hour to 1 year.
+In general,
+the tolerable concentration for 1 hour period could be fairly
+high,but when averaged over one year the level is substantially
+reduced.
+
+

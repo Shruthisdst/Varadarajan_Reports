@@ -1,0 +1,118 @@
+REPORT ON SCIENTIFIC STUDIES ON THE FACTORS
+RELATED TO BHOPAL TOXIC GAS LEAKAGE
+1.0 INTRODUCTION
+The leakage of a large quantity of highly toxic
+gas from a buried tank in which Methyl isocyanate was stored at the Union Carbide plant
+at Bhopal on the night of 2/3 December, 1984,
+led to the tragic less of life and to serious damage and disabilities of thousands of people.
+This is the worst tragedy in the history of
+chemical industry. A further quantity of methyl
+isocyanate present at that time in another adjacent tank represented a serious hazard of a
+further leakage. Through a careful scientific
+review of the possible causes of the leakage,
+resulting from a violent chemical reaction and
+the identification of probable circumstances
+and origins of such an event, a number of
+measures were adopted to prevent a recurrence
+of such an explosive reaction. The Methyl
+Isocyanate was processed safely under 'Operation Faith'.
+A scientific study of the chemical nature
+and reactions of Methyl Isocyanate, the features
+of the facilities and controls for its manufacture, storage, utilisation and disposal together
+with full examination of the buried tank and
+its constituents provides basis for outlining the
+factors and circumstances which led to the
+violent chemical transformations and rapid
+leakage of toxic gas. The results of such a study
+are presented in the Report.
+1.1 The Bhopal Pesticides Plant
+Union Carbide has established a facility for
+the manufacture of Sevin (Carbaryl) and its
+formulations in their plant at Bhopal in India.
+From late 1977, Sevin was manufactured by
+using imported primary raw materials, viz.
+alpha-naphthol and methyl isocyanate (MIC).
+The MIC which was imported was made in
+Union Carbide's MIC plant in USA and shipped
+in stainless steel drums. However, from early
+1980, MIC was manufactured in the Bhopal
+plant using the know-how and basic designs
+supplied by Union Carbide Corporation, USA
+(UCC).
+The plant at Bhopal also produced carbon
+monoxide and phosgene as intermediates required for the production of MIC.
+
+The manufacturing process for Sevin involves the reaction of a slight excess of alphanaphthol with MIC in the presence of a catalyst
+in carbon tetrachloride solvent. The know-how
+for the manufacture of Sevin was provided by
+UCC.
+
+1.1.1 MIG manufacturing process
+The raw materials used to make MIC are monomethylamine (MMA) and phosgene. Chloroform is used as solvent in the MIC process, and
+caustic lye for the neutralisation of any toxic
+material requiring disposal.
+Phosgene is produced by reacting carbon
+monoxide and chlorine. Carbon monoxide is
+produced by reaction of petroleum coke with
+oxygen. Petroleum coke is obtained from an
+indigenous supplier, and oxygen is supplied from
+a neighbouring air separation plant. Chlorine,
+MMA, caustic lye and chloroform are brought
+in by tankers and stored in tanks. Facilities for
+storage of carbon monoxide and phosgene,
+both of which are highly toxic gases, were not
+provided. These were utilised for production
+of MIC as soon as produced.
+MIC is produced by reaction of phosgene
+and MMA to methyl-carbamoyl chloride (MCC)
+and hydrogen chloride (HCI). MCC is then
+pyrolysed to yield MIC and HCI.
+The Chemical reactions involved in the
+production of MIC via phosgene are as follows:
+
+1. 2C+0
+
+2
+
+2. COtC1
+2
+
+~
+
+2 CO
+
+)-
+
+CaC!?
+
+J. COC)2+CH3Nfi2.
+
+)
+
+4.. CH NHCOCJ
+3
+
+) CH 3NCO + HCJ
+
+•
+
+CH NI-ICOCl tHe!
+
+3
+
+Phosg~ne
+
+and MMA are reacted in vapour
+phase to give MCC. The reaction products are
+then quenched in chloroform and fed to Phosgene Stripping Still (PSS). Unreacted phosgene
+is removed in PSS and recycled. The bottoms
+from PSS are fed to the pyrolyser where MCC
+is pyrolysed to give MIC and HCI and MIC and
+HCI are separated. The pyrolyser condenser
+feeds the MIC Refining Still (MRS). In MRS,
+the MIC is separated from the chloroform in
+the upper part and is led directly into the
+
+41
+
+

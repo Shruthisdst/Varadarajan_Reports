@@ -1,0 +1,80 @@
+5.0
+
+AN ANALYSIS OF THE EVENT
+
+The background and circumstances, the study
+of the properties of the materials, examination
+of tank residue, experiments on conditions for
+formation of various chemical entities, critical
+examination of relevant features of design have
+all been ~escribed in the previous chapters.
+This provides a basis for outlining factors which
+led to the event, which are given in the following
+paragraphs:
+MIC readily undergoes chemical reactions
+with explosive violence, which produce a
+large amount of heat, and allow a large
+portion of stored liquid MIC to vapourise.
+This is inherent to the nature of the material. Neither the precise conditions Wider
+which such run-away reactions could be
+initiated in MIC nor its manner of prevention are well known.
+A large quantity of MIC was stored in
+underground tanks which have many inlets
+and outlets that can permit entry of contaminants which can trigger off explosive
+reactions.
+The studies described earlier indicate that
+a reaction was initiated and the temperature rose rapidly. There was no 'rate of
+rise in temperature' alarm to indicate the
+rising temperature which would have alerted
+the operator to an early detection of a
+run-away reaction.
+Any emergency dumping of liquid MIC
+into the VGS would not have been feasible
+because the alkali available in the accumulator is grossly insufficient. Further more,
+this would also lead to an abnormal temperature rise in the VGS.
+It is conceivable that gaseous MIC would
+be emitted due to a rapid reaction inside
+the tank. This gas is expected to be neutralised by circulating alkali solution in the
+packed section of VGS. This system is also
+
+grossly inadequate to handle quantities of
+vapourised IvIIC as large as were emitted
+during the event. Calculations show that
+even if the normal design load for VGS is
+taken into consideration, the VGS is inadequate to neutralise a discharge of 28
+tonnes of vapourised MIC in about 2 hours.
+Therefore, neither ~he liquid nor the gaseous
+disposal system was capable of handling
+the event which occurred on the night of
+December 2, 1984.
+The relief valve design could not permit
+free flow of large quantities of gases, certainly at the level at which they were generated during the event. Thus, the tank
+contents were subjected to pressures much
+higher than 40 psig and correspondingly
+high temperature.
+From the examination of the tank residue
+and from the conditions of formation of
+the residue, it is surmised that the temperature reached in the bulk storage tank
+may have been around 250 0 C. The total
+energy balance on the tank also indicate
+that the probable temperatures would
+be in the range of 200 to 250 0 C. Information from the mechanical examination
+of the tank indicate that the pressure may
+have reached 11 to 13 kg/cm 2g with the
+corresponding temperatures in the range
+of 200 to 3500 C.
+The chemical analysis of the tank residue
+clearly shows the evidence of entry of
+approximately 500 kg. (1100 lb) of water.
+The fact that the tank 610 was not under
+pressure of nitrogen for approximately
+two months prior to the accident also
+indicates that conditions existed for entry
+of contaminants such as metallic impurities through the high pressure nitrogen
+line. As emphasised earlier, many such
+impurities have a catalytic effect on the
+possible reactions MIC can undergo.
+
+89
+
+

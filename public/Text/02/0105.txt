@@ -1,0 +1,115 @@
+TABLE 3
+Gas Analysis of MIC Decomposition products
+(Qualitative)
+
+Sample
+
+No.of
+peaks
+
+Expt 9
+
+2
+
+Identification
+
+Remarks
+
+Amines?
+
+Individual identification could not be done
+
+Expt 10
+
+Amine
+MMA nor DMA
+
+The peak was identified as TMA by GC/Ms
+
+Expt II
+
+TMA
+
+Comparison with aq.solution of TMA was done.
+
+Expt 12
+
+2
+
+TMA (minor)
+Acetone (major)
+
+Acetone is from solvent used
+
+Expt 13
+
+2
+
+TMA (major)
+Acetone (minor)
+
+Poor concentration of the sample.
+
+Expt 14
+
+3
+
+Not identified
+TMA
+Acetone (Tr)
+
+GC/MS was carried out. But only one peak corresponding to TMA was obtained concentration
+was also poor.
+
+Expt 15
+
+3
+
+Not identified
+
+Peak (1) was found to be neutral by chemical
+treatment and the presence of CO was dete'cted
+2
+by IR also. HCN is ruled out.
+
+Expt 16
+
+3
+
+Not identified
+TMA
+Acetone (Tr)
+
+Peak no.(1) disappeared after 4 days. CO is
+suspected at this stage.
+
+Expt 15 B
+
+2
+
+CO
+TMA
+
+(I) was confirmed by comparison with pure CO
+
+CO
+TMA
+
+Peak (I) was confirmed by comparison with pure
+CO and later by Mr Salvapathi.
+
+Expt 17
+
+2
+
+and later by GC analysis of gas in the coal
+division (Mr Salvapathi).
+
+GC conditions:
+Column: 12' 1/8" SS column, 396'Carbowax 2% KOH coated on chromosorb WAW.
+Column temp: 30°C, Injector temp: 100°C, Detector (FID) temp: 100°C
+Carrier gas (N2) flow: 6-8 ml/mt.
+
+107
+
+

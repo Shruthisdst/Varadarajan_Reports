@@ -1,0 +1,109 @@
+Alternatively, an online analyser could
+have monitored continuously the quality of
+MIC before it entered the storage tank. An
+alarm could have been provided to alert the
+operator regarding off-quality MIC and enable
+him to take quick action to prevent contamination of the bulk storage tank with off-quality
+material. There was no provision for such an
+online analyser/alarm system.
+Water is used as the cooling medium in the
+multi-tubular MRS overhead condenser. Water
+circulated in the shell side is at a higher pressure than the pressure of MIC inside the tubes.
+Even a pin hole in any of the tubes could lead
+to a small quantity of water entering the MIC
+make line which is taken directly to the bulk
+storage tank.
+4.3
+
+Nitrogen:
+
+MIC is kept under a pressure of nitrogen which
+is supplied by a carbon steel header common to
+all the storage tanks. There is a strainer in the
+nitrogen line. Subsequent to the strainer the
+pipe is of carbon steel and leads to make-up
+DMV which also has a body of carbon steel.
+Similarly, the blowdown DMV is also of carbon
+steel body. These carbon steel parts may be
+exposed to MIC vapours and get corroded,
+providing a source of contaminant which can
+enter the MIC storage tank.
+The level in MIC' tank is measured by purging of nitrogen. The header supplying this
+nitrogen is made of carbon steel and the connection from the manifold to the level instrument
+is by a copper tube. There is no strainer or
+filter in this line which can prevent entry of
+rust or metallic particle entering the tank
+along with nitrogen.
+4.4
+
+Instrumentation and Control System:
+
+The pressure in the MIC tank increases rapidly
+if MIC is contaminated with water. There is
+no high pressure alarm to alert the operator
+about the build-up of pressure.
+There is a graphite rupture disc between
+the tank and the safety valve. This graphite
+rupture disc may break becauge of pressure
+surges even under normal conditions. There
+is no provision for an alarm to bring such a
+breakage of rupture disc to the attention of
+the operator.
+
+86
+
+For the storage of a lethal chemical such as
+MIC, two instruments in parallel ( one for
+control/indication and another for alarm) are
+normally provided. No such provision is made.
+For example, quite often the level readings
+have not been recorded, reportedly because
+the level system used to be out of order very
+often due to choking problems. In fact, after
+the event, since the only level monitoring
+system provided for tank 611 was not functioning, it was not possible to ascertain the
+exact quantity of MIC in that tank. An additional level measuring system would have
+helped in such a situation.
+Ingress of contaminants or water can start
+a reaction with MIC which will begin slowly
+and produce a rise in temperature of the tank
+contents. However, the range of the temperature
+transmitter provided was only -250 C to +25 0 C,
+with a high alarm setting at +11 o C. The contents
+of the tank were being stored at ambient temperature, which varies approximately from
++150 C to +40o C at Bhopal. The temperature
+of MIC in the storage tanks for most part of
+the year was higher than the high temperature
+alarm setting, i.e. +11 o C. Indeed the temperature of material in the tank was higher than
+the maximum of the range of the temperature
+transmitter, i.e. +250 C. In such circumstances
+the actual temperature was not known and the
+transmitter was of no value. Further, provision
+of "rate of rise in temperature" alarm would
+have invited the operator's attention to the
+start of such a reaction. No such provision was
+made.
+4.5
+
+Refrigeration
+
+There is only one common compressor and
+chiller system for all the three MIC storage
+tanks. For such a hazardous material as MIC ,
+where maintaining it at a low temperature is
+considered very important, a spare compressor
+and chiller system would have ensured proper
+chilling even when the main compressor and
+chiller system is under repairs or maintenance.
+The provision of spare compressor and chiller
+has not been made.
+4.6
+
+Vent Gas Scrubber
+
+The VGS is designed to neutralise a maximum
+of about 3.5 tonnes (7700 Ib) of MIC at a
+maximum rate of about 9.6 tonne/hr (21200
+lb/hr) in a vapour form.
+
+

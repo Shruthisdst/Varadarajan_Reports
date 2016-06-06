@@ -1,0 +1,92 @@
+2.2.4. Analytical Procedures:
+Different techniques were employed for the
+quantitative estimation of compounds in the
+samples. The organic compounds were determined by gas liquid chromatography (GLC).
+Except for the amines, all the organic compounds could be well separated on FF AP
+column or other column as detailed in
+Annexure 2. Acetone was used as the solvent
+for the analysis. It was found that acetone in
+presence of dimethyl-amine (2%) dissolved
+about 95% of the residue. The acetone insoluble (approximately 3-6%) showed metal
+chlorides (approximately 1%). It did not contain
+amines or other identified organic compounds.
+The amines could be separated using a TEPA+
+KOH column on chromosorb 102. Most of the
+compounds were isolated from the residue
+using various techniques and their identity
+established by spectral data (IR, NMR and MS)
+by direct comparison with those of pure compounds. The acid present in the samples and the
+chloride '~ere determined by potentiometric
+titration.
+Metallic ions as iron, chromium, nickel,
+calcium and magnesium were determined by
+atomic absorption and sodium by flame photometry.
+Moisture contents In the samples were
+determined by Karl-Fischer titration.
+• Accuracy and reproducibility of analysis
+were established by using standard mixtures
+prepared from pure compounds.
+
+2.2.5. Analytical Results:
+
+11. Chloride
+12. Metallic ions (Fe, Cr, Ni, Mo, Na, Ca,
+Mg)
+The analytical results are summarised in
+Tables, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7 and 2.8.
+2.3.
+
+'Total representative' sample of residue
+and its analysis:
+
+A total representative sample was prepared by
+mixing samples drawn from the various windows
+of the tank. The sample thus prepared as representative of the entire quantity of the residue
+was mixed and homogenised. This sample was
+prepared by mixing equal quantities from 22
+different residue samples. These samples represent the bottom portions, middle portions
+and top portions at different axial positions
+along the 40 feet long storage tank. Two such
+samples were prepared initially, each of which
+was divided into 2 portions. These were then
+cross-mixed to provide two representative
+samples.
+Total analysis was carried out on this sample
+and the analytical results were used to calculate
+various factors relating to the 'event'. The analytical procedures adopted were the same as described earlier. The results of the analysis are presented in Table 2.9.
+The total identified compounds in the
+sample add up to about 95%. As indicated earlier, the residue sample contain about 3-6% of
+unidentified tarry materials.
+
+2.3.1. Product distribution:
+
+The following compounds were identified in Besides the presence of various metal and
+the residue samples taken from various locations chloride ions, the residue contains 10 organic
+in tank 610. The chemical structures of the first compounds. These are presented as kg moles
+in the last column of Table 2.9. The tank
+seven compounds are given in Figure 2.3.
+re~idue contains 40.7 kg moles (or about 7000
+kg of MIC trimer). The next highest molar
+1. Methylisocyanate trimer (MICT)
+concentration is that of DMI with 17.0 kg moles
+2. Dimethylisocyanurate (DMI)
+(2675 kg) followed by the chloride ions with
+3. Dimethyl urea (DMU)
+a concentration of 15.2 kg moles (540 kg).
+4. Trimethyl urea (TMU)
+All the aroines taken together add up to 16.9
+5. Dione
+kg moles in the residue (800 kg). In all, a total
+6. Trimethyl biuret (TMB)
+of 97 kg moles of compounds are present in
+7. Tetramethyl biuret (TRMB)
+the residue, accounting for about 12 tonnes
+8. Monomethyl amine (MMA)
+out of the 12.5 tonnes of the residue estimated
+9. Dimethyl amine (DMA)
+to be present.
+10. Trimethyl amine (TMA)
+
+57
+
+

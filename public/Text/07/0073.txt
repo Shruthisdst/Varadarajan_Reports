@@ -1,0 +1,101 @@
+A ""exlI re 2.1
+
+Gas liquid chromatography (GLC)
+The first ten compounds of the tank residue
+listed under 2.2.5 were estimated by GLC.
+Various columns were investigated for separation and quantitative estimation. The following three columns were found suitable for the
+separation of first seven compounds and their
+quantitative estimation. The procedure used
+for determination of amines is described separately.
+
+1. FF AP - 3 - 10%
+2. OV-210
+3.
+
+t OV-17 - 3-5%
+
+Carbowax 20 M TPA - 5-7%
+
+Variation in the load of the phase helps
+in eluting all the components in shorter time.
+Detennination
+Urea
+
+of MICT,
+
+DMI, Dione and
+
+external standard methods was the detennination of standard deviation for each standard
+compound. The results of reliaoility tests using
+internal standard are recorded in the Tables
+A-2.3, A-2.4 and A-2.5.
+All the values obtained by using different
+methods are within the acceptable range for
+GLC analysis.
+Standard solutions:
+The standard solution of each compound was
+prepared by using purified compounds, with
+a concentration to match the quantity of that
+compound actually present in the samples. All
+the standard compounds (synthesised or isolated) were characterised by their spectral
+data. Acetone was used as a solvent for preparing the solutions. Standard solutions of
+various concentrations of each compound were
+prepared to match the peaks of the sample
+matrix.
+
+Sample preparation:
+
+Instruments and chromatographic condItions:
+
+About 3g of the sample was weighed in a 100
+ml beaker and repeatedly extracted with acetone containing 2% dimethylamine. The extraction was repeated four times with 15 ml portions of the acetone containing dimethylamine.
+Dimethylamine ensures the dissolution of all
+the organic compounds excepting the tarry
+compounds in the sample. The extracts were
+made up to 100 ml and the solution (0.4 J I)
+was injected into the GLe. About 3 to 6%lOf
+tarry residue remained undissolved. Only metal
+:!hlorides (0.8%) could be identified in the
+insoluble residue. The results were calculated
+oy the reporting integrator. The accuracy of
+the results was checked by injecting known
+;amples into the GLe.
+
+The following three instruments were used
+for the gas chromatographic analysis.
+
+1.
+
+Shimadzu gas
+coupled with
+
+chromatograph
+RIA
+reporting
+integrator
+
+GLC conditions:
+Column - FFAP 10% on chromosorb
+WAW (SS column of 1/8" ID x 6')
+Detector - Flame Ionisation Detector
+(FlO)
+Carrier gas - nitrogen (60 ml/min)
+Column oven temperature - lSOoC
+
+In the case of analysis done using internal
+;tandard quantitation, concentration of interlal standard was kept constant for standards
+is well as samples.
+The reliability and reproducibility of the
+nethods were checked by analysing known
+;tandard samples. The results obtained by
+tbsolute calibration curve method are tabulat!d in Table 2.9. Reliability test used for the
+
+66
+
+Injection port temperature - 250 0 C
+Detector temperature - 250 0 C
+Injection volume · 0.4f-l
+Total analysis time - 43 min.
+Quantitation method - absolute calibration curve method 44.
+
+

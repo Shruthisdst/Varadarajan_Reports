@@ -1,0 +1,168 @@
+1:4BLE 3.2
+Material Balance
+
+Chemical Reaction
+
+Product
+
+Kg. molE'
+(kg.)
+
+Water
+
+l\1IC
+
+Consumed
+kg.
+
+Consnmt'd
+kg.
+
+MIC+H 2 0
+
+-+
+
+MMA+C0 2
+
+MMA
+
+4.17 (129)
+
+237.7
+
+75.0
+
+MIC+H 2 0
+
+-+
+
+DMI+TMA+DMA+
+
+DMI
+TMA
+DMA
+
+17.04 (2675)
+7.17 (423)
+5.47 (246)
+
+3792.2
+
+277.4
+
+DIONE
+
+2.49 (391)
+
+425.8
+
+44.8
+
+NH 3 +C0 2
+
+3 MIC+H 2 0+2CHCl a
+
+-+
+
+Dione+2HCl+
+CO 2+CCI 4
+
+2 MIC+H 2 0
+
+-+
+
+DMU+C0 2
+
+DMU
+
+1.83 (161)
+
+208.6
+
+32.9
+
+3 MIC+H 20
+
+-+
+
+TMB+C0 2
+
+TMB
+
+0.81 (117)
+
+138.5
+
+14.6
+
+TMU
+
+1.87 (191)
+
+319.8
+
+67.3
+
+MICT
+
+40.72 (6964)
+
+6964.0
+
+3 MIC+2H 2 0
+
+-+
+
+TMU+NH 3 +2C0 2
+
+3 MIC -+ MICT
+
+512.0
+
+12086.6
+Overall reactions
+212.0a MIC+28.45 H 2 0+4.98 CHela -+ 4.17 l\1l\1A+ 17.04 DMI+7.17 TMA+5.47 DMA
++ 2.49 Dione+1.83 DMU+O.81 TMB
++ 1.87 TMU+40.72 MICT+4.98 Hel
++ 2.49 CCI 4 +4.64 NH a +28.45 CO 2
+
+ANNEXUTE 3.1
+
+EXPERIMENTAL PROCEDURE;
+a) The reactions at atmospheric pressure and
+room temperature were carried out either
+in a pyrex or stainless steel tube with a
+loosely fitting cork through which a thermometer was fixed to observe the temperature
+of the reaction. The rise in temperature due
+to the exothermic reaction was noted. In
+the reaction, wherein a trace of iron catalyst
+was added (Expt. No. 17 of Table A-a.l),
+after an induction period of about 1 hr a
+vigorous trimerization reaction set in. The
+temperature rapidly rose to 4045 0 C, and
+!vi1C boiled off through the loosely fitting
+cork.
+b) The reactions were carried out in closed
+stainless steel bombs at specified tempera-
+
+78
+
+tures and predetermined times as given in
+Table A-a.l. The bombs were cooled to ooC
+or less and the product extracted, first
+with acetone and then with water. The
+residue from the acetone extract was subjected to direct GLC analysis. Both an
+OV-210 plus OV ..17 on a chromosorb
+column, which shows tetramethylbiUIet
+(TRl\1B) as a clear separate peak and FF AP
+on a chromosorb column, were used for
+analysis. Details of analytical instrumental
+conditions and methods of standardisation
+and peak matching are in Annexure 2.
+The values in parentheses reported
+in
+column 7 of Table A-3.1 represent the
+approximate percentages of these components present in the total acetone extract
+for the particular experiments.
+
+

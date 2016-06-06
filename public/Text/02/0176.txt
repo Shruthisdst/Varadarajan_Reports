@@ -1,0 +1,96 @@
+ANNEXURE 5
+
+A. ANALYTICAL METHODS AND STUDIES
+
+Carbon-tetrachloride: Spectroscopy grade rnaterial was used.
+
+Spectrophotometric Detennination of Aliphatic
+Isocyanates Air
+
+m
+
+APPARATUS
+
+Spectrophotometer:
+
+Spectronic-21,
+with 1 cm path length quartz cell.
+
+equipped
+
+ANALYTICAL PROCEDURE
+
+1. Take 0, 0.95, 1.90, 2.85, 3.80 ml of standard isocyanate solution in heating tubes
+and dilute to 10 ml with absorbing solution (this corresponds to 0, 5, 10, 15 and
+20 ug of isocyanates).
+
+Heating tubes: Glass tubes (30 ml cap.) with
+stopper and tapered at the bottom.
+
+2. Neutralise the solutions in the tubes with
+5.0 ml of 4.0 M sodium hydroxide solution.
+
+Water bath: Thermostat for constant heating
+
+3. Add 1.5 ml of sodium borate by pipette
+and mix.
+
+arrangement at
+
+750
+
+C.
+
+Separating funnels: 30 ml cap. for separating
+the organic layer.
+REAGENTS
+
+4. Add 0.1 rol of 0.3% 1-fluoro-2,4-dinitrobenzene solution and again mix.
+5. Heat the tubes for 15 minutes at 750 C in a
+thermostatic water bath.
+
+Standard sodium hydroxide solution: 4 M and
+6. Remove the tubes and cool for 5 minutes.
+O.lM
+Absorbing solution: Dilute 36 ml of conca HCI
+to 100 ml with distilled water. Mix 50 ml of
+the resulting solution with 50 ml of dimethyl
+sulfoxide (DI\lS0).
+
+Sodium borate buffer solution: Dissolve 30.0 gm
+of boric acid in 700 ml of distilled water. Add
+slowly, while stirring, 4.0 M sodium hydroxide
+solution until the pH is 8.8, as indicated by a pH
+meter.
+
+Next add 5.0 ml of 0.1 M sodium hydroxide
+solution and mix.
+7. Add 3.0 ml of CC14 by pipette (using rubber
+bulb) in each tube. Mix the contents of the
+tube for one minute and transfer the liquid
+to 30 ml separating funnel, allow the two
+phases to separate.
+8. Take the organic layer in a 5 ml volume
+flask.
+
+l-Fluoro-2,4-dinitrobenzene solution:
+Take 9. Add 20 ml CCl4 to the aqueous phase in
+30 ul of 1-fluoro-2,4-dinitrobenzene by microthe separating funnel and repeat the extracsyringe into 5 ml of DMSO in a 10 ml volution.
+metric flask. Dilute the solution to volume with
+DMSO. Prepare a fresh solution daily.
+10. Transfer the organic layer into 5 ml volumetric flask and make up the solution to
+Stock isocyanate solution: Take 10 u1 of hexavolume with CCl4...
+methylene diisocyanate (HMDI) in 50 ml of
+DMSO in a 100 ml volumetric flask. Dilute 11. Absorbance of CCl4 extract is measured
+the solution to volume with DMSO. Prepare
+at 352 nm, using the blank solution to zero
+fresh solution daily (1 ml = 52.50 ug isocyaof the spectrophotometer. Plot the calinate).
+bration graph.
+Standard isocyanate solution: Take 2.5 ml of 12. Determine the amount of Isocyanate in the
+stock isocyanate solution and dilute to 25 ml
+unknown sample by reference to the caliwith DMSO (1 ml = 5.25 ug isocyanate).
+bration graph.
+
+178
+
+

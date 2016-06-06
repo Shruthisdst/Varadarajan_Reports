@@ -1,0 +1,126 @@
+TABLE A-2.1
+Retention Times of Different Compounds on FFAP
+(10% and 3%) Column
+3%FFAP
+Retention time
+min
+
+lO%FFAP
+Retention time,
+min
+
+81. No.
+
+Compound
+
+1.
+
+TMU
+
+1.6
+
+0.94
+
+2.
+
+MICT
+
+3.95
+
+2.0
+
+3.
+
+DMU
+
+4.96
+
+2.55
+
+4.
+
+DIONE
+
+10.48
+
+4.79
+
+5.
+
+TMB
+
+12.61
+
+5.80
+
+6.
+
+DMI
+
+32.28
+
+12.68
+
+7.
+
+Internal standard
+dibutyl phthalate
+
+8.15
+
+(Conditions as given in previous page)
+
+TABLE A-2.2
+Retention Time of Dzfferent Compounds on
+OV-210 + OV-17 3% w/w Column
+81. No.
+
+Compound
+
+Retention time, min
+
+1.
+
+TMU
+
+1.42
+
+2.
+
+DMU
+
+1.78
+
+3.
+
+MICT
+
+5.55
+
+4.
+
+TRMB
+
+6.04
+
+5.
+
+TMB
+
+6.66
+
+6.
+
+DMI
+
+8.3~
+
+7.
+
+DIONE
+
+(Conditions as given on previous page)
+
+10.80
+
+

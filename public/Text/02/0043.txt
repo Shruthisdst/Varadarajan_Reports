@@ -1,0 +1,104 @@
+)
+
+CH 3 NH-"-NHCH3 + CO 2
+
+(1 )
+
+o
+DMU
+
+MIC
+
+> CH3NHC0 CONHCH3
+
+1
+CH
+
+(2)
+
+3
+
+TMB
+These reactions are essentially' complete
+between 50 0 to lOOoC. Thus, small quantities of water get scavenged by excess MIC
+generating one equivalent mole of TMB and
+C02'
+
+3.2
+
+Chloride ion
+
+Chloroform present in MIC appears to be
+the main source of high cr ion content in the
+residue. However, mechanism of formation by
+hydrolysis with water is most unlikely since
+no water would be expected to remain in
+excess MIC at temperatures at which chloroform is known to react with water.
+
+min. (Expt. No. 44 in Table) gave maInly TMB
+and MIC trimer (MICT) along with a smill
+quantity of DMU. The TMB was approximately
+equivalent to the water taken. No OM! was
+detected and only a trace of dione was seen.
+At 200 0 C and above, the ~hermal fragmentation and other reactions of ..lI'MB begin to
+occur and products found in Tank 610 can be
+detected. T,hus, the above reaction when conducted at 20QoC (Expt. No. 18) and especially at 215 0 - 220 0 C (Expt. No.45), produces
+TMU, DMI and Dione in addition to MICT and
+TMB. As the reaction temperature is raised further to 250 0 C (Expt. Nos 33 and 36) the QU811tities of TMU, DMI and Dione increase and TMB
+decreases.
+
+The small quantities of phosgene, methylcarbamoyl chloride (MCC) and dimethyl a11ophanyl chloride (DMAC) present in MIC would
+Thus, TMB is an important intermediate and
+also contribute equivalent amounts of cr appears to playa crucial role in the conversion
+ion.
+of MIC to products formed in Tank 610.
+
+3.3
+
+3.4
+
+Trimethylbiuret (TMB)
+
+The TMB formed is quite stable thermally
+up to temperatures close to 2200 C. Thus, the reaction of MIC + CHClg + H2 0 at 190°C for 40
+
+Dione
+
+The diane is readily formed by reaction of
+TMB with formaldehyde or its equivalent as
+shown in Eq. 3.
+
+H
+
+/C,
+
+r
+
+CH 3 -NH
+
+CH3
+
+~C~
+
+HI
+H3
+TMB
+
++ CH 2 0 •
+
+>
+
+to
+
+H
+
+(3 )
+
+2/
+
+L3
+Dione
+
+43
+
+

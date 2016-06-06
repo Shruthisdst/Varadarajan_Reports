@@ -1,0 +1,114 @@
+OPEN (liNI T=2, FILE=- FN, S Tt.1 TU5= 'Nt:l.J ' )
+
+c
+
+Input paratlleter values ht?t"e. N i..,; tIle tlo.
+
+N
+
+Crt
+
+t:'quaticins to be $olved
+
+= :3
+
+N5 = 1
+"0(1)=0.0
+YO(2)=4.00-C4.*57.~0.08/119.5)
+
+"0(3)=20.
+YCHCL3=(4.*57 •• 0.08/119.5)
+AP=O.O
+E1BR == 15.0
+E2BR :: 20.0
+RHO:: 0.8
+CP := 0.5
+DHl - 18. ~5E,)3
+DH2 := 18.25£(,3
+DH3 := 300.0*57.0
+RO=O.O
+TYPE +.-,' Initial g~ss values at-e: '
+TYPE *,'YO(1)=',YO(1),'YO(2)=',YO(2),'YO(3):',YO(3),'TIME:=',RO
+WRITE(2,*) 'Initial guess values are: '
+WRITE(::,*> 'YO(1)=' ,YOCU, 'Y()(2):=' ,YO(2), 'YO(3)=' ,YO(3), 'TIME=' ,RO
+WRITE(2,*> 'B=',B,'RFC02=',RF
+WRI TE (::, *) 'XO, CO::t'iOL, Y (2) ,Y (3) ,PCD2, AP, SRMt-1A, AMLt1IC, At'1CHCL '
+RO = 0.0
+Y(l) = YO(l)
+Y(2) = YO(2)
+
+c
+
+Y(3)
+
+= YO(3)
+
+F(l) :: Y(1)
+F(2)
+Y(2)
+
+=
+
+F(3)
+
+=
+
+Y(3)
+
+BOTO 140
+XO
+
+140
+
+= RO
+
+=
+
+F(1)
+EQN1(Y)
+F(2) = EQN~(Y)
+F(3) = EON3(Y)
+DO 10 J = 1,N
+S(J) := Y(J)
+
+P(J) = F(J)
+Y(J) = S(J)+O.5*H+F(J)
+10
+
+CONTINUE
+
+= RO+H/2.0
+= EQN1(Y)
+
+XI)
+F(l)
+
+F(2) = EQN'2(Y)
+F(3) = EQN3(Y)
+DO 20 J
+
+P(J)
+
+20
+
+=
+
+1,N
+
+= P(J)+2.0*F(J)
+
+V(J) = S(J)+O.5*H*F(J)
+CONTINUE
+F(1) == EQN1(Y)
+F(2) :.:: EDN2(Y)
+F (3) = EG!N3 Cl")
+
+=- 1 ,N
+P(J) - P(J}+2.0*F(J)
+Y(Jf ~ S(J)+H+F(J)
+
+DO 30 J
+
+89
+
+

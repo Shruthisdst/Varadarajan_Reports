@@ -1,0 +1,106 @@
+-38Chapter IV
+
+OTHER PROBLEM AREAS
+
+outa~es
+
+4.1.0
+
+Analysis of
+
+4.1.1
+
+Power Stations are complex systems and it is diffioult to
+pinpoint exactly the causes of problems as usually a number
+of interrelated factors play their part.
+
+As the following
+
+table shows, there are a number of reasons for unscheduled
+outages.
+Table I - Unscheduled outages by equipment.
+Ukai and Gandhinagar (since date of commissioning)
+
+-- - - - - - - - - -- --Cause
+No. of
+- - - - - - - - - - - - - ~u~a~e~
+
+---10 -Total
+
+- - --
+
+- - --
+
+332
+115
+
+19669
+8639
+
+49.63
+
+41
+78
+134
+8
+
+Boiler
+Turbine
+Condenser
+Auxiliaries
+Elect rical
+Fuel handling
+Others
+
+----
+
+-Hours
+--- -
+
+455
+7828
+
+1.15
+19.75
+6.75
+0.10
+0.78
+
+~578
+
+41
+310
+
+46
+
+- - - ----
+
+21.84
+
+--
+
+- -- - - - - - - -
+
+Most of the outages are accounted for by the problems in
+boilers.
+
+The forced outages in turbo-generators have been
+
+fewer but have been of much longer duration.
+4.1.2
+
+A E Co. has submitted a list of forced outages yearwise
+
+since commissioning.
+
+This is at Appendix
+
+20
+
+It is
+
+noticed that most outages are of short duration and
+the overall availability of the set does not vary very
+much from year to year.
+
+

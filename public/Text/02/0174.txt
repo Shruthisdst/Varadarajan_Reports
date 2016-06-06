@@ -1,0 +1,224 @@
+102. alpha-BHC
+
+28
+
+40~2
+
+.69
+
+8
+
+103. beta-BHC
+104. gamma~HC (lindane)
+
+20
+
+4022
+
+.49
+
+8
+
+15
+
+40~2
+
+.37
+
+5
+
+105. delta-BHC
+106. PCB-1242 (Arochlor 1242)
+
+12
+26
+
+4022
+4022
+
+.29
+.65
+
+6
+5
+
+107. PCB-1254 (Arochlor 1254)
+108. PCB-1221 (Arochlor 1221)
+
+21
+14
+
+4022
+4022
+
+.52
+.35
+
+109. PCB-1232 (Arochlor 1232)
+110. PCB-1248 (Arochlor 1248)
+111. PCB-1260 (Arochlor 1260)
+112. PCB-lOI6 (Arochlor 1016)
+
+23
+18
+13
+15
+
+4022
+4022
+4022
+4022
+4022
+2998
+2998
+
+.57
+.45
+.32
+.37
+.15
+18.1
+19.9
+
+2
+3
+1
+2
+3
+20
+19
+
+14.1
+
+18
+
+30.7
+53.7
+55.5
+
+25
+28
+28
+
+4
+1
+(organics)
+
+113. Toxaphene
+114. Antimony
+115. Arsenic
+116. Asbestos 6
+
+6
+544
+
+117. Beryllium
+
+423
+
+118. Cadmium
+119. Chromium
+120. Copper
+
+918
+1609
+1663
+
+2994
+2994
+2994
+2994
+
+121. Cyanid.e
+122. Lead
+123. Mercury
+
+1019
+1312
+
+3051
+2994
+
+33.4
+43.8
+
+19
+27
+
+491
+1038
+566
+688
+
+2971
+2994
+
+16.5
+34.7
+18.9
+
+20
+27
+21
+
+570
+1635
+
+2976
+2993
+
+22.9
+19.2
+
+25
+19
+28
+
+124. Nickel
+125. Selenium
+126. Silver
+127. Thallium
+128. Zinc
+129. 2,3,7 ,8-tetrachlorodibenzo-n-dioxin (TCDD)
+
+5"98-
+
+2997
+2998
+
+54.6
+
+*
+
+Indicates compound identification as a probable artifact.
+
+1
+
+Represents the total number of times a particular pollutant was found in all the tabulated
+industries.
+
+2
+
+Represents the total number of samples analyzed over all industrial categories.
+
+3
+
+Represents the number of industrial categor:es in which the pollutant was found (total
+number tabulated = 36 organics and 28 metals). Where a compound was identified in only
+one category, that category has been indicated in parentheses.
+
+4
+
+Resolution of these isomers is often difficult.
+
+5
+
+Under the conditions of the screening protocol, anthracene and phenanthrene coelute.
+
+6
+
+Not reported because so few industries have been sampled.
+
+176
+
+

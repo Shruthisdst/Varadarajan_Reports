@@ -1,0 +1,87 @@
+44
+T
+
+Ambient air temperature;
+
+s
+
+Atmospheric stability
+
+(~ ~)
+Ts az
+
+u
+
+Mean wind
+
+g
+
+2
+Acceleration due to gravity (m sec- )
+
+x,y
+
+Dis tane es down wind (x) and
+
+speed (m/se~);
+
+crOSB
+
+;
+
+wind (y)
+
+from the stack;
+z
+
+Vertical distance from the ground;
+
+H
+
+Physical height of the stack (m);
+Plume rise (m)
+
+;
+
+Effective stack beight
+
+b
+
+(H
+
++ Ah);
+
+Standard deviations (m) 01- plume
+concentration along y and z.
+
+3.
+
+BASIC EQUATIONS
+
+The ~round level concelltr.ltions from an elevated source
+are providecl by the Gaussian di~tribution. The short term
+concentrations (1 hour) at tbe'··ground are,
+
+-
+
+Q
+
+X'- TTUOYo;
+
+(3.1)
+
+In this expression we assume that there is no diffusion
+downwind in the x direction.
+Tbis is a reasonable assump~ion
+f,..,~ large sampling pe.riods.
+To obtain 3 aut! 24 hour concentrations, the 1 hour
+values were multiplied by 0.84 and 0.59 respectively.
+These
+factors were obtained on empirical considerations. Turner
+(1970) suggested an expression of the form.
+
+IXs
+
+(3.2)
+
+

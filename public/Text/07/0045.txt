@@ -1,0 +1,47 @@
+in part the chloride and fully all other materials in the residue of tank 610. From the products
+found in the residue, the calculated amount of heats of chemical reactions and the extent of bulging
+of the exhumed tank, it is surmised that the temperatute in the tank rose above 2500 C at the time
+of the accident. It has been observed, in preliminary laboratory experiments that pure MIC made
+by a route which does not involve phosgene or chloroform, when subjected to heating 300°C
+produces small amounts of hydrogen cyanide. In the presence of chloroform, hydrogen cyanide
+formation is not found. Further experiments at higher temperatures are planned.
+
+A detailed analysis of the features of design of the plant has been made together with the
+characteristics of MIC, MIC, when contaminated with traces of metallic impurities, which act as
+catalysts, undergoes a violent polymerisation, and the heat generated can volatilise a large proportion of MIC. The gas is highly toxic on inhalation. Use of iron, steel, aluminium, zinc, galvanised
+iron, tin, copper are prohibited from use in areas where MIC can come in contact. Commercially
+produced MIC cOlltains phosgene which according to Union Carbide, acts as inhibitor of polymerisation. It is estimated that ingress of a few litres of water would lead to the elimination of phosgene
+and hydrolysable chlorides and produce hydrochloric acid which in turn can produce metallic
+impurities by reaction with the tank.
+There are no facilities for collecting MIC produced separately in each shift and the material
+is directly led into the storage tanks without batchwise analysis. There are no on-line analysers.
+Similarly, nitrogen from a neighbouring factory is fed directly into the storage tanks, without full
+intermediate storage and quality determination. Carbon steel sections are used in the connectors to
+the storage tanks. Copper tubes are used in connectors to the level instruments of the tank. The
+system of instruments for alarm to indicate sudden increase in temperature are not suited to the
+conditions of operation. Only a single refrigeration system for cooling of MIC in two tanks was
+installed and it had not been operated for some considerable time.
+MIC has the combination of properties of very high reactivity with minimum contaminants,
+ready volatility to become gas and very high inhalation toxicity. The installed facilities provided for
+disposal of unstable liquid MIC in alkali or for the neutralisation of gaseous emissions from violent
+reaction, on examination are found to be not capable of meeting the objectives of such disposal in
+a very short time of two hours.
+The ingress of about 500 kg. of water alone, without metallic contaminants, would have led
+to a reaction with three to four tonnes of MIC and gradual rise in temperature to 70°C, below the
+boiling point of MIC at the safety valve pressure. The very rapid explosive rise in temperature and
+pressure in the tank 610, implies conditions for a run-away trimerisation reaction already existed.
+Ingress of water and reaction with MIC would generate carbondioxide evolution and cause mixing.
+The storage tank conditions would then equal those in a well mixed reactor, supplied with heat.
+Once initiated, the trimerisation reaction had features of auto-catalytic and autothermal reactions
+and temperatures increased rapidly to 250°C. The relief valve design could not permit free flow
+of large quantities of gases at the level at which they were generated and therefore further reactions continued.
+The presence of sodium at levels of 50 to 90 ppm in the samples from residues of tank 610
+indicates ingress of some alkali, possibly derived from the Vent Gas Scrubber Accumulator. It is
+known that the tank 610 could not be pressurised with nitrogen at any time after 22 October,
+1984. The contents of tank 610 were virtually at atmospheric pressure from that date providing
+opportunities for entry of metal contaminants. From a' perusal of the reports of the events of the
+night of 2/3 December, 1984, it appears during the cleaning of choked filters with water in the Relief Valve Vent Header, such water, perhaps mixed with alkali from Vent Gas Scrubber Accumula-
+
+38
+
+

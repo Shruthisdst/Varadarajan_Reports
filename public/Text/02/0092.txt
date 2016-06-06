@@ -1,0 +1,70 @@
+O.018084(~.O.X0~0.0::6~}+(3.0*XO.*2.0*O.14~5E-04)
+
+R2T0 =
+
+= R~TO-(4.0*X0*~3.0~O.70a8E-05)
+
+R~TO
+
+RTRIM
+
+~
+
+R~TO*E2*RFTRIM/S7.0
+
+?\LEAL = 8000 • .o~SDRT (TOTF'/3. 0) +Y1NIC1l ( (V (2) .... 273
+ALEAI: 1 ::.. (Y 1 t1 I C-.< 57.011 (Joe. 0 J ... {. Y ( 1 ) *44 .. 0/100(1. (»
+
+ALEAJ, ;
+
+a
+
+)
+
+1'::.73. ) *CD
+
+(4. / -::." ) ~ ALEAl-:./ ?ILE'~J, 1
+
+C15 = -3.* RTRIM*VARTRM - ALEAV
+EONl = C15
+RETURN
+END
+Function #3
+
+FUNCTION EDN2(Y) _
+D I t'1ENS I ON Y ( :::; )
+COMMON X0, f: , F~HO ., CP ., DH 1 ,DII~ ~ m r::, C 1. ER ., ~'::.E.R , Ai='
+
+,RF ,RFTR I t'1, VARC02 , v?-rRTRM
+COMMON ~/1HIC ,ALEA:~, nCO~T, :;ALEi4}::', TDTF ,RTRli1, RDH"3, CD
+E2
+EXP(E~BR*«Y(2)+'::.73.)-~~~.O)/l293.0*(Y(~)+273.»)
+
+=
+
+R2TO
+R~TO
+
+=
+
+O.O!808+(=.O*~0~0.0~~82)~(3.0*)u**2.0*O.14~5E-04)
+
+= R=TO-(~.O«XO~*3.0&O.7088E-G5~
+= F~~TO*E'::.*F:FTnIt1/57 .. 0
+
+RTRlt'1
+
+Cl = 1.0/(RHOwCP)
+C7~RTRIH*DH3!47.5
+EON~
+
+~
+
+RETURN
+END
+
+94
+
+(Cl~RDH3~C7)
+
+

@@ -1,0 +1,123 @@
+10
+
+TABLE - J
+
+(Mineral phases present in the Sample)
+
+Type of
+
+Nos. of
+
+Sanple
+
+Samples Sarrples
+
+Marked
+
+Marble
+
+MIneral
+
+Phases
+
+Major
+
+Minor
+
+3
+
+Calcite
+
+Gypsum, Dolomite,Quartz
+
+4
+
+Calcite
+
+Quartz. Dolomite
+
+6
+
+Calcite
+
+Quartz
+
+14
+
+Calcite
+
+Gypsum, Quartz
+
+18
+
+Calcite
+
+Unidentified opaque mineral
+
+22
+
+Calcite
+
+Mica, Quartz, Beryl,
+
+9
+
+Opaque mineral
+23
+
+Calcite
+
+Dolomi tel Opaque mineral
+
+26
+
+Calcite
+
+Gypsum, Quartz,
+Dolomite, Beryl
+
+27
+
+Mortar
+
+3
+
+10
+
+Quartz
+
+Kaolinite, Gypsum, Calcite
+
+Quartz
+
+Kaolinite, Gypsum, Calcite
+
+16
+
+3
+
+Dolomi te
+
+12(a)
+
+Sandstone
+
+Calcite
+
+Quartz
+
+Kaolinite
+
+2
+
+Calcite
+
+Unidentified opaque mineral
+
+13
+
+Calcite
+
+Quartz, Gypsum
+
+

@@ -1,0 +1,141 @@
+S5
+
+CONTIt-.lUE
+WRITE(~,*) ·AP~NMIC,NCHCL,NCO~,RMOLES.SMINUS
+
+:
+
+I TI: ( 2 f ~ ) ~p , t ~t1 ! C , NCHCL , NCO~ , Rt10LES , Sri I NUS
+I TE <:2, '*) >:0, CD:t'1GL, y <:::) , y (::) ,peo:, TOTP, ~P, (~ALEAV:, RC02T ,AVOL, ~,Ctrll
+1 ,F\Ct1T ,SI~t1NA , Y 1 t" I C , Y 1 CHCL, YCHCL::, lCHCL::
+
+~JR
+~~R
+
+WRITE(~.*) l*~***~~~~~*~+,**~~*~~~*+~**~~******+,****+,****+,~**+,~*+~ ~~~~
+
+1+*'*~+-+'
+
+CLOSE
+
+(2}
+
+END
+
+c
+c
+c
+
+Function #1
+
+FUNCTION EQNllY>
+DH1£NsrON Y (3)
+XO,B,RHO,CP,DH1,DH2,DH3,E1BR,E~BR,AP,RF,RFTRIM,V~~C02,VA~TRM
+
+COMMON
+
+CONI'10N ALEA}" RC02T ,A{"LEAI<, Rt~i1A, F:TR It-1, Y111IC, Y1CHCL, ALE.;K3, TOTP, CD
+
+E1 ;
+
+EXP(E1BR+.«Y(~)+273.)-~93.0)/(293.0*(Y(3)+273.»)
+
+R1T0 ~ O.6~4E04-(2.0~0.951E04~XO}+{3.0*O.493E04~XO**2.0)
+
+R1T0
+
+~
+
+R1TO-'4.0~O.101E04*XO**3.0)+(5.0~O.711E02*X0**4.0)
+
+VCOR=(27J.~TOTF-1.E-03)/(22.4*(Y(3)+273.»
+
+RCO~T
+
+RITG~El~VCOR*RF
+
+==
+
+ALEAV2 = 8000.0~5QRT(TCTP/3.0)*Y(1)*«27~.+Y(3»/273.)*CD
+ALEAKt == (Y1MIC~57.0/1000.0)+(Y(1)*44.0/1000.0)+(Y1CHCL*11q.S/l000.0
+ALEA;<~ = ALEAR:21 ALEAf.1
+
+EONi
+
+=
+
+nC02T*VARC02-ALEA~2
+
+IF (EQN1.LT.O.O} THEN
+EON 1 == 0 ••)
+
+c
+c
+c
+
+ENOIF
+RETURN
+END
+Function #2
+
+FUNCTION EON2(Y)
+DIt-1ENSIOt.: Y <:::;)
+CDMMOtJ XO,B,~HO,CP,LH1,DH~,DH3,E1BR,E2BRtAP,RF,RFTRIM,VA~C02,VART~M
+j.~Lr::.;V,
+
+CGt1t·10N
+
+£1 ~
+E2 ~
+R1TO
+R1T0
+
+RCO.2T , '~rlLC::A}, , r;~t1t-IA ,RTR I t1 , Y 1 t1 Ie, Y 1 CHCL , t1LEHI<..3 , TOTP , CD
+
+EXr(E1BR*«V(3)~~73.)-~9:::;.G)/(293.G~(Y(3)~273~»
+EXP(E2DR~«Y(~)+273.)-:~3.0)/(=;3.0*(Y(3)+~73/})
+
+=
+=
+
+o.a~4E04-(2.0*O.951E04*XC)+(3.0*O.493E04~XO~*2.0)
+
+R1TO-C~.~~0.101~04*A0~~3.0)+(5.0*0.711E02*XO*~4.0~
+
+VCOfi=(=7~.~TOTP~1.E-0~~/(2~.4*(Y(3)+273.)
+
+=
+
+RC02f
+R~ro
+R~TO
+
+==
+=
+
+RTr;'It1
+
+R1T0*El~VCGR*~F
+O.160SE-Ol+(=.O~X0*O.0:=82)+(~.O*XO*~2.0&0.~42~E-04)
+~2TO-(4.u*~O**3.0~O.7088E-05)
+
+= R:TC,-:!E~-{-F'FTRIi·1/57.:)
+
+r:(1f1A~El+. (f~:1 rO"'<-:::7:!~ .. ~TOTP-f1E:-(;:::/
+
+{:::: • .!'• ..!- ('{ \::i +~7:::. ) 1 ) '~Rt­
+;::. 6,'·"),). O-l-SCRT (TO Tr= 13. (} J or ,'1t1IC* ( ('{ C::; I +:':73. ) : ::73. i '"-tCD
+AL:::.-iK 1
+(Y 1t1IC~t3:. 01 1 (JOfj • (" .. ('{ (1 ) *-1-·L . .-, /1/)00 .. (, \ + \ '11 CHr;L-t119. 5/1(H)O ..
+
+ALE:;}~
+
+ALEN~:::
+
+:: ALE{=1f', I
+
+ALE?t~.1
+
+87
+
+

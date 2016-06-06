@@ -1,0 +1,33 @@
+Th~
+
+Dispersal of Pollutants from a
+Refinery Stack
+
+by
+PK Das, RK Datta & BM Chhabra
+
+Meteorological Office, New Delhi-3
+
+ABSTRACT
+
+There Is proposal to establish a refinery near Mathura durmg
+the late Fifth Plan or early Sixth Plan. Mathura is about 40 KM
+from Agra, where one of the major to_urist attraction in India - The
+raj Mahal is located. The designers of refinery are, a& a consequence, concerned about whether-the quantum of sulphur dioxide
+released from the refinery stacks ~ould damage the Taj Mahal.
+
+To meet t,his requirement, we' have computed the concentrati,()(1
+of sulphur diOXide at different distances downstream from a r~finery
+stack assltming' Gaussian distribution G'! the pollutant8. Delb~ wind
+data have been used for the computations, the same have been dis-cussed here. In particular, we preseat quanti~alive estimate of
+the impact of errors in vertical diffusion coefficients. the plume
+rise and meteorological data. A compari80n ba8 been made of concentration values obtained with a limited number of Agra winds with the
+estimates based on Delhi wind data. Computations have also been lot
+the refinery in Uadras, so that the model could be tested against
+field data in the vicinity of the Madras Refinery. We also show the
+use of power~law to define vertical wind profile. It reduces the
+concentration estimates without it by a factor of approximately t.
+
+41
+
+

@@ -1,0 +1,103 @@
+3.0
+
+CHEMISTRY OF FORMATION OF
+COMPOUNDS IN TANK 610
+
+Having established the presence of the comSummaries of a few representative experipounds described in Section 2 and listed in ments are given in Table 3.1. Experimental
+2.2.5 in the residue in tank 610, it was procedures along with details of laboratory
+desirable to find conditions and circumstances experiments (Table
+A-a.1) are given in
+leading to the formation of each chemical Annexure 3.1.
+entity. It also became necessary to gain some
+Observations:
+understanding of the complex chemistry of 3.2
+the reactions that occurred and the various
+plausible routes by which the products found Based on the above mentioned experiments, the
+could have been formed.
+following observations were made:
+
+3.1
+
+Experiments:
+
+MIC reacts with small quantities of
+water slowly at room temperature,
+with a half life of 3 to 4 hours.
+
+ti.
+
+Addition of a trace of ferric chloride
+to the above reaction mixture at room
+temperature results in a vigorous reaction after an induction period.
+
+iii.
+
+DMU and TMB are readily formed by
+reaction of MIC with water.
+
+iv.
+
+Since simulation of the exact conditions of
+the total event that occurred in tank 610 was
+not possible, experiments were carried out by
+taking small quantities of MIC and subjecting
+them to different reaction conditions. The
+MIC used for these experiments was from
+material collected from tank 611 from the
+Bhopal plant. Its composition is given in Table
+2.2. It contained CHel3 and hydrolysable
+chlorides.
+
+i.
+
+MICT is formed readily from MIC.
+(Presence of MICT has also been noted
+in various parts of the plant). It can
+also be formed from TMB by beating.
+It is very stable product and is not
+easily transformed into other products.
+
+v.
+
+The formation of DMI is not noticed
+below 200 0 C. TMB alone on heating
+to temperatures above 2000C also
+gives DMI.
+
+vi.
+
+Dione formation was noticed only
+above 220 0 C and the quantity increase
+as the temperature is raised.
+
+vii.
+
+Presence of chloroform is considered
+necessary for the formation of Dione.
+
+viii.
+
+It appears that part of the chloride
+present has come from chloroform
+present in MIC when the reaction
+temperatures exceed 20Qo C.
+
+Two sets of experiments were carried out:
+a) In the first set, a few experiments were
+done with MIC which was taken in
+loosely stoppered pyrex tubes essentially at atmospheric pressure, and
+reacted with different reagents.
+b) In the second set of reactions, MIC
+and/or its derivatives, with or without
+reagents, was taken in stainless steel
+containers, sealed and heated to and
+maintained at different temperatures
+for predetermined times. After cooling,
+the seal was broken and the residue
+was examined. Gaseous products have
+not been examined in these experiments. Further work will be done to
+identify and estimate the gaseous products as well.
+
+73
+
+

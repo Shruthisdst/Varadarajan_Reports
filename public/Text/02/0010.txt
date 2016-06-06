@@ -1,0 +1,122 @@
+Metal ions: The residue after treatment with
+hydrochloric acid was tested_ for metal ions.
+Positive tests were obtained for the following metallic ions: iron, nickel, chromium and
+molybdenum
+
+L
+2.
+3.
+4.
+5.
+
+Cyanide
+
+6.
+70
+8.
+
+ions:
+
+Residue sample
+negative test for cyanide ions.
+
+2.2.4
+
+showed
+
+Analytical Procedures
+
+Different techniques were employed for the
+quantitative estimation of compounds in the
+samples. The organic compounds were determined by gas liquid chromatography (GLC).
+Except for the amines, all the organic compounds could be well separated on FFAP
+column or other columns as detailed in Annexure 2.1. Acetone was used as the solvent for
+the analysis. It was found that acetone in
+presence of dimethyl-amine (2%) dissolved
+about 95% of the residue. The acetone insoluble (approximately 3-6%) showed metal chlorides (approximately 1%). It did not contain
+antines or other identified organic compounds.
+The amines could be separated using a TEPA +
+KOH column on chromosorb 102. Most of
+the compounds were isolated from the residue
+using various techniques and their identity
+established by spectral data (IR, NMR and
+MS) by direct comparison with those of pure
+compounds.
+The aCid present in the samples and the
+chloride were determined by potentiometric
+titration.
+Metallic ions as iron, chromium, nickel,
+calcium and magnesium were determined by
+atomic absorption and sodium by flame photometry.
+Moisture contents in the samples were
+determined by Karl-Fischer titration.
+Accuracy and reproducibility of analysis
+were established by using standard mixtures
+prepared from pure compounds.
+
+2.2.5
+
+Analy tical Results
+
+The following compounds were identified in
+the residue samples taken from various locations
+in tank 610. The chemical structures of the first
+seven compounds are given in Figure 2.3.
+
+If)
+
+9.
+10.
+11.
+
+120
+
+Methylisocyanate trimer (MICT)
+Dimethylisocyanurate (DMI)
+Dimethyl urea (DMU)
+Trimethyl urea (TMU)
+Dione
+Trimethyl biuret (TMB)
+Tetramethyl biuret (TRMB)
+Monomethyl amine (MMA)
+Dimethyl amine (DMA)
+Trimethyl amine (TMA)
+Chloride
+Metallic ions (Fe, Cr, Ni, Mo, Na,Ca,Mg)
+
+The analytical results are summarised in
+Tables, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7 and 2.8.
+2.3 'Total representative' sample of residue and
+its analysis:
+
+A total representative sample was prepared by
+mixing samples drawn from the various windows
+of the tanK. The sample thus prepared as representative of tn~ zntire quantity of the residue
+was mixed and homogenised. This sample was
+prepared by mixing equal quantities from 22
+different residue samples. These samples represent the bottom portions, middle portions
+at different axial positions along the 40 feet
+long storage tank. Two such samples were
+prepared initially, each of which was divided
+into 2 portions. These were then cross-mixed
+to provide two representative samples.
+Total analysis was carried out on' this sample
+and the analytical results were used to calculate
+various factors relating to the 'event'. The
+analytical procedures adopted were the same
+as described earlier. The results of the analysis are presented in Table 2.9.
+The total identified compounds in the
+sample add up to ~bout 95%. As indicated earlier, the residue samples contain about 3-6% of
+unidentified tarry materials.
+2.3.1
+
+Product distribution
+
+Besides the presence of various metal and chloride ions, the residue contains 10 organic compounds. These are presented as kg moles in the
+last column of Table 2.9. The tank residue
+contains 40.7 kg moles (or about 7000 kg of
+MIC trimer). The next highest molar concentr~­
+tion is that of DMI with 17.0 kg moles (2675
+kg), followed by the chloride ions with a con-
+
+

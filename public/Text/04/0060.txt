@@ -1,0 +1,98 @@
+50
+
+Puttiug (4.4) in (4.3) we hove
+
+F =(rr~pTP)x(fCpT)eXQV,
+F
+
+or
+
+=
+
+3·7X!05X(PCpT)exQV
+
+«(,.5)
+
+when the numerical "alues of Cp,f uud T for drYljair nre
+inserted, F is expressed in (~.5) in units of. sec- J •
+If we use tlierfollowing representative values
+
+1.7 X 10 5
+
+V
+
+Q
+
+Fe : :
+_I'
+
+( C p) e
+
+Te
+\.. e
+
+0
+
+=:;
+
+11~U
+
+m3
+
+hr- 1
+
+gr.l/m 3
+
+U. 2 }. 18 en].
+
+g m-
+
+10
+
+1
+k-
+
+(\ n d
+
+~50 Ok
+
+bs er ve ,
+
+There is not much scope for the changes in the numerical
+value of F, unless we consider moist environmental air or use
+different stack characteristics.
+rise.
+
+The 'b'lovan~y parameter is closely related to the plume
+For short distances downwind, we have
+
+t:. h =
+
+Bri~g9
+
+I· 6 X J.!! X -:L2/3
+U
+(1971) used 1.6 for the numericni
+
+( it • 6 )
+
+valu~ of the constant
+in (/•• 6), but socle authors 118ve used 1.32 (Per~in3, '197 /1).
+In our computations we have used 1.6 for the ~onstant;but the
+results are not likely to be substantially altered by nsing
+1.32 instead of 1.6.
+
+There is divergence of opInion about the plume rise at
+lar&e (greater than 1 km) distances from the stack. In ~eutral
+aud unstubl~ equilibl-ium, it is generally agrl.ed that the
+~tability parameter (s) is 110 longer an important variable
+only F and U need be considered for large distances. In
+this report, we hav~ used a formulation due to Briggs (1969)
+in which equation (4.6) is used upto a critical distance xl,
+but subsequently tile downstream distances were weighted by a
+constant factor. Tile critical distance,is approximately ten
+times the stack height. As we arc mainly interested in estimating the heigbest concelltration of sulphur dioxide in the
+worst meteorological cQnditions, we will be hereafter concerned
+with only a stable atmosphere.
+
+

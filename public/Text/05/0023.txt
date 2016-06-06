@@ -1,0 +1,35 @@
+-12of the control room had not been done at the time of commissioning of the sets. The quality of assistance available from BHEL at the time of comm·3sioning varied and depended on the quality of BHEL personnel posted from time
+to time. The documentation available at the time of commissioning in the form of check lists and manuals were"inadequate and did not reflect the benefits of commissioning
+experiences elsewhere in the country.
+2.2.2
+
+Instrumentation was usually completed within periods ranging from 6 months to 2
+
+~ears
+
+from the date of commissioning.
+
+However as mentioned later, many of the instruments and
+controls are not working at all or are unreliable even
+today.
+2.2.3
+
+The commissioning problems accounted for a much lower level
+of generation during the first year of operation of the
+sets. Both Ukai and Gandhinagar reported availability factors of 52 and 54 per cent respectively during the first
+year. A.E. Cots 'Dr Station had an A.F. of only 22% in
+its first year of operation.
+
+2.3.0
+
+Operating and Maintenance Practices.
+
+2~3,1
+
+A considerable amount of data on operating conditions is
+recorded at intervals of either one hour or four hours.
+5equential event recorders however are not installed at
+any of the stations. As many of the instruments are not
+reliable, some of the data on operating conditions is inaccurate. While recommendations for improving instrumentation are made elsewhere (Ch. IV), it is suggested that one
+
+

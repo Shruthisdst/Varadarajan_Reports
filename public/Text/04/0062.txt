@@ -1,0 +1,201 @@
+62
+
+Unfortunately, this value can at best be estimated it we aaeuae a
+vertical profile of wind speed. On using a power law, we have
+
+A.l
+
+_.
+
+M G (li-)
+
+z.
+
+rJ
+
+Where Uo is the wind speed measured at the anemometer level (Zo),
+usually 10 m above ground level. Opinions differ OD tbe appropriate value of n, but n = 0.25 for unstable and n • 0.50 for .table
+conditions bave been recommended (Perkin. loc. cit). Numerical
+computationa to asseS8 the vertical variation of tb~ wind .peed are
+presented in the next section.
+The computations in this study are based on the surface windl
+of Delhi which is 140 km away from the site of the proposed refinery
+site. Unfortunately, Dines anemographs of Agra were available to U8
+for only one year. They were not of the same atandar.d of reliability
+as Delhi. However, to compare o~r results wit~ -those of Agra, We
+used the one year Agra Data to compute the relative frequencies.
+We also present in the next section concentration eatimatea
+with the wind data of Yadras, where a refinery already exists. The
+object of these computations is to verify, at a future date, the
+concentrations computed for a Gaussian plume with actual field
+measurements. This could provide an idea of the validity, or otbe~
+wise of the present computations, although such a verification
+programme would be vitiated to some extent by the humid environment,
+and different wind regime of Madras.
+
+5.
+
+NUMlliU CAL
+
+5.1
+
+Diffusion Coefficient
+
+ll~ULTS:
+
+In Table" we pr{'sent value-s of {,~ obtained by altering the
+constanta (a, k) in YcElroy'R formulation.
+
+TABLE - "
+
+'It
+
+Changes in constants (a, k)
+Values of
+(m)
+Distuuce McElroy
+(x) (Km) (19 6 9)
+
+Variation
+in 'k'
+10
+
+0.5
+1
+5
+10
+20
+
+30
+1.0
+
+50
+
+42
+28
+6Q
+44
+127 221
+199 364
+314 600
+409 804
+494 989
+572 1162
+
+15
+
+(~)
+20
+
+Variation (~)
+in ' at
+10
+
+15
+
+20
+
+10
+
+15
+
+32
+
+3"
+53
+
+46
+76
+243
+401
+660
+
+59
+100
+336
+566
+
+,
+
+52
+
+87
+292
+493
+8}0
+1127
+1399
+1656
+
+63
+109
+386
+
+666
+11 /.8
+
+1579
+1980
+2360
+
+31
+49
+139
+
+219
+345
+450
+544
+629
+
+Variation
+in 'a'&:
+
+51
+146
+229
+360
+471
+568
+658
+
+152
+
+239
+377
+491
+593
+686
+
+(~)
+
+'k'
+20
+
+76
+
+1'1
+
+46%
+
+1088
+
+1296
+1609
+
+799
+1378
+1895
+2376
+
+1184
+
+1901t
+
+2831
+
+88lt
+
+955
+
+

@@ -1,0 +1,94 @@
+2.1.3
+
+MIC samples from tank 611
+
+MIC was stored in 3 storage tank in the Union
+Carbide factory. The tanks are designated
+E-610, E-611 and E-619. During the night of
+December 2-3, 1984, the mishap occurred in
+tank E-610. Tank 611 still contained large
+quantities of MIC.
+The samples of MIC from tank 611 had been
+collected in 200 ml capacity pressure bottles
+closed by spring-loaded ball valves. Each bottle
+contained about 125 to 150 ml of MIC. The
+samples were then analysed for specification
+tests. The MIC in tank 611 was as per the required specification and the data are given in
+Table 2.2.
+
+levels showed deposits due to sublimation.
+The top portion of the tank (inside) showed
+only thin blackish deposits or sublimates.
+Examination through a microscope indicated
+crystals in the deposits. Metal pieces cut out
+from the sides or lower portions of the tank
+showed comparatively higher amounts of
+deposits.
+2.2 Chemical Analysis
+
+2.2.1
+
+PhYSical appearance of samples of residue:
+
+All the samples from tank 610 were thick, semisolid in consistency, and brownish in colour.
+The samples tended to absorb moisture on
+exposure to air and had the smell of amines.
+A sample of MIC from tank 619 was collec- The consistency of the bottom portion was
+ted on 14.3.85 at 1.20 p.m. Earlier, 2 samples quite different from that of the top. The top
+of MIC were collected from the chiller line to portion of the residue appeared to be dark
+tank 610 on 4.12.84. The analysis of these brown and' was more hygroscopic and liquidlike
+3 samples are given in Table 2.2a. They were in nature. The bottom portion appeared to conall of specification.
+sist of a high percentage of crystalline compound and was light in colour.
+2.1.4 Samples from pipelines, valves and other
+equipments
+2.2.2 Solubility Characteristics:
+
+Liquid samples were collected from R VVH/ The solubility characteristics of the samples
+PVH and other equipment in February and May, were studied initially for developing the analyti1985. Description of these samples given in cal methods. Chloroform and acetone dissolvAnnexure 2.2 and their analyses of chloride ed 70 to 85% of the samples. Hot toluene also
+ion, acidity and alkalinity are given in Table dissolved a major portion of the samples. On
+2.10.
+cooling the toluene extracts, crystals separated and were identified as dimethylisocyanuric
+2.1.5 Metal pieces cut from Tank 610
+acid. Water was also found to dissolve the
+sample, but complete dissolution required
+In April 1985, a team of experts examined large quantities of water.
+the tank. The surface was found to be coated
+with bitumen with nylon fibre reinforcements.
+The bituminous layer was removed and examin- 2.2.3 Qualitative Analysis
+ed. The tank had six numbers of steel stiffening
+Smell: The samples showed a strong smell
+rings welded all around. The tank had bulged
+of amines.
+significantly between the stiffening rings. The
+nature of the bulges indicated high internal
+Acidity or alkalinity: The samples were
+pressures.
+highly acidic
+Several pieces were cut out from tank 610.
+Thin-layer chromatography (TLC): TLC
+The locations are shown in Figure 2.2. A round
+carried
+out on silica gel indicated the prepiece of metal (28 cm diameter) was cut out
+sence
+of
+about 15 compounds. These were
+from the manhold (WA). Square pieces were
+later
+identified
+by spotting standard comcut out from locations WB, we, WD and WE.
+pounds
+on
+the
+TLC
+plates.
+All metal pieces were photographed. Physical
+examination of the pieces showed a blackish
+Chloride ions: Residue samples indicated
+coating on the inside surface. The metal pieces
+positive
+tests for chloride ions.
+cut out from the sides nearer to the residue
+
+9
+
+

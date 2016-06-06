@@ -1,0 +1,67 @@
+3.6
+
+Dimethylamine (DMA) and Trimethylamine (TMA)
+
+An in terestmg feature of reaction (6) is
+that it also offers an explanation for the formation of dilnethylamine (DMA) which has
+been found in the tank residue in the form of
+DMA hydrochloride, TMU (DMA + MIC) and
+TRMB (TMV + MIC).
+An explanation for the formation of DMA
+and TMA has been advanced by VCC scientists
+based on the known disproportionation of
+MMA. Hel at high temperatures to ammonium
+chloride and di, tri, and tetramethyl ammonium
+chlorides. One difficulty with acceptance of this
+hypothesis is that sizeable quantities of ammonium chlo'ride should also have been present in
+the tank residue which does not appear to be the
+case.
+
+heat
+
+Formation of TMA can also be explained
+through the thermal fragmentation of TRMB
+shown in Eq. 9 below. This reaction would be
+analogous to the fragmentation of TMB shown
+in Eq. 6.
+Both DMA and TMA can thus be formed by
+the thermal cracking of TMB and TRMB res
+pectively.
+m
+
+3.7
+
+Tetramethylbiuret (TRMB)
+
+A further mode of formation of HNCO
+could be the thermal fragmentation of TRMB
+shown in Eq. 9. This reaction also offers a
+route for the formation of TMA which has
+been found in significant amounts in the tank
+residue.
+
+, (CH3 !N
+
++ HNCO + CH3 NCO
+
+(9)
+
+TMA
+
+3.8
+
+Comments
+
+The exploratory laboratory experiments
+carried out so far provide sufficient information to enable a logical and plausible scenario
+to be developed for the chemical reactions that
+occurred in Tank 610.
+
+46
+
+A fmer focussing of the gross chemical piCe
+ture would be possible only by conducting detailed simulation experiments with control and
+measurement of reaction parameters like temperature and pressure and more detailed analyses inc'luding that of all gaseous products. These
+have not yet been dones
+
+

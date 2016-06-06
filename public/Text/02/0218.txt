@@ -1,0 +1,63 @@
+Bhattacharya & Banerjee (1966) regression equations. The FEF 200~1200ml
+and MMEF 15'75 %
+were calculated over the FVC curve by the methodology of Leuallen and Fowler (1955).
+PEFR/MMEF was calculated according to Bhalla et al (1979).
+
+The ventilatory disturbance was classified as follows :
+1.
+
+Restrictive
+
+Based on VC FVC (less than 80% of predicted)
+
+2.
+
+Obstructive
+
+Based on lowered FEV1/FVC ratio «70%)
+
+3.
+
+Mixed
+
+Mixture of restrictive & obstructive defect
+
+t
+
+80% of the predicted value was chosen as a reasonable level for all lung indices studied.
+If the lung function values
+The normal values ranged between 80-100% of the predicted ones.
+were less than 80% of the predicted they were classified as abnormal and the severity of impairment was graded as follows :
+
+1.
+
+Mild impairment
+
+Between 60-80%
+
+2.
+
+Moderate impairment
+
+Between 40-60<yo
+
+3.
+
+Severe impairment
+
+More than
+
+400,{)
+
+STATISTICAL PROCEDURE
+Chi square test was used for the determination of the significance of the prevalence of
+various categories of respiratory impairme,t in the male and female M IC gas exposed population
+classified into different age and distance groups.
+
+The pulmonary function assessment was done by applying students paired/unpaired 't' test
+in the methyl isocyanate gas exposed male and female population in different age and distance
+groups.
+
+220
+
+

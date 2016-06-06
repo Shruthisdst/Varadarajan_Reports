@@ -40,7 +40,7 @@ class data extends Controller {
 	public function insertFulltext($journal = DEFAULT_JOURNAL) {
 		
 		$this->model->db->createDB($journal, JOURNAL_DB_SCHEMA);
-			
+
 		$dbh = $this->model->db->connect($journal);
 
 		$this->model->db->dropTable(FULLTEXT_TABLE, $dbh);
@@ -52,33 +52,6 @@ class data extends Controller {
 		$this->model->db->executeQuery($dbh, FULLTEXT_INDEX_SCHEMA);
 	}
 
-	public function insertDetails($type = 'fellow') {
-
-		// Fellow Details are fetched from CSV ('|' separated)
-
-		$method = ($type == 'fellow') ? 'getFellowDetailsfromCSV' : 'getAssociateDetails';
-		$details = $this->model->$method();
-
-		if ($details) {
-
-			$this->model->db->createDB(GENERAL_DB_NAME, JOURNAL_DB_SCHEMA);
-
-			$dbh = $this->model->db->connect(GENERAL_DB_NAME);
-			
-			$this->model->db->dropTable(constant(strtoupper($type) . '_TABLE'), $dbh);
-			
-			$this->model->db->createTable(constant(strtoupper($type) . '_TABLE'), $dbh, constant(strtoupper($type) . '_TABLE_SCHEMA'));
-
-			foreach ($details as $row) {
-	
-				$this->model->db->insertData(constant(strtoupper($type) . '_TABLE'), $dbh, $row);
-			}
-		}
-		else{
-
-			$this->view('error/blah');
-		}
-	}
 
 	private function updateAll($journal, $user) {
 
@@ -146,32 +119,6 @@ class data extends Controller {
 		array_push($statusMsg, 'Local changes pushed to remote');
 
 		echo $this->model->formatStatus($statusMsg);
-	}
-
-	public function insertForthcoming($journal) {
-
-		$dbh = $this->model->db->connect($journal);
-
-		$forthcomingPath = PHY_VOL_URL . $journal . '/forthcoming';
-
-		$this->model->db->dropTable(FORTHCOMING_TABLE, $dbh);
-		$this->model->db->createTable(FORTHCOMING_TABLE, $dbh, FORTHCOMING_TABLE_SCHEMA);
-		
-		foreach(glob($forthcomingPath.'/*.xml') as $file) {
-
-			$path = str_replace(PHY_BASE_URL, '', $file);
-			
-			$metaDataFromXML = $this->model->getMetadaDataFromXML($path);
-		 	
-		    if($metaDataFromXML) {
-
-				$this->model->db->insertData(FORTHCOMING_TABLE, $dbh, $metaDataFromXML);
-			}	
-			else {
-				
-				$this->view('error/blah');
-			}
-		}
 	}
 
 	public function verifyAndUpdate() {

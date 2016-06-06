@@ -1,0 +1,53 @@
+heat
+
+CH 3 NHCH 3 + HNCO + CH NCO
+3
+DMA
+
+This reaction is analogous to the fragementation
+of DMAC shown in Eq. 5 and can satisfactorily account for the quantities of DMI formed.
+As an experimental support for the reaction
+depicted in Eq. 6, pure TMB, on heating to
+250 0 C for 45 min. (Expt. No. 29), gave about
+4% DMI in addition to the major products,
+
+(6)
+
+DMU and MICT.
+Even though Eq. 6 depicts a mode of thermal decomposition of TMB to give HNCO, the
+major thermal fragmentation route of TMB
+would be into its congeners DMU and MIC,
+shown in Eq. 7, This is the reverse of formation of TMB from MIC and DMU and is an
+equilibrium reaction:
+
+heat
+
+-<
+
+(7)
+
+2
+MIC
+
+The equilibrium would shift to the right if
+MIC were to be removed by an irreversible
+trimeri~ 'jon reaction. This accounts for the
+
+heat ;)
+
+A further possible mode of thermal fragIllentation of TMB is shown in Eq. 8. This also
+is an equilibrium reaction and shows the possibility of formation of MMA, All the above
+
+DMU
+
+major products, DMU and MICT, mentioned
+Ibove in Expt. No. 29.
+
+(8)
+
+three modes of fragementation of TMB shown
+in (6), (7) and (8) are thermally allowed electrocyclic processes proceeding through energetically favourable six-membered transition states.
+
+45
+
+

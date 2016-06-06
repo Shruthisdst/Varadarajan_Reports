@@ -1,0 +1,137 @@
+G.C. conditions
+
+Reliability Test
+
+Column: 8% TEPA + 2% KOH on Chromosorb
+102.
+
+Compound
+
+Wt. taken
+gms/l00 mi.
+0.36
+0.72
+
+0.355
+0.702
+
+1.44
+
+1.52
+
+DMA
+
+0.46
+0.92
+1.84
+
+0.45
+0.94
+1.76
+
+TMA
+
+0.26
+0.52
+1.04
+
+0.25
+0.53
+1.12
+
+MMA
+Temperature
+
+Inj.
+
+1500
+850
+
+Column
+
+Wt. found
+gms/100 mi.
+
+Detector
+
+FID
+
+Carrier gas
+
+Nitorgen
+
+Fuel
+
+Hydrogen
+50 ml/min
+
+Nitrogen flow
+
+20ml/min.
+
+Air
+
+50 ml/min.
+
+Range
+
+2
+
+About 1 gm. of the sample was dissolved in 50
+mI. water and iI;ljected in the G.C. The percen-
+
+Attn.
+
+3
+
+tages of amines wel , '1lculated directly.
+
+Chart speed
+
+3 mm/min.
+
+Determination of Chloride
+
+Samples
+
+Absolute calibration curve method Chloride content (Cl-) was determined by
+titrating against standard silver nitrate solution
+44.
+potentiometrically. Residue samples from tank
+610 as well as other samples were determined
+by this procedure. All the samples after diluting
+Procedure:
+with water were made acidic with dilute nitric
+Standard mixture containing MMA, DMA and acid before titration.
+TMA were prepared from the corresponding
+standard solution of amines. Standard solutions Reagents and Apparatus:
+(0.5 J,Ll) were injected into the Gas Chromatograph. The ID Table was prepared and filed. Analar Grade reagents were used for all the work
+The reliability of the method was checked by
+injecting known concentration of the amines 1. 0.1 N silver nitrate was prepared by dissolin the G.C.
+ving 85 gros of silver nitrate in 5 litres of
+deionised distilled water. The solution was
+standardised using sodium chloride as
+standard.
+Retention time of amines:
+Quantitation
+
+1. Monomethylamine
+2. Dimethylamine
+
+5.29 min.
+
+3. Trimethylamine
+
+30
+
+3.85 min.
+
+5.99 min.
+
+2. Mettler automatic titrator was used for all
+the titrations. ORION CHLORIDE ion
+selective electrode along with a double
+junction reference electrode was used as
+the indicator electrode system.
+
+

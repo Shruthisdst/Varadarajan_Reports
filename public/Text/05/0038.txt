@@ -1,0 +1,56 @@
+-27to date have been 47 in Ukai unit 1, 34 in Ukai unit 2,
+11 in Ukai unit 3 and 12 in Ukai unit 4.
+
+Flue gas velocity:
+
+It appears that the flue gas
+
+velocity may be higher than design norms especially
+when the ash percentage in the coal is high compared to
+the coal in other countries.
+
+This gives rise to
+
+heavy
+
+erosion on the external surface of economiser and
+superheater tubes.
+3.2.10
+
+Soot blowers and coal feeder:
+
+The soot blowers are of
+
+such design that they go out of order frequently and
+the coal feeder is of such design that it feeds the
+coal erratically.
+3.2.11
+
+eIES Valves:
+
+The design of CIES valves in 120MW units
+
+is such that even after the defect is attended at
+8HEl ' s Bhopal Works, they are found to be passing
+heavily.
+
+So far no satisfactory solution has been
+
+found.
+3.2.12
+
+Governor failure:
+
+The operation of the governor on
+
+120MW unit 1 at Gandhinagar is not satisfactory.
+has a hunting characteristic which is unsafe.
+
+It
+
+In fact
+
+one of the reasons for damage of HP Rotor at Gandhinagar may have been the unsatisfactory operation of
+the governor.
+
+

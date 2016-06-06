@@ -1,0 +1,32 @@
+NATIONAL CHEMICAL LABORATORY
+PUNE
+
+THE BHOPAL ACCIDENT
+REPORT ON
+CHEMICAL REACTION ENGINEERING ANALYSIS
+
+1986
+
+A report on the investigations by National Chemical Laboratory (NCL), Pune, could be found in
+the following pages. NCL, which belongs to the Chemicals Sciences Group of laboratories of the
+Council of Scientific & Industrial Research, undertook the task of studying the chemical and
+reaction engineering aspects of MIC leakage. The results are dealt with in Part I and Part II.
+Part I begins with a presentation of analytical procedures and results of various chemical
+samples collected from the tanks, pipings, etc. at the site of the accident including core samples
+from the ill-fated Tank 610. The analysis reveals the existence of a large number of compounds
+which must have been formed during the event. Possible chemistry of the events and details of
+experiments to verify the postUlates are also given. The experiments carried out have conclusively
+shown that a mixture of MIC, chloroform and water when heated to 225 0 C to 250 0 C in a stainless
+steel reactor gives all the products found in Tank 610, though not in the same quantitative proportion. The concluding section gives the experimental studies to determine the ways in which hydrogen cyanide (apparent cyanide poisoning in many patients having been observed) could have been
+formed.
+Part II presents a modelling and computer simulation of the Bhopal accident. The model
+is based on the essential findings in Part 1. These data, together with experimental data on the key
+reactions between MIC and water, MIC trimerization, etc. were analyzed to obtain the rate kernel.
+The mathematical model is developed subsequently with a number of simplified assumptions. The
+three stage model; thus developed, is discussed further. This particular model helps in putting
+quantitative bounds on the temperature and pressure reached in the accident tank and provides an
+approximate descnption of the dynamics of the whole process during the event.
+
+1
+
+

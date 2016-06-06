@@ -1,0 +1,135 @@
+ALEAl' := (4. l ::. .. J *t-,)LE~~~ / hL r.:t4~ 1
+C1S = ·-(r.CO::T+E:~F:tlt1;;; ..... V?-.RC02 -3.
+E[rt~'::: ;:.: C15
+
+'*
+
+RTRII'1*V?rRTRt1 -
+
+(iLEAV
+
+F:ETUF:'"
+
+END
+
+c
+c
+
+FUricti Of. #3
+
+c
+FUNC T I ON
+
+E()I"~. l
+
+Y)
+
+LINENS10tJ Y', 3)
+
+COMMON
+
+xu.D.RHO~CP.DH1,DH2,DH~,L1B~,E2RR,AP,RF,RF1RIM,VARCO~,V~RTRH
+
+CCw1t'lON {~LE.H; ,f.. CG~T, '::'r'1LE;;;, , f.:t 1t1'; , F Tf:: 1 N, 11 t1 Ie, 'y 1 CHCL , ttLEAl-::3, TG TP , Cli
+El
+ExP(El~R~«(i\~J+~73.)-~93.0}/(29~.O*(Y(3)+273.»)
+
+=
+
+RITO = 0.824Ef)4-(2~0~0.951Eu4*~0)+(~.O*O.493£04~XO**~.0)
+RiTO = R1T0-(4.0*O .. 101EG4~~0*~~.0)+{5.0«O.711E024X0**4.0)
+VCOF:= (~73. ~ TDTP* 1 • E -1:"3) / C::·~2. 4* ('I C::::) +~73 .. ) )
+RC02T = RIT0~E1wVCOR~RF
+E.2
+EXp(E~nRw«(i(3'~~7~.)-~q~.0)/(~93.0¥(Y(3)+273 .. » )
+
+=
+
+R~TO
+R~TO
+
+=
+
+O.1808E-Ol+(2.0+XO*O.0=':::82J~(~.O~XO**2.0~0.1425E-04)
+
+= R~T0-(4.0.XO*~3.0~0.7086E-OS)
+
+RTF:1t1 = H:2T(">*E::*RFTRlr1;57. <)
+RMMA:El*(R1T0~273.+T01P~lE-03)/\22.4+(Y(3)+273.»*RF
+
+Cl == 1.0/(RHO*CP)
+C5~RC02T~DH1/47.5
+
+Cc,=..Rt1MA+DI-C'/47.5
+C7~RTRIM*DH~/47.5
+
+EO"'3 = Cl* (C5+b*C6+3. (/if-C7j
+kETur,N
+
+END
+
+c
+c
+c
+
+PHf~SE 1 • FTt-l
+
+COMt'10N X0, B , RHO, CP , DH 1 , I/H::' , [}H3 , E 1 BR , E::'E:R, At=', RF , Rr1t1A
+CHftRACTER FN .... 1 S
+
+TYPE *, 'Flle name to store the results:?'
+ACCEPT 17,FN
+
+FORM~T(A15)
+
+17
+
+TYPE
+
+~,
+
+ACCEPT
+
+' Step
+
+S1
+
+ze (H) ,TU1T : ':"'
+
+~,H,TLMT
+
+TYPE . , 'RFC02,B :7'
+
+ACCEPT 'ft-,RF,B
+Wrlte c~unte~
+TYPE *, 'Wrile
+ACCEPT ~,N7
+H = 0.005
+B = 1.0
+
+C
+
+C
+C
+
+c
+
+counte~
+
+:?'
+
+IiFC02 ;;:: RF
+
+c
+c
+
+RF == 0.58
+Opt'::'f1 tht:? fl1e fen-
+
+88
+
+c..,b.'1rlrH.J
+
+I
+
+

@@ -1,0 +1,49 @@
+-21-
+
+It is recommended that GEB work out a regular plan for
+staff visits to similar power stations
+officials return from visits,
+
+thei~
+
+~lsewhere.
+
+When the
+
+findings should be sha-
+
+red among all concerned personnel at the power station
+through the newslotter recommended elsewhere.
+2.4.5
+
+The most important action required is to shift gradually
+from crisis based maintenance to a planned system Qf maintenance. A variety of managerial steps are required to
+bring about such a shift. First the targets set for availability of sets should be realistic. Secondly, a running
+list should be maintained for maintenance tasks on and
+actions to upgrade the performance of boiler, turbine and
+especially instrumentation systems-
+
+Finally, when a set in
+
+any particular quarter has exceeded its targetted availability, it should be given a scheduled outage to perform such
+maintenance tasks. Over a period of time, this would result in a better balance between scheduled and unscheduled
+outages and a reduction in the total length of outages.
+2.5.0
+
+Outa~e
+
+2.5.1
+
+The analysis of the causes of outages is difficult for
+
+analysis
+
+several reasons, as listed below. Some of the instruments
+are not working and therefore reliable measurements may
+not be available. Sequential event recorders are not installed and instead the data is logged every four hocrs.
+It is difficult therefore to reconstruct the history of
+operating conditions when the outage occurs. The usual
+data recorded on water, gas condition and coal analysis
+may not be sufficient to diagnose the real causes of pro-
+
+

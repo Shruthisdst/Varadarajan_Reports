@@ -90,19 +90,19 @@ class Model {
 		return $data;
 	}
 
-	public function getCurrentIssue($journal = DEFAULT_JOURNAL) {
-
-		$this->db = new Database();
-		$dbh = $this->db->connect($journal);
-		if(is_null($dbh))return null;
-		
-		// Online issues are to filtered from appearing as current issues	
-		$sth = $dbh->prepare('SELECT DISTINCT volume, issue, year, month from ' . METADATA_TABLE . ' WHERE issue != \'online\' ORDER BY volume DESC, issue DESC LIMIT 1');
-		$sth->execute();
-		
-		$result = $sth->fetch(PDO::FETCH_OBJ);
-		return $result;
-	}
+	//~ public function getCurrentIssue($journal = DEFAULT_JOURNAL) {
+//~ 
+		//~ $this->db = new Database();
+		//~ $dbh = $this->db->connect($journal);
+		//~ if(is_null($dbh))return null;
+		//~ 
+		//~ // Online issues are to filtered from appearing as current issues	
+		//~ $sth = $dbh->prepare('SELECT DISTINCT volume, issue, year, month from ' . METADATA_TABLE . ' WHERE issue != \'online\' ORDER BY volume DESC, issue DESC LIMIT 1');
+		//~ $sth->execute();
+		//~ 
+		//~ $result = $sth->fetch(PDO::FETCH_OBJ);
+		//~ return $result;
+	//~ }
 
 	public function preProcessPOST ($data) {
 

@@ -1,0 +1,81 @@
+It appears fairly certain that the methylene
+(-CH 2-) group of dione is derived from the
+C-atom of chloroform (CHCl 3 ). The actual reaction is probably dichloromethane (CH 2 Cl )
+2
+which is known to be formed from CHC1 oy
+3
+disproportionation or reduction. Thus, when
+TMB was heated with either chlorofornl (Expt.
+No. 28) or dichloromethane (Expt. No. 54) to
+250°C, dione was formed. However, heating
+TMB alone (Expt. No. 29) gave no dione although the other products were formed.
+
+The experimentation also indicates that
+the formation of dione begins only around
+200 0 C or so. Percentage of dione comparable
+to that found in residue of tank 610 was present only in reactions run at 250o C.
+3.5
+
+Dimethylisocyanurate (DMI)
+
+DMI was the second most abundant product
+found in tank 610. It is known to be readily
+formed by the reaction of MIC with isocyanic
+acid or its salts (Eq. 4).
+
+(4)
+
+2CH NCO + HNCO
+3
+Isocyanic
+acid
+DMI
+
+Since structurally DMI is a demethylation in the product.
+product of MICT which was the most abundant
+component found in the tank residue, experiTherefore, DMI must have formed by the
+ments were conducted (Expt. Nos. 1 to 4, 9, reaction shown in Eq. 4. Formation of HNCO in
+21, 30 and 34) to see if MICT could be induced a large excess of MIC would readily give DMI.
+to undergo a demethylation reaction in the What are the plausible modes of formation of
+presence of suitable substrates. However, even HNCO?
+up to 280°C to aoooc, MICT was found to be
+The UCC scientists UCC report, p. 34)
+quite stable to mono methylamine hydrochlo- based on their own work, suggest the thermal
+ride (MMA.HCI) or chloroform with or without decomposition of dimethylallophanyl chloride
+water. Even traces of DMI could not be detected (DMAC) shown in Eq. 5:
+
+/~~
+
+H-N)
+
+r
+CH 3
+
+(, ~-CH
+
+"-t)
+
+rY
+
+3
+
+heat :>
+
+(5)
+
+C~
+
+Cl
+
+Even though this thermal degradation reaction is quite plausible, proceeding through a
+cyclic six-membered transition state, the quantities of DMAC estimated to be present in MIC
+were quite small and therefore could not
+account for all the DMI found in the tank
+
+44
+
+residue.
+A more plausible explanation of the formation of HNCO would be the thermal decomposition of TMB. This reaction and its
+mechanism is depicted in Eq. 6:
+
+

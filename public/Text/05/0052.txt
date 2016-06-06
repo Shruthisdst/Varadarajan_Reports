@@ -1,0 +1,82 @@
+-41-
+
+air pressure.
+
+Inaccurate temperature
+
+have
+
+m9a~urements
+
+led to poor control of the air-fuel flow.
+
+Many of these
+
+difficulties can be attributed to the supplier (ILK), but
+the responsibility of GEB and its consulting engineers to
+cor~ectly
+
+4.2.3
+
+evaluate the design cannot be denied.
+
+Electronic controls were adopted in Ukai and Gandhinagar.
+GEB personnel who had experience only on pneumatic controls
+at Dhuvaran were not adequately trained for the
+technology.
+
+new
+
+Besides, the electronic type of controls
+
+allow use of computers and data acquisition system.
+this feature was not exploited.
+
+But
+
+Lack of spares has resulted
+
+in important instruments such as those for continuous
+mGasurement and indication of
+feed water, not working.
+
+dissolve~
+
+oxygen in boiler
+
+Some of the equipment has
+
+become obsolete and ILK is not able to supply spares for
+these.
+
+While
+
+commissioni~g
+
+unit 4 in UKai, the running
+
+spares of other units were used
+4.2~4
+
+an~
+
+were not replaced.
+
+Currently the instrumentation function at GEB is considerably downgraded, both
+
+o~anisationally
+
+and technically.
+
+The interface between engineers in charge of operations
+and those in instrumentation is weak.
+
+There is also no
+
+exchange of ideas and information between project
+personnel and operation staff on instrumentation.
+function needs to be considerably strengthened •.
+
+This
+
+

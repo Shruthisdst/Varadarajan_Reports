@@ -1,0 +1,97 @@
+TABLE 2.1
+
+Analysis of Liquid Samples from R VVH/PVH
+
+--------r-----------------------------------------------------------------------Sample Designation
+
+A.
+
+Acidity as
+% HCI w/w
+
+Alkalinity % w/w
+
+Na2 C0 3
+
+Na2HC03
+
+SAMPLES COLLECTED IN FEBRUARY, 1985
+
+Al
+
+Sample of liquid from PSV downsteam bleeder of dryer
+
+A2
+
+Side~stream
+
+AS
+
+Sample from R VVH drain bleeder
+on desuperheat on second level.
+
+cooler PSV dIs
+bleeder sample
+
+B.
+
+Chloride
+% Cl- w/w
+
+SL No.
+
+1.37
+15.61
+
+11.98
+
+5.01
+
+4.38
+
+Nil
+
+SAMPLES COLLECTED IN MAY, 1985
+
+B1
+
+30/5/PVH liquid sample No.7
+
+1.42
+
+B2
+
+R VVH liq. from bleeder on 2nd
+level B.F. towards Sevin dt.
+31/5 sample No.21 Sr. 8
+
+B3
+B4
+
+13.62
+
+13.31
+
+1.50
+
+7.67
+
+12.06
+
+RVVH VGS line bleeder liq.
+31/5 sample No.31
+
+1.15
+
+8.59
+
+20.62
+
+RVVH VGS line bleeder liq.
+31/5 sample No. 31
+
+1.16
+
+23.93
+
+

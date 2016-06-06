@@ -1,0 +1,139 @@
+APPENDIX - I
+
+Thermodynamic Data
+
+Heat of formation of MIC
+
+=
+=
+=
+
+13.7 kcal/gmole
+
+4.
+
+Specific heat of MIC
+
+=
+
+0.5 kcal/kgOC
+
+5.
+
+Heat of formation of methyl amine (gas)l
+
+=
+
+--6.7 keal/groole
+
+6.
+
+Heat o~ formation of water (liquid)
+
+=
+
+--68.3 keal/gmole
+
+7.
+
+Heat of formation of CO 2 (gas)l
+
+=
+
+..94.05 keal/gmole
+
+8.
+
+=
+
+-22.06 keal/gmole
+
+9.
+
+Heat of formation of HCl (gas)l
+Heat of formation of HCN0 2
+
+=
+
+-36.4 keal/gmole
+
+10.
+
+Heat of formation of Dimethyl urea S
+
+=
+
+-25.04 keal/gmole
+
+11.
+
+Heat of formation of Trimethyl urea 3
+
+=
+
+-29.82 keal/gmole
+
+12.
+
+Heat of formation of DMI3
+
+=
+
+--68.02 kcal/gmole
+
+13.
+
+Heat of formation of Trimethyl biurate3
+
+=
+
+-47.83 keal/gmole
+
+14.
+
+Heat of formation of Dione3
+
+=
+
+-30.61 kcal/gmole
+
+15.
+
+Heat of formation of Dimethyl Amine 3
+
+=
+
+-7.03 keal/gmole
+
+16.
+
+Heat of formation of Trimethyl Amine 3
+
+=
+
+-11.81 keal/gmole
+
+17.
+
+Heat of formation of CH2 C12
+
+=
+
+-13.39 keal/gmole
+
+1.
+
+Heat of trimerization of MIC
+
+2.
+
+Heat o~ vaporization of MIC
+
+3.
+
+300 kcal/kg
+137 kcal/kg
+
+79
+
+

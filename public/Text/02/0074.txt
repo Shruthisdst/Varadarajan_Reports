@@ -1,0 +1,27 @@
+The present model seems to be qualitatively erature rose due to the adiabatic condItions in a
+and (and in some cases quantitatively) consistent highly exothermic reaction. This continued until
+with description of the events that is document- the water got exhausted. Subsequently the
+ed in general reports. It also establishes useful temperature was sustained by trimerisation reacbounds on the ranges of temperatures and pres- tion alone and the rest of the MIC was vented
+sures that might have been reached during the off.
+event in the accident tank. It is worthwhile recalling here that the mechanical and metallurgiAs per the present model, the trimerization
+cal testing of the tank material indicated that reaction has played a significant role in causing
+the tank was not subjected to pressures exceed- the subsequent leakage. It is interesting to coning 200 psi and temperatures exceeding 250 o C. jecture as to what would have happened if such
+These limits are consistent with model calcula- rapid trimerisation had not occurred. In other
+tion. In addition, the model predicts a loss of words, we can predict as to what would have
+about 28 tons of material from the tank (Figure happened if the contamination due to FeelS
+5). The extent of trimer formed also corres- (presumably due to the prior corrosion of the
+ponds to the amounts determined from the resi- tank) did not exist. The model results for this
+due analysis.
+case can be computed. The predictions are
+shown in Figure 6. As can be seen, the pressure
+In view of the general agreement of the pre- build up is not sustained. Also the total MIC
+dicted results with the actual observations in the leakage is comparatively smaller. The main
+tank, the following stages can be envisaged. The damage, therefore, seems to have been caused by
+initial pressure build up in the tank was due to the prior corros:"'I of the tank, which makes
+the evolution of C02 in the first phase. The FeCla catalyst available for the reaction and
+vigorous reaction during the second phase caus- made it possible to reach an almost autocatalytic
+ed a sudden increase in pressure and the temp- like catastrophic state.
+
+76
+
+

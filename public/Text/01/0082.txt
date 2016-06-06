@@ -1,0 +1,68 @@
+• .0
+
+ANALYSIS OF DESKiN AND ENGINEERING FEATURES:
+
+'.1
+
+MIC and its Characteristics :
+
+MIC is a highly reactive, toxic, volatile and inflarnmable chemical.
+According to the UCC brochure, MIC is usually stored and handled in stainless
+steel 304 and 316 equipment.
+
+Iron or steel, aJiminaum, zinc or galvanized
+
+iron, tin, copper or their aHoys are prohibited from use.
+Purified MIC will react with itself under the influence of a catalyst
+to form a cyclic trimer or a high molecular weight polymer.
+
+Strong bases
+
+such as sodium hydroxide, sodium methoxide and sodium acetate, certain
+metal chlorides such as ferric chloride and stannic chloride catalyse trimerisat ion.
+
+Since the reaction is quite exothermic, contamination of MIC with
+
+traces of the catalysts can cause violent reactions.
+Highly purified MIC wiH polymerise spontaneously to a linear
+polymer /trimer.
+Water reacts exothermicaUy to produce heat and carbon diox Ide.
+As a result, the tank pressure will rise rapidly if MIC is contaminated with
+water.
+
+The reactia1 may begin slowly, especially if there is no agitation,
+
+but it will become violent.
+
+Aqueous sodium hydroxide solution will react
+
+with MIC quite rapidly.
+MIC with the above mentioned characteristics should be considered
+
+as an explosive in addition to it being a highly toxic chemical.
+As per the UCC brochure, the storage temperature should be
+
+0
+
+maintained below 15 C and preferably at about
+
+aOc.
+
+The storage tank is
+
+to be equipped with dual temperature indicators that will sound an alarm
+and flash warning lights if the temperature Qf the stored material rises
+abnormally.
+
+The tendency of valves on storage tanks to be clogged with
+
+solids is also stated in the brochure.
+The brochure further states that the cooling medium in the heat
+exchanger should not be one that reacts with MIC or catalyses the reactions.
+While chloroform is an example of a safe coolant, use of water does create
+
+a hazard.
+
+71
+
+

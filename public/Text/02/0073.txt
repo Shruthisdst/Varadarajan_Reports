@@ -1,0 +1,77 @@
+ed to obtain the right ra'nge, It appears from keep a check on the rising pressure. As it appears
+these experiments that the system requires a from the computed results, even so, the pressure
+period of about one and half hour to reach the in the system rises to about 200 psi with tempthreshold conditions when the safety valve erature in the range of lS0 0 C.
+opens. The reaction medium during this time is
+The elimination of water and MMA reaction
+raised to a temperature of about 720C and the during the course of events also removes the
+gas leakage starts.
+source of heat from the system and the only
+available source for maintaining the temperature
+During the second phase, large extent of and therefore the pressure in the system now bereaction begins allover the volume of the liquid comes trimerizatio~. During this phase trimerizamass causing a steep rise in pressure and temp- tion proceeds for a substantial length of time
+erature of the system. The excessive rates of and helps to maintain the temperature and presgeneration of C02 and large extent of the vola- sure at around 200 0 C and 200 psi, respectively.
+tiles in the gas phase contribute to the sudden Eventually over a period of time the entire matepressure rise in the system which is negated only rial gets ejected out of the tank. There is no heat
+to a small extent by the leak. The loss of the source in the system now and the pressure in the
+material and to a certain extent the consump- tank falls in relation to the leakage rate in the
+tion of reactants, enhances the free board tank. The pressure profile in the tank as calculatvolume in the system which further helps to ed in this model is shown in Figure 4.
+
+65----------~--------T---------r_----~~r_------__,
+
+24
+
+en
+
+18
+
+~
+
+en
+
+~
+
+.
+
+(J)
+
+en
+
+(/)
+
+o
+...J
+
+;32 5
+0
+
+12
+
+o
+
+9
+.
+i
+~
+
+:E
+
+:E
+
+6
+
+o
+OL-~-----L----~~~------~~------~~------~~.O
+0·5
+
+~
+
+1·0
+
+TIME, hr
+
+FIGURE 4: MODEL PREDICTIONS ON LOSS OF MIC FROM THE ACCIDENT
+
+TANK
+Fig. 4: Model predictions on loss of MIC from the accident tank
+
+75
+
+

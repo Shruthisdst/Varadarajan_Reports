@@ -1,0 +1,36 @@
+127
+
+The marble erosion rate was 2.54 lJelyear when calculaled
+00 the basis of annual average values of SO. and NO. obtained
+from air quality monitoring data around VM.
+The empirical function (model) used above is a linear
+function model and have included all the important attributes 8S
+air pollutants, relative humidity and the damage due to erosion on
+while marble. Predictions show that this marble will erode uplo 1
+OlOl in about 320 years when exposed to 30 "glluS SO, and NO,
+as per CPCB standard applicable for sensitive area and SO'l. relative
+humidity. However, as the monument is having age of hundreds
+of years and pollution is only one factor causing sucface damage,
+the overall damage shall be higher than the predictions made based
+this on model considering air pollution and climate.
+
+4.2.1.2 Damage FUDction for Sandstone and Limestone
+Another model for the weathering effect of dry deposition
+of Sl)2 on rain sheltered sandstone and limes.tone as well as on
+weight loss of unshellcred sandstone and limestonc exposed for one
+year exposition of atmospheric pollution have been established by
+Luckat (1981) through relatioDships developed based on field exposure
+studies.
+The seasonal averages of S02 monitored at VM were used
+to estimate the dry deposition of 802 (mg 80/m2/day) and for the
+802 uptake as well as percent weight loss of sandstone and
+limestone. The results indicate that the S02 uptake (rug SOjo12/d)
+Cor both the stones were maximum in winter followed by m~nROOn
+and summer. The percent loss in weight was also higher in winter
+than in monsoon and summer. The annual average results indicate
+that S02 uptake was 14.11 and 5.75 mg SOjm2/day by sand!-'lonc
+and limestone respectively. While thc percent loss in weight was
+0.83% and 1.07(10 respectively for sandstone and limestone. 1~hcRC
+resulls arc sumluariscd in the Table 4.5.
+
+

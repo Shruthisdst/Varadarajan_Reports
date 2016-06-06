@@ -1,0 +1,51 @@
+128
+
+or
+
+tho local conditions
+pollution levels, climate and physico-chcfnical
+characteristics of stones used in VM construction.
+
+4.2.1.1 Damage Estimations lor VM Marble
+11le literature available on the models on cause and effect
+relationship for a building malcrials (slone) and ambient pollution
+exposure conditions is very limited. One \\~cll documented model was
+evolved for the physical damage as a dalnage function for a while
+marble stone exposed to polluted atmosphere (major pollulants SO
+N02 etc.) with varied controlcd conditions of relative humidity by
+Haynie. Spence and Upham (1976).
+
+In this model loss-in-weight is a parameter used for assessing
+the magnitude of damage caused by Ute pollutants. It is assumed
+that water soluble reaction products are constantly removed from
+the surface of exposed specimens due to maintenance/cleaning or rain
+washout and primarily account for the loss-in- weight. Each loss..
+in-weight value ,converted to an equivalent thickness of calcium
+carbonate and expressed as an erosion rate-loss in thieknes.c; uniLc;
+per year (JLmlyr). The assessment methodology employed in this model
+provides a tQoI for obtaining estimates of monthly or even annual
+material losses attributable to the meao pollution exposilion.
+The erosion rate of marble
+at VM) have been evaluated using
+et.al taking the mean atmospheric
+for the year 1990 for the whole
+
+and stone are (building malcrial
+this model developed by Haynie
+conditions for 502' N02 and RH
+Calcutta cily.
+
+The monthly average of S02 concentrations at Caleu lla
+exceeded 80 J,lg/m3 in winter (Od. Dec and Jan). NO z concentrations
+were higher in winter as conlpared to the other seasons. I-Iowcver,
+monthly mean NO a concenlrations did not exceed 120 J,lg/n1:t nlark.
+The average RI-l was higher' than 60% in every monlh throughoul
+the year. The maxinlum Ril was 84% in rainy season 3S ob!icrvt!d
+Cronl Clilnatologieal tablcs of IMU. 1'hc loss in depth duc to Rurrace
+erosion was csliJnatcd betwcen 0.12 to 0.28 JAnllrnonth. "he rale waR
+more than 0.2 J.uu/lnontb e~cept for Jan, }4'cb, Mar and Apr. J-I"wcvcr.
+the erosion rate per year was obtained a8 2.66 J.un. wi,,!" 8VC r,,"<:
+of SOa and NOa concentrations were 48.94 and 39.27 ",,:/11):1 ,.('HIK'clivc·ly.
+t
+
+

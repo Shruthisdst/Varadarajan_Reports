@@ -1,0 +1,142 @@
+10F-----------------------------------------~20
+
+8
+
+16
+(J)
+
+z
+
+e
+....
+0
+
+.
+
+...
+0
+
+6
+
+t2
+
+lLJ
+
+(I)
+
+0::
+:l
+
+U)
+
+0
+
+U)
+U)
+
+lLI
+
+z
+
+..J
+
+4
+
+8
+
+Q:
+
+0..
+
+-
+
+~
+
+(.)
+
+~
+
+2
+
+4
+
+OL-____
+
+o
+
+~
+
+______
+
+~
+
+______
+
+0-5
+
+~
+
+__
+
+~~
+
+1-5
+T1ME
+
+______
+
+2
+I
+
+~
+
+____
+
+2·5
+
+~O
+
+3
+
+hr
+
+Fig. 6: Model predictions on MIC loss and pressure buildup
+(in the absence of trimerizotion)
+
+REFERENCES
+1.
+
+J.W. Anderson, G.H. Beyer and K.M. Watson,
+National Petrochem News., Tech. Section, 36:R 476
+Uuly 5, 1944}
+
+2.
+
+International Critical tables of numerical data,
+Physics, Chemistry and Technology, Vo1.S, McGrawHill, New York & London (1929)
+
+Rates of hydrolysis of phosgene and methyl isocyanate (MIC) - A status report prepared by the research and development department Chemicals and
+Plastics, Union Carbide Corporation, South Charleston, West Virginia, USA (Project No. 116 A10)
+
+78
+
+Methyl isocyanate trimerization studies in solution,
+- A status report prepared by the research and development department. Chemicals and Plastics, Union
+Carbide Corporation, South Charleston, West Virginia, USA (Project No. 116A 10)
+
+Chemical Engineers Handbook, Ed. J .H. Perry,
+McGraw-Hill Kogakusha, Ltd., 5-13 (1974)
+
+5.
+3.
+
+4.
+
+J .C. Leung and H.K. Fauske, 'A new bench scale
+apparatu~ for characterising runaway chemical reac-
+
+tors', paper presented at the 19th Annual Loss Prevention Symposium, AIChE 1985, Spring Annual
+meeting and Petro expo '85, Houston, Texas, March
+24-28, 1985.
+
+

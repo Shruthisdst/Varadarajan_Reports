@@ -1,0 +1,90 @@
+APPENDIX III
+CONFIDENTIAL
+
+(From: Dr. G. Thyagarajan
+DRRL-H)
+
+ENGINEERING ASPECTS OF UCIL PLANT
+
+Mechanical Design:
+
+1. Manhole entry is not as per ASME Code.
+The clearance available through the manhole
+is less than 300 mm.
+2. No insulation is provided for the tank which
+is supposed to contain MIC at sub-ambient
+temperature. A 30ton chiller is inadefquMaltce
+for the load. Providing for chilling 0
+without insulating the tank serves no purpose.
+.
+3. No provision is made for free/unres~lcted
+access to the inside of the tank for Inspection/contingencies.
+4. Relief valve vent header of MIC storage
+should have been separately routed to the
+vent gas scrubber instead of connecting it to
+RVVH of the MIC plant.
+Vent Relief & Safe Disposal:
+
+1. If the contents of any of the storage tanks
+are inadvertently contaminated with water,
+and the contamination is manifested by a
+rise in temperature or pressure, no backup
+system has been provided for unloading and
+safe disposal of the contents.
+2. Vent gas scrubber (VGS) can take initially
+40 gpm of liquid MIC for first 30 min. and
+subsequently 9 gpm only when the temperature rises to 70oC. this is equivalent to only
+2 tonnes per hour. Hence VGS is not designed to cope with relief valve vent header
+(RVVH) loads.
+3. Transfer of MIC between tanks has to be
+carried out manually which is a tedious and
+time consuming operation.
+4. Safety relief valve is designed for handling
+vapour only, whereas during an emergency
+both liquid and vapour enter the line generating excessive back pressure.
+
+5. VGS is located approx. 350 ft away from
+the MIC storage area with the intervening
+pipe line with no vapour-liquid disengagement chamber/vessel.
+Maintenance Pxactice:
+1. RVVH is cleaned by purging with water,
+
+thereby increasing the possibility of water
+entering into the MIC storage tanks speedily
+when PVH is interconnected to RVVH.
+2. Removal and replacement of rupture disc is
+possible only after isolation of the tank.
+During this period the tank has no safety
+device on it.
+3. No provision is made for cleaning the process pipe connecting downstream of N2
+bleed valve to process vent header (PVH).
+4. No provision is made for cleaning the nonreturn valve on nitrogen inlet line.
+Process Instrumentation:
+
+1. The type of level indicating system selected
+is not suitable for MIC as it gets clogged with
+solid.
+2. The "Pressure high" alarm was not operative.
+(Please check from records).
+3. The PVH nitrogen bleed valve has a narrow
+aperture (orifice) which is susceptible to
+clogging by solids.
+
+These comments by consensus of:
+Dr
+Mr
+Mr
+Dr
+Dr
+Dr
+
+Asad Ali Khan
+S Koteswara Rao
+M 'Anandam
+Nagabhushan Rao
+U T Bhalerao, and
+G Thyagarajan
+
+123
+
+

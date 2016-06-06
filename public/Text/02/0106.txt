@@ -1,0 +1,170 @@
+TABLE 4
+
+Quantitative GC analysis of- acetone soluble residues from MIC decomposition products
+
+OMU
+
+TMB
+
+DMI
+
+2.9
+
+Tr
+
+55.0
+
+* Tr
+
+TR
+
+Tr
+
+9.2
+
+58.2
+
+Tr
+
+Tr
+
+Tr
+
+P
+
+55.5
+
+30.8
+
+Tr
+
+Tr
+
+Tr
+
+Expt 13
+
+P
+
+17.~
+
+65.4
+
+1.4
+
+0.5
+
+P
+
+Expt 14
+
+P
+
+13.5
+
+53.6
+
+3.2
+
+0.5
+
+P
+
+Expt 15
+
+2.2
+
+27.2
+
+32.8
+
+1.4
+
+0.3
+
+0.6
+
+Expt 16
+
+0.5
+
+6.2
+
+80.0
+
+0.8
+
+Tr
+
+0.2
+
+Expt 17
+
+1.1
+
+5.4
+
+43.0
+
+2.2
+
+Tr
+
+Remark~
+
+P
+
+3.6
+
+Sample
+
+TMU
+
+Expt 9
+
+*" P
+
+3.1
+
+64.2
+
+Expt 10
+
+P
+
+6.0
+
+Expt I I
+
+P
+
+Expt 12
+
+MICT
+
+DIONE
+
+*Tr
+*p
+
+= less
+=
+
+than 0.10(-
+
+1-2%
+
+Conditions:
+Column: 4' 1/8" SS column, 1096 OEGS coated on chromosorb W.AW
+Column temp: 190°C, Injector temp: 220"C, Detector (FlO) temp: 220°C
+Carrier gas (N ) flow: 50-60 ml/mt.
+Z
+Method: external standard
+Remarks:
+1. The samples when made into acetone solution still contains insoluble particles.
+2. Some polymers are suspected to be present and they do not come out of column under the
+opE'rating conditions.
+
+108
+
+

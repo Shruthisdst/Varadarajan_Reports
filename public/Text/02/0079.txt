@@ -1,0 +1,128 @@
+Calculation of Heat of formation of
+Dimethyl urea
+
+H
+0
+H
+I
+II
+I
+CH 3 - N - C-N -
+
+Calculation of Heat of formation of
+Trimetbyl amine
+
+CH 3
+Group
+
+Group
+
+No.
+
+Contribution/Group
+
+-CB 3
+
+2
+
+-10.25
+
+-20.50
+
+C=O
+
+1
+
+-31.48
+
+-31.48
+
+NH
+
+2
+
+13.47
+
+No.
+
+-CH 3
+
+3
+1
+
+26.94
+
+Contribution/Group Total
+
+Total
+
+Total
+
+- 25.04
+
+Heat of formation of Dimethyl urea =
+- 25.04 kcal/gtnole
+
+-------- --- -------,
+Calculation of Heat of formation of
+Dimethyl amine
+
+N-
+
+-10.25
+18.94
+Total
+
+Q30.75
+18.94
+-11.81
+
+Heat of formation of Trimethyl amine =
+-11.81 kcal/gmole
+
+----------- ----Calculation of Heat of Formation of CH2Cl2
+Methane Group
+
+-17.89
+
+First Chlorine
+Second Chlorine
+Group
+
+No.
+
+Contribution/Group
+
+Total
+
+-CH 3
+
+2
+
+-10.25
+
+-20.50
+
+NH
+
+1
+
+13.47
+
+0.0
+4.5
+-13.39 kcal/gmole
+
+13.47
+Total
+
+----------------
+
+-7.03
+
+Heat of formation of Dimethyl Amine =
+- 7.03 kcal/gmole
+
+81
+
+

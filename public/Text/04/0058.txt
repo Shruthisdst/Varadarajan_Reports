@@ -1,0 +1,127 @@
+Numerous studies of diffusion coefficients have been mnde
+in recent year8.
+This ia perhaps the mqat uncertain parameter in
+diffusion studies, because there is very little information on
+its value for large distances down wind from the stack. Turner
+(1970) tabulated values otcrz for seven classes of atmospheric
+stability, and five categories of wind 8peed. These categories
+are shown in table 2.
+TABLE - 2
+Stabilities and wind 8peed categories
+Surfuce wind
+speed (at 10m)
+m liec- 1
+
+Day
+
+incoming solar radiation
+Strong
+Woderate Slight
+
+(Turner, 1970 )
+Night
+Thinly
+J/8
+Overcast Cloud
+or 4/8
+low cloud
+
+A
+
+A-B
+
+B
+
+A-B
+
+2
+
+J
+J - J
+5 - b
+6
+2 -
+
+B
+B-C
+
+C
+C
+
+E
+D
+
+C-D
+
+D
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+C
+
+c
+
+D
+
+F
+E
+
+Tbe correspondence with tbe clas8ification u8ed by U8
+in this report is, approximately, as below:
+
+)Jc Elory ( 1969)
+
+Turner (1970 )
+
+( u)
+
+Uustnule
+
+A, B
+
+(b)
+
+Neutral
+
+C
+
+(c)
+
+Stable
+
+D, E, F
+
+Figure 1 shows a comparison between the values of McElory
+and Turner for OZ. The lower values of
+for a very stable .atmosphere are of interest, because they would tend to make our
+computations slightly ~ver-estimate the sulphur dioxide
+concentration.
+
+o-z
+
+Very little is known ab~ut the accuracy of these values.
+Turner (1970) states: "In the stable and unstable cases several
+fo Id errors in the es tima te of
+can occur for the longer
+travel distances. In some cases,
+may be expected to be
+correct within 8 factor ~f 2.
+These are: (i) all stabilities
+for a distance of travel out to a few hundred metres; (ii) ~n­
+sta~le
+conditions in the lowest 1000 metres of atmosphere with
+a marked inversion above for distances out to 10 km or more."
+
+az
+
+crz
+
+

@@ -1,0 +1,81 @@
+PART II
+5. Modelling and Computer simulation
+of Bhopal accident
+
+5.1. GENERAL PHILOSOPHY OF
+MODELLING
+The main results of the modelling and simulation efforts of the MIC leakage from the tank
+610 are presented in this report. For reasons of
+brevity the details such as the physico-chemical
+data, chemistry of the various possible reactions,
+the analytical tools used and results of the analysis of the residue from the tank presented in
+Part I have been omitted hAre. For reasons of
+completeness, however, the essential points from
+Part I have been highlighted as and when required.
+The model h~s been developed in three
+different phases. The first stage begins with the
+entry of water which reacts with the stored MIC
+and leads to the evolution of C02 with accompanying rise in temperature of the liquid due to
+the exothermicity of the reaction. The pressure
+in the tank builds up due to the generation of
+C02 and MIC vapours and eventually the gas
+starts leaking out. The stage when the safety
+valve opens marks the end of the first phase and
+the beginning of the second phase. The model in
+the first phase restricts the extent of reaction.
+However, the evolution of gas during the first
+phase causes considerable extent of mixing within the tank and the storage tank now resembles
+a well stirred reactor. The second phase of
+modelling recognises this feature and models the
+system behaviour appropriately.
+It is appreciated that water in the system is
+a limiting reactant and during the course of
+events gets totally consumed. The end of waterMIG reaction therefore marks the end of the
+second phase. During the third and the final
+stage of modelling the WIC-water reaction is of
+less importance. The trimerisation reaction,
+however, still continues and mainly contributes
+to the rise in the temperature.
+
+models the system behaviour as a batch reactor,
+during the second and the third phases the presence of leakage of gas inlplies representation of
+the system as a semi-continuous reactor. The
+loss of material through the tank depletes its
+contents and proper accounting of it is necessary
+for model computations. In addition one needs
+to characterise the several reactions that go on
+within the tank in terms of their rates and exoth~rmicity. While the physico-chemical and
+thermodynamic data for these reactions are
+available or can be generated with desired levels
+of accuracy, the information on the kinetics or
+the individual 'rates of reaction of the several
+processes is not readily available. The present
+report derives this information fronl the set of
+laboratory scale experiments reported in the
+Union Carbide document.
+Before we begin with a rigorous development of the model, it is helpful to obtain an
+order of magnitude estimate of the extent of
+products and their distribution reported from
+the analysis of the tank. It is noted that the tank
+contained a residue of approximately 12.5 tonnes with almost two-thirds of it in the form of a
+trimerised product. The analysis therefore reveals that the trimerization of MIG constitutes a
+major reaction that proceeded in the tank.
+Among other products that have been noticed
+the distribution suggests that most of them can
+be accounted due to the reaction of MIG with
+monomethylamine (MMA) - a reactant which
+itself is a product of MIC-water reaction. The
+analysis thus gives a clue to the three main reactions which must have proceeded within the
+tank. It is thus anticipated that the spate of
+events begins with the reaction of MIG with
+water which produces G02 and MMA. MMA in
+tum starts reacting with MIC forming other
+products. Simultaneously MIC undergoes tri·
+merization the rate of which is decided by the
+extent of availability of the catalytic species
+FeGla.
+
+It will be noted that while the first phase
+6.~
+
+

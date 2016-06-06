@@ -1,0 +1,148 @@
+TABLE 2.2
+Analysis of MIC Samples from E-611
+
+---------------------------------------------------------Sample No.1
+20.12.84
+
+Sample Code No.
+
+Sample No~3
+20.12.84
+
+99.17
+
+99.85
+
+Sample No ..6
+
+19.12.84
+99.60
+
+1. Methyl isocyanate
+
+(%)w/w
+
+2. Chloroform
+
+(%)w/w
+
+0.314
+
+0.334
+
+0.332
+
+3. Moisture
+
+(%)w/w
+
+N.D.
+
+N.D.
+
+N.D.
+
+4. Phosgene
+
+(%)w/w
+
+0.032
+
+0.030
+
+0.028
+
+5. Total Hydrolysable (%)w/w
+
+0.040
+
+0.028
+
+0.032
+
+0.130
+
+0.110
+
+0.090
+
+Chlorides
+
+6. Non Volatiles
+
+(%)w/w
+
+7. Trace metals (ppm)
+(a)
+
+3.5
+
+3.7
+
+1.2
+
+(b)
+
+Iron
+
+3.6
+
+3.6
+
+4.1
+
+(c)
+
+Chromium
+
+0.9
+
+1.0
+
+1.0
+
+(d)
+
+Sodium
+
+0.6
+
+0.6
+
+0.9
+
+(e)
+
+Copper
+
+0.3
+
+0.2
+
+0.2
+
+(f)
+
+Nickel
+
+0.2
+
+0.2
+
+0.2
+
+(g)
+
+14
+
+Zinc
+
+Magnesium
+
+0.03
+
+0.02
+
+0.02
+
+

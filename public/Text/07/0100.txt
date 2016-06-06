@@ -1,0 +1,42 @@
+SUMMARY OF WORK DONE BY CONSTITUENT LABORATORIES OF CSIR
+(FULL REPORTS APPEAR IN VOLUME II)
+
+NATIONAL CHEMICAL LABORATORY, PUNE
+
+A report on the investigations by National Chemical Laboratory (NCL), Pune, could be found
+in Volume II. NCL, which belongs to the Chemicals Sciences Group of laboratories of the
+Council of Scientific & Industrial Research, undertook the task of studying the chemical and
+reaction engineering aspects of MIC leakage. The results are dealt with in Part I and Part ll.
+Part I begins with a presentation of analytical procedures and results of various chemical
+samples collected from the tanks, pipings, etc. at the site of the accident including core samples
+from the ill-fated Tank 610. The analysis reveals the existence of a large number of compounds
+which must have been formed during the event. Possible chemistry of the events and details of
+experiments to verify the postulates are also given. The experiments carried out have conclusively
+shown that a mixture of MIC, chloroform and water when heated to 225 0 C to 250 0 C in a stainless
+steel reactor gives all the products found in Tank 610, though not in the same quantitative proportion. The concluding section gives the experimental studies to determine the ways in which hydrogen cyanide (apparent cyanide poisoning in many patients having been observed) could have been
+formed.
+Part n presents a modelling and computer simulation of the Bhopal accident. The model is
+based on the essential findings in Part I. These data, together with experimental data on the key
+reactions between MIC and water, MIC trimerization, etc. were analyzed to obtain the rate kernel.
+The mathematical model is developed subsequently with a number of simplified assumptions.
+The three stage model, thus developed, is discussed further. This particular model helps in putting
+quantitative bounds on the temperature and pressure reached in the accident tank and provides an
+approximate description of the dynamics of the whole process during the event.
+
+REGIONAL RESEARCH LABORATORY, HYDERABAD
+
+The report of the Regional Research Laboratory, Hyderabad (RRL-H), gives, in Part I, details of
+the experimental evidence of chemical transformation which took place in the ill-fated MIC tank.
+It includes results of experimental simulation of conditions prevailing in the tank during the accident. Predetermined proportions of MIC, chloroform and water were subjected to arious conditions
+and the products identified. Presence of large quantities of carbon dioxide and relatively smaller
+fractions of trimethyl amine in the gaseous products has proved to be significant in confirming
+the sequence of reactions postulated earlier by the Report on Scientific Studies on the Factors
+related to Bhopal Toxic Gas Leakage of December 1985. Similarly, the presence of certain constituents of the residue has re-affirmed the dependence of the reactions on the pressure prevailing
+in the tank. Part II deals with the efforts of the Design and Engineering group of RRL.
+RRL scientists were involved right from the beginning in the investigations and subsequent
+safe disposal of MIC during "Operation Faith". Later they visited the VeIL premises in order to
+cany out various assigned tasks, including sampling of the residue, weighing of the tank, examina-
+
+93
+
+

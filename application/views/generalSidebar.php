@@ -18,7 +18,7 @@
                                 <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/04'?>">Report of the Expert Committee on the Environmental Impact of Mathura Refinery</a></h1>
                             </li>
                             <li class="recent-news-wrap">
-                                <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/05'?>">Draft Report of the State Level Advisory Committee Appointed by the Government of Gujarat to Identify Operation &amp; Maintenance Problems of Powerstations in Gujarat</a></h1>
+                                <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/05'?>">Draft Report of the State Level Advisory Committee Appointed by the Government of Gujarat to Identify Operation &amp; Maintenance Problems of Power Stations in Gujarat</a></h1>
                             </li>
                             <li class="recent-news-wrap">
                                 <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/06'?>">Council of Scientific and Industrial Research Measures Taken at Bhopal</a></h1>
@@ -37,6 +37,9 @@
                             </li>
                             <li class="recent-news-wrap">
                                 <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/11'?>">Innovatre India</a></h1>
+                            </li>
+                            <li class="recent-news-wrap">
+                                <h1 class="title-median"><a href="<?=BASE_URL . 'search/index/'?>">Search</a></h1>
                             </li>
                         </ul>
                     </li><!-- widgets list end -->

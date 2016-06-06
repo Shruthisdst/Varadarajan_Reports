@@ -1,0 +1,156 @@
+54
+
+We bad earlier observed that moderate errors in the coeffici-
+
+6z
+
+ents a, k often change
+effect of increasing
+tne range
+
+by a factor of 4.
+
+6i5
+
+0< 't' <..1.0,
+
+is to raise the value of
+
+,
+
+G('f-')and
+
+so that 0 <~
+
+of
+
+< 0.5,
+
+But, if errora in
+
+'1'"
+
+beyond
+
+or our concentraa, k decreaae
+
+then there would be large errora in
+
+the conoentration estimates could be out by several orden.
+
+of magnitude.
+run~e
+
+G <.. 'f')
+
+then the error in
+
+tion values need not be large,
+6~'
+
+If, therefore, the
+
+The crucial point is, therefore, to determine the
+
+'Y
+
+in which we are interested.
+
+Unfortunately, it is difficult to determine this range with
+much precision, -but we could attempt an estimate of the worst po •• iAs we can
+
+ble-,~ondition8.
+
+for the lowe 8
+
+6~
+
+va 1 u e s
+
+t
+
+0
+
+'t'
+
+f
+
+see from Appendix I I this will happen
+This implies a minimum value for
+0
+
+and a maximum h.
+
+Let U8 assume that 20~·negative error in a, k reduces 6~ to,
+approximately, a fo~rth of its value qO km downstream from the stack.
+From Table 4, w~ observe that this will make
+
+b~
+
+~ 4 q ~/4
+
+~ J'l-4
+
+We also Rssume an approximate stack height of 100 m.
+
+then find that the largest values oJ
+
+we
+
+and
+
+h
+
+-
+
+14).1
+
++
+
+From Table ],
+effective stack height are,
+
+2'*5
+
+100 ~
+
+h
+387.4 .. 100 ~ ,.87
+depending on whether we consider the plume rise by Drig&a or by UorOOo
+et ale This' yields.
+12"
+245
+
+and
+
+::::: 0.5
+
+_1_2_1,,_ ~ O. J
+
+487
+From Appendix II we fjn~ that for the above value. of ~ , the
+error in concentration estimate8 would be ~6~ it~ - 0,5,
+bu t Z.26~ if 'Y .. 0. J, Th ere is no. s tron" ground t bowever, to
+believe that the latter would invariably be the ca.e, becau.e ldorton'.
+formulation is only valid for every stable atmoBnher~ with no wind.
+Such condition8 cannot be expected to predominate.
+~
+
+•
+On the other band, if the
+
+Gr:
+
+20~
+
+error in
+
+would be increased four-fold and
+
+'f
+
+k was positive then
+
+would exceed
+
+

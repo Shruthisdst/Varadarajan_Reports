@@ -198,12 +198,6 @@ class View {
 	
 	private function getPageTitle($viewHelper, $path, $journal) {
 
-		if($journal) {
-			
-			return $viewHelper->journalFullNames{$journal};			
-		}
-		else {
-
 			if(preg_match('/flat/', $path)){
 
 				// Remove trailing slashes
@@ -231,7 +225,7 @@ class View {
 					return '';
 				}
 			}
-		}
+		
     }
     
     private function getSideBar($path, $journal = '') {

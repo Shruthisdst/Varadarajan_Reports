@@ -1,0 +1,103 @@
+In addition, based on the analysis, vapours
+that left the tank can be estimated to be around
+28 tons. The tank before the accident has been
+reported to be nearly two-thirds filled with MIC.
+which presumably contained a little higher pro~
+portion of chloroform than usual. The present
+report assumes that the tank had about 8%
+chloroform contamination. Based on the material balance considerations presented in the Part
+I, we also assume that about 450 liues of water
+entered the tank. These values have been used
+for quantitative evaluation of the model.
+
+experiments, as reported here, the rise in temr
+erature of the contents has, however, been limited (22 0 -32 0 C) and as such these data have beer
+fitted by using a polynomial expression of fifth
+degree
+
+r
+
+C0 2
+
+= a + bt + ct2 + dt3 + et4
+
+(1)
+
+The coefficients a-e have been obtained for the
+best fit as a = 8240, b = -9510, c = 4930, d =
+-1010 and e = 71.1. The estimated values of the
+amount of gas evolved per unit time as obtained
+b~ using equation (1) have been plotted in
+Flgure 1. The experimental data and the predic.
+tions from equation (1) can be seen to agree
+within one percent accuracy.
+
+In order that we can proceed with our model
+building effort, we need kinetic rate data on
+various reactions that occured. Unfortunately, as
+mentioned earlier, no such data are readily available. As regards the main stoichiometric reaction
+between water and MIC, laboratory scale experiIt is of interest to note that the temperature
+ments have been undertaken by Union Carbide
+of
+the
+reaction mixture varies with time and has
+with a limited but systematic variation of the
+been
+recorded
+for certain values of the measured
+pertinent parameters(3). These data will be used
+time
+along
+the
+curve. This information can be
+by us in the absence of any other data.
+utilised to derive the temperature sensitivity of
+5.2 ESTIMATION OF MODEL PARAMETERS this re~cti~n. For. this purpose the rate of C02
+formatlon IS descrIbed by equation (1) has been
+separated
+into its temperature and concentra2.1 Analysis of the rate data
+tion dependent forms as
+Based on the analysis of the residue in the
+(2)
+rC02 = r(T) f(c)
+tank it is clear that the three main reactions that
+proceeded in the tank are the MIG-water reaction, MIG-MMA reaction and the MIG trhnerisa- where the temperature dependent part can be
+tion reaction. The laboratory scale experimental expressed as
+data on MIC-water and MIG-trimerisation reactions in the presence of varying strengths of
+(T· 293)j
+r(T) = r(To)
+exp (3)
+FeC13 concentration in solution have been reR (293T)
+ported in the Union Carbide document and have
+been analysed here to extract the quantitative
+information regarding the rates of these process- This procedure yields the activation energy of
+this particular reactor step as E =. 30 Kcal/mole.
+es.
+In all the subsequent analysis, the MIC-water
+The laboratory scale experiments on MIC- reaction has been expressed in the form of equawater reaction are carried out in a well stirred tion (1) with activation energy as estimated
+round-bottom container and the experimental above.
+data are reported by noting the amount of gas
+The experimental data on trimerization of
+(C02) evolved as a function of time. The two
+MIC
+in the presence of different extents of ferric
+sets of experiments reported differ in the initial
+chloride
+have been similarly analysed. The excpmposition of mixture and the data are reproduced here in Figure 1. It is obvious from the perimental data have been reproduced here in
+reported data that the reaction is exothermic Figure 2 and the typical curve for 66 ppm FeelS
+and entails a certain rise in temperature as marked along the curves. The system containing a has been fitted using the polynomial to obtain
+100:10 volumetric ratio of MIG-water is more
+t +
+vigorous with sharper rise in temperature as
+ltrimer = 0.01808 + 0.02282
+2 - 0.000007088 t 3
+0.0000142
+t
+compared to the system containing 100:5 proportion of MIC-water. In the laboratory scale
+(4)
+
+~
+
+66
+
+

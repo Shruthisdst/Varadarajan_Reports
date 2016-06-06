@@ -1,0 +1,126 @@
+10
+
+COr-lT I,\JUt::
+XO .::. RCH- HI::.
+
+F (1j
+
+F(2)
+
+DO ::0
+20
+
+=
+
+=
+
+Enr'~ 1
+
+(I
+
+\ '()
+
+EDN2{Y)
+
+J ::::
+
+1,N
+
+p(J) ~ P{J)+2.0~F(J)
+V(J) = S(J)+O.S*H*F(J)
+CONTINUE
+F ( 1) = EON 1 (Y)
+
+=
+
+F(2)
+ECtN::('O
+DO 30 J .:. 1,N
+
+p(J) ~ PlJ)+::.O*FeJ)
+YlJ) :::: S(J)+H*FeJ)
+30
+
+CONTINUE
+
+XO ::.:: RC,+H
+== EON 1 (Y)
+
+F ( 1)
+
+F (2) ;; EOt-J:: (Y)
+DO 4(1 J ::. 1,N
+veJ) = S(J)+(peJ)+FeJ».H/6.0
+
+40
+
+CONTINUE
+NS == N5+1
+
+A~LEA~
+
+=
+
+ALEAK*O.005*57.0/el.2~1000.0'+AALEAk
+
+AVOL=AINVOL+ AALEAK
+TR=eY(2)+273.)/(491.)
+
+PVPR=10.135656-(10.42~246/TR)-(4.94905~ALOG'TR»~O.28959.(TR*~6.)
+
+PVPR::.::EXP(PVPR)
+PVP=P',/PR*55.
+SRTR I t1=SRTR I t1+F\TR I M
+
+X1MIC=Y(1)/(Y(1)+SRTRIHJ
+TOTP=PVP*Xlt'1IC
+Y1MIC:PVP.XIMIC~AVOL/(O.082*(Y(2)+::73.»
+
+NMIC-=Ylt11C
+AI':'G=Nt~! C""57
+
+•
+
+SMINUS=8000.0*NMIC*1000.*O.005/A~G
+
+SMINU3=SMINUS*CD*(YC::)+273.)/273.
+
+RMOLES=NMIC-SORT(TOTP/3.)*SMINUS
+AP=RMOLES*(O.082~(Y(2)+:73.»/AVOL
+RCMT1=RCMT1+(VARTRM~3.*RTRIM)
+
+TYPE *,XO,Y(1),Y(~),TOTP,AP,Y1NIC,AALEA~,AVOL,RCMTl
+WRITE(2,*)X0,Y(lJ,Y(2J ,TOTP,~P,Y1MIC,AALEA~"AVOL,RCMTl
+TVPE*, '**~**~*K*»*****~.**~~**~~********~~~*****~~~**********w******­
+WRITE(~,*) .~**~*«***~***~**~~**~~*~**************.~*~~**«****.~*~***.
+
+112
+C
+
+55
+
+c
+
+RO = XO
+TLMT is the uppet- 1 i mi t of ti me T
+IF (XO.GT.TLMT) GOTO 55
+GOTO ::5
+CONTINUE
+
+CLOSE (2)
+Et.JD
+FUNCT I ON EON 1 ("0
+
+DIMENSION Y(3)
+COt'lt10t ~ X (I, D , RHO, CF' , DH 1 ,LH2, DH3 , E 1 BH , E::~E.R, AP ,RF , RFTR It-1, VARC02 , VARI RN
+COt"lt10t J )' 1 t1 Ie, HLEAI' ,F:C02T ~ AHLEt:)~': , TOTF' , RTR I t1 , F;DH3 , CO
+
+E2
+
+=
+
+EXP(E2BR~«Y(2)i273.)-~~3.0)/(293.0*(~(2)+~73»)
+
+93
+
+

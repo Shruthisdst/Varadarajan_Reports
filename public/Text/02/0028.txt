@@ -1,0 +1,88 @@
+Annexure 2.1
+
+Gas liquid chromatography
+
+The first compounds of the tank residue listed
+under 2.3 were estimated by gas liquid chromatography . Various columns were investigated
+for separation and quantitative estimation. The
+following three columns were found suitable
+for the separation of all these compounds and
+quantitative estimation.
+
+Temperatures
+Column oven -180°C
+Injection Port - 2500 C
+Detector - 2500 C
+Injection volume 0.4 1
+
+1. FFAP - 3 - 10~
+
+To analysis time - 43 min.
+
+2. 'OV-210 + OV-17 - 3-5%
+
+Method employed for quantitative analysis-
+
+3. C'wax 20 M TPA - 5-7%
+
+Absolute calibration curve method 44.
+
+Variation in the load of the phase helps
+in eluting all the components in shorter time.
+Experimental results are givien in the following
+section Standard solutions
+
+The standard solution of each compound was
+prepared by using purified compounds, with a
+concentration to match the quantity of that
+compound actually present in the samples. All
+the standard compounds (synthesised or isolated) were characterised by their spectral data.
+Acetone was used as a solvent for preparing the
+solutions. Standard solutions of various concentrations of each compound were prepared to
+match the peaks of the sample matrix.
+Instruments and Chromatographic conditions
+
+The following three instruments were used for
+the gas chromatographic analysis.
+
+1. Shimadzu Gas Chromatograph
+coupled with reporting integrater.
+
+G.e. conditions
+Column - FFAP 10% on chromo sorb WAW
+
+1. Hewlette P~"'~·ard - 5730 A with 3380
+A Computing integrator.
+
+G.e.
+
+Conditions
+
+Column . OV·210+OV-17
+chromosorb
+
+3·5% w/w on
+
+W·HP 80/100
+2 mm ID x 180 cms - glass
+Detecter - Flame Ionisation Detecter (FID)
+Carrier gas - IOLAR-1 nitrogen 30 ml/min.
+
+Temperature
+Column oven -155°C
+0
+
+Injection port - 250 C
+Detector· 3000 C
+Injection volume - 2 III
+Total analysis time - 15 min.
+
+Detect.er - Flame Ionisation Detecter (FID)
+Carrier gas - Nitrogen (Flow 60 ml/min.)
+
+28
+
+Method employed for quantitative estimation.
+External standard quantitation.
+
+

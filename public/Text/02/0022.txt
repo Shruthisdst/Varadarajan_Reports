@@ -1,0 +1,163 @@
+TABLE A-2.10
+Analysis of Chloride Ion, Acidity & Alkalinity
+Samples from 1st Batch
+--------------~-----------------------------------r-------
+
+as HCI
+
+Chlorides
+as HCI
+
+%w/w
+
+Samples
+
+%w/w
+
+Acidity
+
+2
+
+3
+
+9)
+
+Nozzle B, N 2/0utlet
+outside of core sample
+
+6.35
+
+10.26
+
+22)
+
+Solids from RID vlsl and
+DIS spool (2)
+
+0.78
+
+0.496
+
+23)
+
+Solids from E-610 RID vlsl
+spool piece (3)
+
+0.68
+
+0.41
+
+24)
+
+Solids RID vlsl isovalve
+DIS side (4)
+
+0.51
+
+0.340
+
+25)
+
+Solids from RID DIS spool
+piece (5).
+
+0.83
+
+0.523
+
+26)
+
+RID DIS spool piece end flange
+side solids E-610 tank (7)
+
+0.82
+
+0.352
+
+27)
+
+Sample from RVVH dead end
+bleeder towards 200 TR shed (11)
+
+7.82
+
+7.68
+
+28)
+
+Sample of liquid from PSV downstream
+bleeders of dryer (9)
+
+29)
+
+Side stream cooler PSV dIs
+bleeder sample 2Pc
+
+30)
+
+1.37
+
+11.98
+
+1561
+
+Sample from RVVH drain bleeder
+on desuper-heat on 2nd level.
+
+4.38
+
+1.97
+
+31)
+
+Top core section MIC tank E-610
+
+9.37
+
+5.01
+
+32)
+
+Mid core section MIC tank E-610
+
+6.54
+
+4.87
+
+33)
+
+Bottom core section MIC tank E-610
+
+4.89
+
+4.26
+
+34)
+
+Solids from E-610 Thermowell
+
+5.77
+
+175
+
+35)
+
+Liquid sample collected from MIC
+tank GIL PSV pIs line (R VVH)
+
+3.06
+
+4.9
+
+36)
+
+Solid sample collected from MIC
+tank 610 PSV DIs valve DIs line RVVH
+
+2.93
+
+1.66
+
+22
+
+

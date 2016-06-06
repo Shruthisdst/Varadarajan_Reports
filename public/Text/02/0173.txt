@@ -1,0 +1,283 @@
+1468
+
+3961
+
+37.0
+
+32
+
+67. butyl benzyl phthalate
+
+275
+
+3960
+
+6.9
+
+23
+
+68. di-n-butyl phthalate
+
+611
+
+3963
+
+15.4
+
+28
+
+69. di-n-octylphthalate
+
+194
+
+3960
+
+4.9
+
+20
+
+70. diethyl phthalate
+71. dImethyl phthalate
+72. 1,2-benzanthracene
+(benzo(a)anthracene)
+
+291
+166
+96
+
+3962
+3960
+3961
+
+7.3
+4.1
+2.4
+
+25
+18
+12
+
+73. benzo(a)pyrene
+(3,4-benzofluoranthene)
+
+107
+48
+107
+59
+
+2.7
+1.2
+2.7
+1.5
+
+14
+8
+
+74. 3,4-benzofluoranthene
+75. 11,12-benzofluoranthene
+76. chrysene
+77. acenaphthylene
+78. anthracene
+79. 1.12-benzoperylene
+(benzo(ghi)-perylene)
+
+3959
+3959
+3959
+3960
+
+171
+143
+341
+26
+
+3960
+3959
+3960
+3960
+
+4.3
+3.6
+8.6
+.66
+
+189
+352
+
+3957
+3961
+
+4.8
+8.9
+
+82. 1,2,5,6-di-benzanthracene
+(dibenzo( a,h )anthracene)
+
+25
+
+3961
+
+.63
+
+7
+
+83. indeno(1,2,3-cd) pyrene
+(1,2-o-phenylene pyrene)
+
+32
+
+3960
+
+.81
+
+7
+
+240
+384
+
+3961
+3824
+
+86. toluene
+87. trichloroethylene
+
+1014
+382
+
+3824
+
+88. viny1chloride
+(chloroethylene)
+/89. aldrin
+
+9
+
+66.
+
+blS( 2-ethylhexyl)
+phthalate
+
+80. fluorene
+81.phenanthrene 5
+
+84. pyrene
+85. tetrachloroethylene
+
+6.1
+10.0
+
+14
+11
+12
+I£)5
+
+23
+7
+17
+22
+
+17
+22
+
+3824
+3824
+
+26.5
+9.9
+.24
+
+33
+25
+
+4022
+4022
+
+.42
+.19
+
+4022
+
+.15
+
+7
+5
+4
+
+.19
+.05
+.17
+
+14
+
+4022
+4022
+4022
+4022
+
+9
+5
+6
+4
+
+4022
+4022
+4022
+4022
+
+100. heptachlor
+
+9
+
+4021
+
+101. heptachlor epoxide
+
+9
+
+4022
+
+90. dieldrin
+91. chlordane (technical
+mixture)
+92.4,4'-DDT
+93.4,4'-DDE(p,p'-DDX)
+94. 4,4'-DDD (p,p'-TDE)
+95. alpha endosulfan
+96. beta endosulfan
+97. endosulfan sulfate
+98. endrin
+99. endrin aldehyde
+
+17
+8
+6
+
+8
+3
+7
+
+.35
+.22
+.12
+.15
+.09
+.22
+.22
+
+5
+
+5
+2
+4
+7
+3
+2
+
+3
+2
+5
+3
+
+17.~
+
+

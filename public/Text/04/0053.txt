@@ -1,0 +1,65 @@
+THE DISPERSAL OF POLLUTANTS FROM A REFINERY STACK
+
+by
+PK Daa, RK Dutta
+
+& BM Cbhabra
+
+Meteorological Office, Lodi Road, New Delbi-J
+
+1.
+
+INTRODUCTION
+
+It has been proposed to establish a refinery near Mnthura
+during tbe late Fifth Plan or early Sixth Plan. Yatbura is about
+40 Km from Agra, yhere one of tbe major tourist attraction in India The Taj Matia} - is located. The designers of the refinery are, 6S
+a consequence: concerned about whether the quantum of sulphur dioxide released from the refinery stacks would damage tbe Taj Wahal.
+Sulphur dioxide ia a toxic gas which. in combination with water
+vapour in the atmosphere. produces sulphuric acid. Tbe long term
+effect of this on marblo, and other monument., would be to corrode
+them. To have an idea of the.possible quantum of pollutants and
+their effect on Taj ).(ahal some preliminary computations have hefln
+made. This is a preliminary report and here an attempt has been
+made to present computwti~ns of sulphur dioxide concentrations at
+di f rerellt dis tRuces dowlutircnm from a-refiuery atack under different meteoroJogical conditlotl9. We have assumed that sulphur
+dioxide emanati~g from the stack spreads out in the form of a
+Gaussinn plume. Earlier work of Sutton (195J) and Pssquill(1962)
+fOXlnS the basi s of this study.
+There are some uncertainties in our computations because of
+a numoer of variables used on which very Ii ttle field data are
+available.
+The main uncertaintIes are on account of (a) empiric-al
+values of diffusion co-efficients, (b) the mechanics of plume rise,
+(c) empirical wind profiles in lhe lowest IOn m above the ground.
+Here an attempt bas also been mode to estima~e the order of errors
+in the computatiolls of sulphur dioxide concpntratioos due to these
+cnUH es.
+
+2.
+
+SY}.illOLS
+
+·The follow! ng symbols not defined in the text have been
+used in this paper.
+
+x
+
+Short period (1 hour) ground conc-entrations
+in
+/," 3 )
+
+(A~
+
+Emis sion ra tc (
+
+jJ-8 /sec
+
+)
+
+Potential temperature (Ok) and its
+verti cal grad~ ell t (Ok/m);
+
+43
+
+

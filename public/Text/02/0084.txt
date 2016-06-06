@@ -1,0 +1,140 @@
+= Y(1)~(O.u8~*(~~3J+:7~.)/AVOL)
+
+AP1
+r'co~
+
+:::Af-' 1
+TR =: (Y(~)+=73.)/(491.0)
+PVPR ~ 10.13~b56-(10.4~5~46/TR)-(4.94905*ALOG(TR)+O.2~959~(TR**6.
+THE FACTOR 0.5 APPE~RS AS A CORRECTION FOR VAPOR PRESS. DAT~
+F'VPR = ExP(PVPR>
+
+C
+
+PVP
+
+PVPR*55.
+
+=:
+
+PCHCL~
+
+=
+
+EXP(10.669856-(3566.9~3/(Y(3)+273.}»
+
+SRf'lf1A;;5Ri1t1A +-Rt1tl~
+
+SRTRIM
+
+~
+
+SRTRIM+RTRIM
+
+YCHCL3~YCHCL3-YICHCL
+Xl N1C == V (~) / (y (:::) + YCHCL:::-t SF;j-iNA+ SRTR 11'1)
+
+XCHCL3
+
+TOTF
+
+=YCHCL3/(Y(~)+YCHCL3+3RMMA+SRTRIM)
+
+c
+
+PVP.XIMIC) +( PCHCL~~XCHCL~)+(PC02)
+IS THE TOTAL PRESSURE (ATM.)
+)' 1t11 C = pvP .... X 1f1 I C';h~VOL I ({). 08~· ('{ (3) .... 27::::. 0) )
+
+c
+
+YICHCL
+PCHCL3*XCHCL3~AVOL/(O.OS~.(Y(3)+~73.0»
+CO;:t-10L=Y ( 1 )
+CALCULATION OF FRESSURE BY 612ECTION METHOD
+Nt1IC = 'lU1IC
+NCHCL =: 'I' 1 CHCL
+
+=(
+
+AP
+
+=
+
+=
+
+NCO?
+Y(l>
+;(NMIC*57.0)+(NCHCL*119.5)+(NC02*44.0)
+SMINUS = BOOO.O*(NMIC+NCHCL+NC02>*1000.0*0.00S/AKG
+
+A~G
+
+5MINUS=SMINU5~CD*(Y(3)+273.)/273.
+
+=
+
+RMOLES
+AP
+
+=
+
+(NMIC+NCHCL+NC02)-SORT(TOTP/3.0)*SMINUS
+
+RMOLES~(O.082*(Y(3)+273.»/(AVOL)
+
+TYPE,*,
+
+I
+
+AP , NN I C , NCHCL , NCO:2 , Rt10LES , SH I NUS : '
+
+IF (Nl0.EC.O) THEN
+WR I TE (2, *) 'AP, Nt11 C , NCHCL , NC02 , RMOLES , 51'11 NUS : '
+
+WRITE (2,*)AP,NMIC,NCHCL,NC02,RMOLES,SMINUS
+ENDIF
+TYPF *,AP,NMIC,NCHCL,NCO:2,RMOLES,SMINUS
+RCMT I S THE REACTED AMOUNT OF MIe (t"lOLES)
+RCMT = YO(2)-Y<=)-AALEAK*1.2/57.0
+
+C
+C
+
+RCMTl = RCMT+«(RC02T+RMMA)*VARCO~)
+RCt1T = RCt1T 1+ (3. I) *RTR I t~*IJARTRt1)
+
+'*,
+
+XC, ,C02t'ICL , Y (2) , Y (3) ,pea::, TOTP , ';P , AALEAI<, RCO~T , AVOL ,RCf'1T 1
+1 ,RCt1T ,SRHt'1A, '( 1 t1 Ie, Y 1 CHCL, i'CHCL3 ,.XCHCL 3
+IF H~10 .. EO. 0) TH£N
+
+TYPE
+
+WRITE(2,*)XO,C02MOL,V(2),Y(3),F'C02,TOTP,AP,AALEA~,RC02T,AVO~,RCMTl
+
+l,RCMT,SRMMA,Y1MIC,YICHCL,YCHCL3,XCHCL3
+WRITE(~,*)~******~***~+.+.**+.****+.*~**************************~*~*****
+
+1.,.;.****+.'
+ENOIF
+TYPE*,'*~**~******************~*****~*~****************~*****+.*~w****~
+1*,*,*'
+
+RO == i~O
+TLMT is the upper limit of ti~e T
+IF (RCMTl .GT.50000.0) THEN
+GO TO 55
+
+112
+C
+
+ENfJIF
+
+IF \xO.GT.TLMT) GOTO 55
+GOTO 25
+
+86
+
+

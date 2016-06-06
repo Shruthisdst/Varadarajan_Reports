@@ -1,0 +1,76 @@
+Instrument and chromaqraphic conditions
+5himadzu Gas Chromatograph RIA
+integrator waS
+
+coupled with the reporting
+
+used for all chromatographic estimations.
+
+The performance
+
+of the chromatograph was checked periodicaHy by injecting standard mixtures.
+
+GLC conditions
+
+Column - 896 TEPA + 296 KOH on chromosorb 102
+
+" 10 x 6 feet)
+(55 column of 1/8
+Detector - Flame Ionisation Detector (FlO)
+Carrier gas - nitrogen (50 ml/min)
+0
+
+Column oven temperature - 85 C
+0
+
+Injection port temperature - 150 C
+Detector temperature - 225°C
+Total analysis time - 15 min
+Quantitation
+
+method - Absolute calibration curve method 44
+
+Determination of Chlorides by Potentiometric Titration
+Chloride content (CI-) was determined by tItrating against standard
+silver nitrate solution potentiometrically.
+
+Residue samples from tank 610
+
+as we-ll as other samples were determined by this procedure. All the samples
+after diluting with water were made acidic with dilute nitric acid before
+titration.
+Reagents and Appratus
+
+AR
+
+1.
+
+Grade reagents were used for all the ·work.
+
+0.1 N silver nitrate was prepared by dissolving 85 g of silver
+nitrate in .5 litres of deionised-distilled water.
+
+The solution
+
+was standardised using sodium chloride as standard.
+
+2.
+
+Mettler autofnatic titrator was used for all the titrations. ORION
+CHLORIDE ion selective electrode along with a double junction
+reference electrode was used as the indicator electrode system.
+A magnetic stirrer was used tor stirring the solutions during
+
+titrations.
+
+The end point of the titration wa-s determined by plotting m V
+
+against volume of standard AgNO) added.
+
+set at + 300 m V •
+
+52
+
+The end point potential was
+
+

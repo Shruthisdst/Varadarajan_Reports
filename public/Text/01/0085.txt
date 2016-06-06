@@ -1,0 +1,50 @@
+However, the range of the temperature transmitter provided was only
+-25°C to +250 C, with a high alarm setting at +1 JOe.
+
+The contents
+
+of the tank were being stored at ambient temperature, which varies
+approximately from +150 C to +40oC at Bhopal. The temperature of
+MIC In the storage tanks for most part of the year was higher than
+o
+the high temperature alarm setting. Le. +ll C. Indeed the temperature
+of material In the tank was higher than the maximum of the range
+of the temperature transmitter, i.e. +250 C. In such circumstances the
+acutal temperature was not known and the transmitter was of no value.
+Further, provision of "rate of rise in temperature" alarm would have
+Invited the operator's attention to the start of such a reaction.
+
+No
+
+such prOvision was made.
+4.5
+
+Refrigeration
+There Is only one common compressor and chiller system for
+
+all the three MIC storage tanks. For such a hazardous material as
+MIC, where maintaining it at a low temperature is considered very
+important, a spare compressor and chiller system would have ensured
+proper chiling even when the main compressor and chiller system
+is under repairs or maintenance. This provision of spare compressor
+and chiller has not been made.
+
+4.6
+
+Vent Gas Scrubber
+The VGS is designed to neutralise a maximum of about 3.5
+
+tonnes (7700 Ib) of MIC at a maximum rate of about 9.6 tonne/hr
+(21200 lb/br) In a vapour form.
+
+The accumulator volume of 80m 3 (21000 gal) If filled with
+tlte recommended 10.. caustic solution can neutralise a maximum of
+about 13 tonnes of Mle. Also, operation of VGS at temperatures abo.e
+70°C for extended periods Is not recommended since absorption will
+be poorer and the heat of neutralization is not completly removed by
+the cooler In the VGS system.
+With the caustic make up pump capacity at 95 Ipm (25 gpm)
+of 2D'J& caustic solution, addltional MIC that can be neutralised Is also
+limited to about 2 tonnelhr.
+
+

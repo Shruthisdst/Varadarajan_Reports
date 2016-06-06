@@ -1,0 +1,184 @@
+TABLE 3.1
+Representative Laboratory Experiments with MIG & Derivatives
+SI.
+No.
+
+Reaction
+Temp.oC
+
+Reactants
+
+Time
+(Minutes)
+
+GLC of Acetone Extract
+(Approx. %)
+
+1.
+
+MIC + H20 + trace
+HCI
+
+2.
+
+MIC + H20 + trace
+HCI + trace FeCIa
+
+3.
+
+MIC + CHCla + H2O
+
+100
+
+40
+
+DMU (7), MICT (5), TMB (84)
+
+4.
+
+MIC + CHCla + "20
+
+190
+
+40
+
+DMU (3), MICT (60), TMB (36),
+Dione (Trace)
+
+5.
+
+MIC + CHCla + H2O
+
+200
+
+15
+
+DMU (1), TMB (54), MICT (45),
+Dione (0.5)
+
+6.
+
+MIC + CHCl3 + H 2O
+
+250
+
+45
+
+TMU (2), DMU (14), MICT (41),
+TMB (2.5), DMI (6), Dione (3)
+
+7.
+
+TMB + MIC + CHCla
+
+240
+
+40
+
+TMU (1), DMU (4.5), MICT (80),
+TMB (a), DMI (6), Dione (5)
+
+8.
+
+TMB+CHCI 3
+
+245
+
+45
+
+TMU (2.5), DMU (40), MICT (6),
+TMB (4), DMI (9), Dione (2)
+
+9.
+
+TMB
+
+250
+
+45
+
+DMI (4), Dione (nil), TMB (1),
+MICT (29), DMU (61), TMU (trace)
+
+10.
+
+DMU
+
+280
+
+45
+
+DMU (100)
+
+11.
+
+DMU + MIC + CHCla
+
+250
+
+45
+
+TMU (3), DMU (13), MICT (52),
+TMB (8), DMI (4), Dione (2)
+
+12.
+
+TMU + MIC + CHCla
+
+251
+
+45
+
+TMU (10), DMU (1.5), MIC (47),
+TMB (3.5), TRMB (2), DMI (12),
+Dione (2)
+
+13.
+
+MICT+CHCl3
+
+280
+
+45
+
+MICT (100)
+
+14.
+
+MICT + CHaNHaCl
+
+aoo
+
+45
+
+MICT (100)
+
+Rose 2a to 28
+
+1.
+2.
+a.
+
+6
+
+Not analysed. Temp. rose from
+23 0 to 28 0 , remained at 28 0 for
+15 minutes and started decreasing.
+
+Rose 2a to 29
+Rose 29 to a1
+Rose a1 to 45
+
+3-5
+60
+in a few
+minutes
+boiled off
+
+Residue was a solid mass which
+analysed for DMU, TMB and
+MICT qualitatively.
+
+77
+
+

@@ -1,0 +1,100 @@
+TABLE A-2.2
+Retention time of different compounds on OV-210 + OV-17 J% wJw column
+
+----------------------------------------------------------Compound
+Retention time
+
+SLNo.
+
+min
+
+1.
+
+Trimethyl mea
+
+1.42
+
+2.
+
+Dimethyl urea
+
+1.78
+
+3.
+
+MIC Trimer
+
+5.55
+
+4.
+
+Tetra methyl biuret
+
+6.04
+
+5.
+
+Trimethyl biuret
+
+6.66
+
+6.
+
+1,3-Dimethyl isocyanurate
+
+8.32
+
+7.
+
+Dione
+
+10.80
+
+TABLE A-2.3
+Reliability test using internal standard
+Internal Standard 'Dibutyl Phthalate'
+No.
+
+Compound
+
+Concentration in mg/1 0 ml
+
+Taken
+
+Obtained
+
+1.
+
+TMB
+
+24.4
+
+23.9
+
+2.
+
+DMI
+
+40.8
+
+40.1
+
+3.
+
+MICT
+
+193.1
+
+185.6
+
+4.
+
+DMU
+
+26.6
+
+23.9
+
+32
+
+

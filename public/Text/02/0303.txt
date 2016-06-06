@@ -1,0 +1,43 @@
+PROCEDURES FOR THE DETERMINA TION OF METHYL
+ISOCYANATE IN THE ENVIRONMENT
+
+1 Chromatographic Method
+(a) The method involves the collection of methyl isocyanate on an ion exchange resin, reaction with a fluorescent reagent and analysis by high pressure liquid chromatography.
+(b) A previous method for determining isocyanate imonom3r using 1 (2-mathoxyphenyl) piperazine with high performance liquid chromatography (HPLC) was modified to measure both monomer and pre polymer. A dual detection system employing electrochemical and ultra-violet detectors
+is used to identify isocyanate derived HPLC peaks which are then quantified by reference to a
+monomer standard. The precision of the method ;s better than 10% over the range 35-140 ug
+(NCO)-m3 for a 10 minute sample.
+(c) The concentration of air-borne isocyanates were measured during spray painting with
+two component polyurethane paints. The isocyanate component hexamethylene-di·isocyanate (HOI)
+and its prepolpmer of the biuret type were determined by high performance liquid chromatography
+after derivatization to stable urea derivatives with N-4-nitrobenzyl-N-n-propylamine. Samples were
+collected on reagent impregnated glass fibre filters, and the derivatives were eluted with the chromatographic eluant. An impregnation technique facilitates, the chromatographic separation and the
+subsequent quantitative determination.
+
+2
+
+Detector Tube Method
+
+The need for a simple method to determine the level of MIC in vessels prior to entry or to
+locate leaks from procass equipment led to the development of a detector tube. This is based on
+the orange-to-yellow colour change obtained when MeNCO reacts with p-aminoazobenzene on silica
+gel. It is capable of detecting 1 to 30 ppm MeNCO.
+
+3 Titrimetric Method
+The isocyanates are determined by treatment with an excess of n-butylamine in dioxane to
+form the corresponding substituted urea and thiourea respectively. The excess of butylamine is
+then determined bV titration with standard 0.02 N. hydrochtoric acid.
+
+4
+
+Colorimetric Procedure
+
+Methyl isocyanate is collected by scrubbing air through two midge impingars connected in
+series containing dimethylsulfoxide hydrochloric acid (DMSO·HCL) absorber solution. Air is scrubbed through the impingers at a rate of 0.1 litre per minute for eight hours. M Ie collected is hydroJY2ed ;n the absorber solution to methylamine, which ;s transformed to 2,4-dinitrophenyJmethylami.
+ne with 1-fluoro-2,4-dinitrobenzene. 2,4-Djnitrophenylmethylamine has a yallow colour which is
+extractable in tetrachloroethane, the intensity of which is measured spectrophotometrically at a
+wave length of 366 mu.
+
+305
+
+

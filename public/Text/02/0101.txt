@@ -1,0 +1,90 @@
+REPORT OF WORK ON
+MIC DECOMPOSITION STUDIES
+
+1.0 Background
+
+ii) Trimerisation
+
+540 Btuflb of MIC
+
+The scientific studies on the factors related to
+the Bhopal toxic gas leakage persented in the
+CSIR report of December (1985), though concise, embodies the results of (i) a chemical study
+on the tank residue and the reactions of MIC
+and (il) an exhaustive analysis of the design
+features and facilities for the manufacture of
+MIC, its storage, utilization and disposal at the
+Bhopal plant. It establishes that a combination
+of conditions for the occurrence of the mishap
+already existed in the plant, due to the lack of
+en'gineering features commensurate in proportion to the properties of explosive reactivity,
+ready volatility and high inhalation toxicity of
+MIC. From the chemical analysis of the tank
+residue and the chemistry of the formation of
+products, it has been deduced that (i) the
+temperature of the tank should have reached
+250 0 C causing the pressure in the tank to rise
+to around 11·13 kg/cm 2g, (ii) there should
+have been an ingress of at least 500 kg of water
+initiating the reaction and activating the metal
+contaminants and (iii) there should have been an
+intrusion of sodium hydroxide to account for
+the quantity of sodium present in the tank
+residue.
+While the report undoubtedly demonstrated
+that there was no formation of hydrogen cya·
+nide during the pyrolysis of MIC or its reaction
+products, an analysis of the gaseous products
+was much desired. With this requirement in
+view, a few experiments have been carried out
+primarily for gas analysis and simultaneously for
+the product analysis to see if any further insight
+into the reaction could be gained.
+
+(iii) Reaction with
+water
+
+585 Btu/lb of MIC,
+3700 Btu/lb of water
+
+Considering the heat of reaction with water, it
+may be seen that every kg of water reacting
+with 6.33 kg of MIC will liberate 2051.28
+Kcals of heat sufficient ~o vapourise 16.59 kg of
+MIC at ambient temp. and atmospheric pressure.
+In other words, water added to an extent of
+4.36 (W%) in MIC can cause the vapourisation of
+the entire quantity of MIC taken. If the trimerisation reaction is considered, the heat
+liberated for every kg of trimer formed is
+equivalent to the vapourisation of 7.3 kg of
+MIC. For the reaction involving DMI formation, heat produced by the formation of one kg
+of DMI will evaporate 2.78 kg of MIC. Though
+the reaction with water at room temperature is
+slow, the heat produced accelerates the reaction
+rapidly. The trimerisation reaction is violent,
+but has an induction period depending upon the
+catalyst. The DMI formation takes place only
+above 2000 C. From the December (1985 )
+report, it may be seen that the trimerisation
+reaction is the major reaction producing the
+maximum heat, enough to evaporate 50,590
+kg of MIC, followed by the reaction with water
+and the DMI formation (heat equivalent is
+8494 kg and 7442.6 kg of MIC respectively).
+So the water quantity for the reactions under
+study are taken in the rmige 3·8 (W%).
+The second factor considered was the content of chloroform in the MIC stored in tank
+610. December (1985) report shows that chlorc>form has no influence whatsoever in initiating
+or accelerating the run away reactions. Chloroform was responsible for the formation () f
+2.0 Factors considered
+dione which takes place above 200 0 C and wa..s
+Firstly the heats of reactions were taken into estimated to be 595 kg from the tank residu.e
+consideration. The values for the common analysis. This works o~ut to 5% based on the
+MIC used up in the reaction (12,087 kg) aIld
+reactions of MIC are:
+1.45% on the total quantity of MIC present iD
+i) Polymerisation
+345 Btu/lb of MIC the tank (41,338 kg). The VCC report !>f
+103
+
+

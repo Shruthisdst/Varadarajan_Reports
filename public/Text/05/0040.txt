@@ -1,0 +1,84 @@
+-29-
+
+getting erroded.
+
+It is necessary to stop the unit very
+
+frequently to attend to such defects.
+3.2.17
+
+Gland sealing steam temperature:
+
+As per recommendation
+
+of SHEL, when 200MJ units were oommissionmd, the gland
+sealing steam temperature was maintained between 120 0
+to 150°C.
+
+After sometime different instructions were
+
+given by BHEL and now it is recommended that temperature
+should be maintained between 180°C to 200°C.
+
+The fre-
+
+quent modification of instructions causes the operations
+staff to get confused.
+3.2.18
+
+Auxiliary steam temperature and
+
+pros~ure-contrbl:
+
+The
+
+actuators of auxiliary steam temperature and pressure
+control could not be oommissioned in 200MW units.
+
+BHEl
+
+had intimated GEB that the manufacture of this type of
+actuator was :discontinued
+GEB now has to make some
+3.2.19
+
+as they have
+
+aJ~ernative
+
+be~ome
+
+obsolete~
+
+urrangements.
+
+Breaking of piston rings of Cont-ol Valves:
+
+The piston
+
+ring of the control valve gives way and the control
+valve get stuck.
+3.2.20
+
+Vacuum problem:
+
+This is very dangerous.
+In 200MlJ units, two ejectors are requ-
+
+ired to be run continuously_
+
+Thus, no standby is
+
+available.
+3.2.21
+
+Sticking of diaphragm liner of LP top cover:
+
+In 200MW
+
+unit III, the diaphragm liner was stuck up and
+manhole had to be out in the top cover to detach
+
+a
+
+

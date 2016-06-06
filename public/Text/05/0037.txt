@@ -1,0 +1,79 @@
+-26-
+
+3.2.4
+
+Drum leval control:
+
+BHEl have given several different
+
+instructions for maintaining drum levels.
+
+This has also
+
+resulted in heavy carry-over and on ocoas10n the level
+suggested was so low that there was starvation and
+boiler tubes failed due to overheating.
+
+A oopy of
+
+SHEL's letter is included in Appendix-12 which shows
+that the instructions were revised many times.
+3.2.5
+
+flame failure tripping:
+
+The flame failure trip-outs
+
+have been far too frequent especially on 200MW units and
+once the unit trips it takes 12-16 hours before it oan
+be re-synchronized.
+
+This is causing heavy load shedding
+
+during the period of such tripping.
+3.2.6
+
+Wedges of Rotor:
+
+The wedges of generator rotor of
+
+120MJ sets have been getting displaced.
+
+ohoking up of ventilating holes and
+
+This causes
+
+~alance w~ich
+
+ultimately results in severe vibrat i011.
+
+This may be due
+
+to poor quality of material and 'Jorkmanship in assembly.
+The repairs of such defects is time consuming and
+reduces availability of the unit.
+3.2.7
+
+Wedges of Stator:
+
+The wedges of Stator of 120MW units
+
+get loose whenever it is taken out for overhaul.
+
+This
+
+defect has not been found in imported units.
+3.2.8
+
+Tube Puncture:
+
+There have been frequent tube failu~es
+
+in 120MW and 200MW units.
+
+This may be either due to
+
+bad material or poor quality control or poor design.
+After commissioning, the number of tube failures
+
+

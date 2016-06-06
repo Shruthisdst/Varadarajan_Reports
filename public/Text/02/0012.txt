@@ -1,0 +1,96 @@
+centration of 15.2 kg moles (540 kg). All the
+amines taken together add up to 16.9 kg moles
+in the residue (800 kg). In all, a total of 97 kg
+moles of compounds are present in the residue,
+accounting for about 12 tonnes out of the 12.5
+tonnes of the residue estimated to be present.
+
+Examination of the anlytical results reveals
+that the residue mass contains products which
+could be considered as derived from the MMAMIC reaction. MMA can also be produced by
+the reaction of water and MIC. It can therefore be concluded that either water or MMA
+entered the MIC storage tank E 610.
+
+2.4 Reactions involved
+
+Reaction sequences that take place when
+either water or MMA enters the MIC tank are
+depicted in Chart 1.
+
+The percentages as well as the total quantities of
+all components found in the tank residue are
+presented in Table 2.9.
+MIC, in the absence of external reagents but
+in the presence of catalyst, can trimerize to
+give 1,3,5 trimethyl isocyanurate (MICT).
+The residue has been found to contain MICT
+to the extent of 40 mole percent.
+
+The chemical structures of the compounds
+are shown in Fig 2.3.
+From simple stoichiometric calculations
+the total quantity of water required for all th~
+reactions involving water can be calculated.
+This amounts to about 450 kg.
+
+CHART - 1
+
+Reaction sequences:
+
+1- Formation of MMA and CO 2
+
+MIC + H2 O
+
+.... MMA+ CO 2
+
+2. Formation of DMU
+MMA +MIC
+
+.. DMU
+
+]2
+
+TMU
+
+TMU
+HNCO+ 2MIC
+
+.
+III
+
+TMA+HNCO
+DMI
+
+8. Formation of dione and chloride
+... DMA+HNCO
+
+5. Formation of DMI
+HNCO + 2MIC
+
+~
+
+.. TMB
+
+4. Formation of DMA
+
+DMU
+
+DMA+MIC
+
+7. Formation of TMA and DMI
+
+3. Formation of Trimethyl biuret
+DMU+MIC
+
+6. Formation of TMU
+
+• DMI
+
+DMU + CH2C~+ MIC. .dione + 2HC1
+
+9. Formation of MICT
+Catalyst
+3MIC
+.. MICT
+
+

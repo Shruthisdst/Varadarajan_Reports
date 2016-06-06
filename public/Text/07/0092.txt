@@ -1,0 +1,60 @@
+4.0 ANALYSIS OF DESIGN AND ENGINEERING FEATURES
+
+4.1
+
+MIC and its Characteristics:
+
+that reacts with MIC or catalyses the reactions.
+While chloroform is an example of a safe
+coolant, use of water does create a hazard.
+
+MIC is a highly reactive, toxic, volatile and inflammable chell.1ical. According to the VCC
+Storage Tank
+brochure, MIC is usually stored and handled in 4.2
+stainless steel 304 and 316 equipment. Iron or
+steel, aluminium, zinc or galvanized iron, tin, The highly toxic and explosive nature of MIC
+copper or their alloys are prohibited from use. requires that the storage system and its related
+instrumentation/control be of high reliability.
+Purified MIC will react with itself under the
+Inspection of MIC storage tanks is diffiinfluence of a catalyst to form a cyclic trimer
+or a high molecular weight polymer. Strong cult, since they are buried. Tank 610 was
+bases such as sodium hydroxide, sodium metho- reportedly cleaned and inspected in 1982.
+xide and sodium acetate, certain metal chlorides Varying quantities of MIC from production
+such as ferric chloride and stannic chloride cata.- runs at different periods have been filled into
+lyse trimerisation. Since the reaction is quite tank 610. Similarly, varying quantities of MIC
+exothermic, contamination of MIC with traces have been removed at different periods.
+of the catalysts can cause violent reactions.
+Commercially produced
+MIC
+contains
+Highly purified MIC will polymerise spon- hydrolysable chloride in the form of phosgene
+and MCC. Ingress of even a small quantity of
+taneously to a linear polymer/trimer.
+water of the order of 40-50 ml per tonne of
+Water reacts exothermically to produce MIC, will lead to the reaction of water with
+heat and carbon dioxide. As a result, the tank the hydrolysable chloride to provide hydrogen
+pressure will rise rapidly if MIC is contaminated chloride and with a little more of water, aqueous
+with water. The reaction may begin slowly, hydrochloric acid. This leads to corrosion of
+especially if there is no agitation, but it will stainless steel, the material of construction of
+become violent. Aqueous sodium hydroxide the storage tank, leading to the formation of
+solution will react with MIC quite rapidly. ferric chloride which can catalyse the violent
+run-away reaction.
+MIC with the above mentioned characteThe Sevin unit could process MIC of the
+ristics should be considered as an explosive
+in addition to it begin a highly toxic chemical. order of 3 to 4 tonnes per day. The inventory
+of MIC in the storage tank was of the order of
+As per the UCC brochure, the storage tem- 90 tannes, equivalent to nearly 30 days properature should be maintained below 150 C and duction.
+preferably at about OOC. The storage tank is to
+It is normal plant practice to have interbe equipped with dual temperature indicators
+that will sound an alarm and flash warning mediate batch tanks to hold production from
+lights if the temperature of the stored material a single shift or for a day. The product collectrises abnormally. The tendency of valves on ed in these tanks is analysed, its quality ensured
+storage tanks to be clogged with solids is also and then it is transferred to the bulk storage
+tank. Such a facility of batch tanks had not
+stated in the brochure.
+been provided. MIC was directly fed to the
+The brochure further states that the cooling bulk storage tanks from MRS without any
+medium in the heat exchanger should not be one batch tank.
+
+85
+
+

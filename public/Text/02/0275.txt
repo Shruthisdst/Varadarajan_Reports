@@ -1,0 +1,62 @@
+7
+
+Affect
+Different personality tests are included in this seri9s like,
+
+Rorschach Inkblot and
+
+Eysenck
+
+Personality Inventory (EPI) and questionnaire for subjectiva symptoms.
+
+STATISTICAL TECHNIQ,UES USED
+The following statistical tools were used for the analysis of data
+perceptual motor speed. attention/response speed and manual dexterity.
+
+pertaining to memory,
+
+(1) Analysis of Variance-In order to test the significance of the variations among three
+different groups, viz. control, exposed male and exposed female, the analysis of variance as
+
+suggested by A.A. Fischer, was worked out.
+(2) t- Test - In order to find out the significance of difference betwe:m th3 two groups,
+this test is applied' The expression standard error (SE) of the difference between the two groups
+is represented by :
+SE (diff)
+
+=
+
+EMS (_1
+
+n1
+
++_,_)
+.
+
+n2
+
+where EMS=mean square within groups
+n 1 and n2 =denote the number of subjects in the two groups
+
+INTERPRETATION AND RESULTS
+MeDlory
+(a) Auditory Memory (lmmediate)- Immediate memory scores in females were significanUv
+lower as compared to controls, however, no significant difference was observed in males. Overall
+immediate memory score (male and female) in the exposed population was significantly lower as
+compared to controls. This shows that the effect of exposure in reducing the auditory memory is
+likely to be more in case of females than in males (Table 1 a and 1 b).
+(b) Visual memory- Immediate memory (visual) is significantly reduced in the exposed population (p L 0.001) as compared to controls. When males and females were compared it was found
+that immediate memory is more affected (PLO.05) in males as compared to females (Table 1b).
+Overall group results show that immediate visual memory was affected due to MIC exposure.
+Delayed memory (visual) was also significantly reduced in exposed population (p L 0.01) as compared to control whereas no significant ~ifferance between male and female was observed indicating that both are equally affected by MIC gas exposure.
+
+Perceptual Motor Speed-Both Digit Symbol Test and Bourdon-Wiersma test measure the
+perceptual motor speed. The latter test also includes attention/vigilance as an additional parameter.
+In the Bourdon-Wiersma test the changes were significant (p<0.001) while in the Digit Symbol
+test no significant changes were observed (Table 2a and 2b). The analysis of the questionnaire and
+results of interviews with the exposed subjects revealed that these subjects were having a lack of
+concentration and a poor attention. The study also revealed that attention/vigilance was significantly impaired in the population affected by MIC gas.
+
+277
+
+

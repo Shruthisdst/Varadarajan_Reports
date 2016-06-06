@@ -1,0 +1,62 @@
+1. INTRODUCTION
+
+A major leakage of toxic gases took place on the
+night of December 2, 1984 at the Union Carbide
+factory in Bhopal from a buried stainless steel
+tank (tank 610) in which forty two tonnes of
+methyl isocyanate (MIC) had been stored. This
+event resulted in enormous loss of human life
+and injuries to a significant proportion of the
+population. Whereas the consequences of such
+a major event have been obviously tragic, the
+causes have not been well understood. The
+National Chemical Laboratory was assigned the
+tasks of examining the chemical and reaction
+engineering aspects of the accident. This report
+provides the details of the investigations carried
+out by NCL team of scientists.
+The report is presented in two parts. Part I
+deals with the chemical aspects and Part II
+deals with the reaction engineering aspects of
+the problem. The method of enquiry in Part I
+is largely experimental in nature while Part II
+uses the essential findings from Part I as the
+basis to construct an engineering model to
+describe the events leading to MIC leakage.
+Part I begins with the analysis of samples
+which were recovered from the ill-fated tank
+610 after the accident. The details of the
+methods of analysis and composition of residue
+are presented in· Section 2. The analysis reveals
+the existence of a large number of compounds
+which must have been formed during the event.
+
+Section 3 discusses the possible chemistry of the
+event and gives details of experimental studies
+carried out to verify these postUlates. The
+experiments carried out have conclusively shown
+that a mixture of MIC, chloroform and water
+when heated to 225 0 to 250 0 C in a stainless
+steel reactor gives all the products found in
+Tank 610, though not in the same quantitative proportion. Finally, Section 4 is devoted
+to the experimental studies to determine
+whether HeN could have been formed during
+the event.
+The analysis in Part II begins with the main
+results derived in Part I as its basis. Section I
+of this part therefore highlights the essential
+findings of Part I which are gennane to the development of a mathematical model. Section 3
+analyses the experimental data on the key
+reactions between MIC and water, MIC trimerisation, etc. with a view to obtain the rate
+kernel. The mathematical model is developed
+subsequently with a number of simplifying
+assumptions, which have been clearly outlined.
+Section 4 discusses NCL's three stage model of
+the Bhopal accident. The important implications
+of the results are discussed in Section 5. In
+particular the model helps in putting quantitative bounds on the temperature and pressures
+reached in the accident tank and also provides
+an approximate description of the dynamics of
+the whole process during the event.
+
+

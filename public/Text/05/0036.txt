@@ -1,0 +1,71 @@
+-25-
+
+3.2.2
+
+Drum Internals of 120MW Ukai units 1&2:
+
+The drum
+
+internals of 120MW units of Uka! boilers are not properly designed and therefore heavy carry-over is taking place.
+This has resulted in failure of 2 HP Rotors.
+
+This point
+
+was taken up with BHEl from the very beginning.
+
+Recently
+
+they had agreed to modify the design and also to provide
+secondary scrubbers and accordingly the work has been
+oompleted in Ukai Unit II.
+
+The effectiveness of the
+
+modified design will only be known after recommissioning
+of Unit II at Ukai.
+
+It may be mentioned here that GEB
+
+has no carry-over problem in 200MW units at Ukai and
+also in
+
+120~
+
+units at Gandhinagar, where the operating
+
+staff and also quality of water chemistry is identical.
+3.!.3
+
+trequent trouble of Primary Air Fan in 200MW units:
+Heavy vibrations are experienced in Primarv Air Fans of
+
+2GJMW units at Ukai.
+
+Earlier GE9
+
+use~
+
+to repair them
+
+by some patch work at site on rE~ommendations of 8HEL.
+
+Last year some modifications were carried out for which
+impellers were sent to Trichy Workshop of BHEL.
+
+Even
+
+after modification, the performance has not improved.
+Now they have suggested further modification stating
+that they willbe supplying a hybrid design ror the
+impeller.
+
+Thus, trial and error methods are used by
+
+BHEL instead of supplying proven design.
+
+GEB is doubt·
+
+ful about the performance even of the proposed
+hybrid design.
+
+

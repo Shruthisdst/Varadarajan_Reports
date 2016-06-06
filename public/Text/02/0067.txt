@@ -1,0 +1,101 @@
+Other curves for different extents of FeC1 3 can
+
+be similarly fitted. The one reported here, how-
+
+ever, is believed to faB in a range that is close to
+the FeCl3 contents analysed from the tank and
+has been subsequently used in model computation.
+No data on MIC-MMA reaction have been
+reported. It is known, however, that the MICMMA reaction is much faster than the MICwater reaction. It is expected therefore (especially in the presence of large concentration
+of MIC) that the MMA formed due to the reaction of MIC with water will get quickly consumed and the rate of its reaction with MIC will be
+dictated by its own availability which is governed by its reaction with water. The nonavailability of MIC-MMA rate data is therefore not a
+serious handicap.
+
+2.2 Additional data required for model estimations
+
+literature (1,2) and can be summarised in the
+form of following functional relationship for
+MIC
+10.425246
+In Pvpr = 10.135656 - - - - - - -4.94905·
+(5)
+
+where P_v'Dt.. refers to the reduced vapour pressure of MIt; at temperature T>K and is defined
+as Pvp/ Pc. where Pvp is the required vapour
+pressure In atmospnere and Pc the critical
+vapour pressure of MIC, reported to be 55 atm.
+The reduced temperature Tr is likewise defined
+as T/Tc and the critical temperature of MIC is
+491 0 K. Equation (5) has been fitted to the
+experimental vapour pressure-temperature data
+for MIC and can be assumed to be valid over
+the entire range from room temperature to critical temperature.
+
+The vapour pressure-temperature data for
+In the previous section we have summarised
+chloroform
+have been correlated by using the
+the basic information regarding the rates of the
+simple
+relation
+important processes. In addition, for the purpose of model building, we require information
+3566.933
+regarding the leakage rates etc. from the tank.
+In
+Pvp
+=
+1.669856
+---(6)
+The present section summarises this information
+T
+for use in the subsequent sections.
+Data on common physical and thermophysical properties such as densities and specific heats
+of the liquid reactants and products are readily
+available in standard references. We additionally
+need information regarding the heats of reaction.
+These have been estimated by using the heats of
+formation and other thermodynamic data. The
+procedures used for estimation have been summarised in Appendix-I.
+Among other properties of the reactant
+mixture, the one of immediate concern to us
+here relates to the pertinent vapour pressuretemperature relationship. Based on the analysis
+and identification of chemical species present in
+the tank, it is reasonable to expect MIC and
+chloroform to predominantly contribute to the
+vapour pressure exerted and it is important to
+establish the vapour pressure-temperature curve
+for this systems quantitatively. In addition
+water-MIC reaction leads to the generation of
+CO 2 , which will also contribute to the total
+pressure in the tank.
+The individual vapour pressure-temperature
+data for the MIC and chloroform reported in the
+
+where Pvp is in atm and T is OK.
+In order to estimate the vapour pressure of
+the mixture we invoke the assumption of ideal
+(mixture and write the total pressure as a summation of the constituent parts as
+
+(7)
+
+where P refers to the total pressure, (pv )1 and
+(Pvp )2 to vapour pressures of the MIC aEd chloroform, and Xl anrl x2 to the mole fractions of
+MIC and chloroform in liquid at temperature
+The gas phase mole fractions of the two
+components are obviously related to the corresponding liquid phase mole fractions as
+
+rroK.
+
+y
+
+p
+
+p
+
+These equations will be used for the estimation
+of the quantities of MIC and chloroform present
+in the vapour form.
+
+69
+
+

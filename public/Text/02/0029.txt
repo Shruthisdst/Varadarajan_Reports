@@ -1,0 +1,93 @@
+3. Carlo Erba - Fracto vap 2450 coupled with
+spectra
+
+physics - sp-4100 - computing integrator.
+G. C. conditions
+Column - FFAP 3% on chromosorb W-HP
+2 mm ID x 100 cms
+
+Detector - Flame Ionisation (Detector (FID)
+Carrier gas - IOLAR • 1 nitrogen 35 milmine
+
+Temperatures
+Column oven - 1900 C
+Injection port - 225°C
+
+100 ml beaker and repeatedly extracted with
+c6ntaining 2% of dimethylanune. The
+extraction was repeated 4 tunes with 15 ml.
+port.ions of the acetone containing dimethylanune. The dimethyl amine insures the dissolution of all the organic compounds excepting
+the tarry compounds in this sample. The
+extracts were made up to 100 ml. and the
+solution (0.4 pI) was injection into the Gas
+Chromatograph~ About 3 to 6% of tarry residue
+remained undissolved. Metal chlorides (0.8%)
+only could be identified in the insoluble residue. The results were calculated by the reporting
+integrator. The accuracy of the results were
+checked by injecting known samples into the
+GC.
+a~etone
+
+In case of analysis done using internal standard quantitation, concentration of internal
+standard was kept constant for standards as well
+as samples.
+
+Detector - 225°C
+The reliability and reproducibility of the
+methods were checked by analysing known
+Injection \ .>lume - 2 1
+standard samples. The
+results obtained by
+absolute calibration curve method 44 are tabulaTotal analysis time -15 min.
+ted in Table 2.9. Reliability test used for the
+Method employed for quantitative estimation - external standard method was the determination of standard deviation for each standard
+Internal standard.
+compound.
+Several compounds were tried as an internal
+standard, out of which dibutyl phthalate, was
+The values of reliability test using internal
+selected since its retention time was not inter- standard are recorded in Tables.
+fering with any other component of the sample
+matrix.
+All the values obtained from the different
+methods are within the acceptable range for
+G .C. analysis. In the case of DMI the percentage
+variation exceeds 5% and is due to a somewhat
+Standard solutions of all the compounds with skewed-peak. However, the analysis at lower
+equal amount of internal standard were prepar- concentrations and in internal standard are
+ed. r.oncentration of these standard solutions quite reliable; peaks are normal.
+had
+wide range. This was necessary for area
+mat 'f'lng as in the case of external standard.
+Determination of Amines by Gas ChromatoStandard solutions with internal standard
+
+Retention time data and order of elution
+
+Retention times and elution data for all the
+compounds on all the columns are given in
+Tables A-2.1 A-2.2 Copies of representative
+chromatograms are attached in Figs. A.1, A.2.
+Analysis procedure
+
+Determination of organic compounds by GLC:
+Sample preparation:
+
+About 3 gms. of the sample was weighed in a
+
+graphy
+
+Various columns were investigated for the separation and quantitative analysis of amines by
+Gas Chromatography, the column described
+rplow was developed and was found suitable for
+the quantitative estimation of amines.
+Instrument and Chromatographic Conditions
+
+Shimadzu Gas Chromatograph RIA coupled
+with the reporting integrator was used for all
+chromatographic estimations. The performance
+of the chromatograph was checked periodically
+by injecting standard mixtures.
+
+29
+
+

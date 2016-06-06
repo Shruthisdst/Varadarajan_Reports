@@ -1,0 +1,107 @@
+POSSIBLE REACTIONS OCCURRED IN THE ACCIDENT TANK
+
+~HR
+
+=
+
+- 59.11 kcal/gmole
+
+liliR
+&lR
+
+=
+
+-156.1 kcal/gmole
+
+=
+
+106.4 kcal/gmole
+
+1. CHaNCO + H 2 0
+2. CHaNH2 +MIO
+
+~
+
+DMU
+
+3. DMU
+
+~
+
+DMA+HCNO
+
+4. HCNO+MIC
+
+~
+
+DMI
+
+AHR =
+
+- 40.89 kcal/gmole
+
+5. DMA+MIC
+
+~
+
+TMU
+
+AHR =
+
+-156.47 kcal/gmole
+
+6. DMU+MIC
+
+-+
+
+Trimethyl Biurate
+
+AHR =
+
+- 183.10 kcal/gmole
+
+7. TMU
+
+-+
+
+TMA+ HNCO
+
+AHR =
+
+101.6 kcal/gmole
+
+8. aMIC
+
+-+
+
+MIC Trimer
+
+AHR =
+
+- 300 kcal/gmole
+
+9. DMU + CH2 Cl2 + MIC
+
+~
+
+Dione + 2HCl
+
+AHR =
+
+.1.07.1 kcal/gmole
+
+10. MIC + TMA + HCl
+
+82
+
+.... CHaNH2 + CO 2 ,
+
+-+
+
+TETR-MA - HNCO
+
+AHR =
+
+- 27.5 kcal/gmole
+
+

@@ -1,0 +1,41 @@
+ABSTRACT
+
+A major leakage of toxic gases took place on the night of 2/3 December, 1984 at the Union Carbide
+Factory in Bhopal from a buried stainless steel tank in which fortytwo tonnes of liquid methyl
+isocyanate (MIC) had been stored from October, 1984, resulting in loss of human life and injuries
+to thousands. Damages occurred to animals and plants. A further quantity of MIC in a second
+buried tank presented a serious hazard. Based on an appreciation of the chemical reactivity and
+properties of MIC, a number of measures were adopted to minimise the recurrence of another
+leakage and a contain the effects of such an eventuality. A risk management system was established
+and the material in the tank and in other containers was processed safely during 16th to 22nd
+December, 1984.
+MIC reacts with itself and polymerises readily with explosive violence, especially under the
+influence of trace amounts of metallic catalyst contaminants. Commercial MIC is stated to be stabilised by the presence of a few hundreds parts per million of phosgene. Water also reacts with MIC~
+generating heat in proportion to the quantity of water. Heats of reaction from polymerisation or
+with water raise temperature resulting in conversion of unreacted MIC into a vapour or gas. An
+examination of several samples of residues removed from different sections of the tank from which
+leakage occurred has established the presence of over twelve chemical entities. These include MICTrimer (MICT), methyl ureas (DMU, TMU), trimethyl biuret (TMB) dimethyl isocyanurate (DMI),
+a cyclic dione (DIONE), and mono, di and trimethyl amines (MMA, DMA, TMA), besides ~arge
+amounts of chloride and some amounts of sodium, iron, chromium and nickel salts. The relative
+proportions of all materials have been determined and the quantities present in the residue in tank
+610, assuming they total 12.5 tonnes.
+
+In order to determine the conditions of formation of the chemical entities found in the residue of tank 610, a large number of experiments on the transformation of MIC from tank 611 have
+been carried out in open and sealed containers at different temperatures. These include heating MIC
+alone or reacting it in presence of water, traces of ferric salts, and chloroform. The residues have
+been analysed in each case. It is shown that all products found in the residues of tank 610, with the
+exception of DMI, DIONE and methylated amines (MMA, DMA, TMA) are found when MIC is
+heated in stainless steel closed tubes to temperatures upto 2000 C with water and trace amount of
+ferric chloride. The formation of others require temperatures above 200 o C. DIONE is formed only
+when chloroform is present in the initial mixture. The composition of residue in these trials in
+closest to that found in the residue of tank 610, when the sealed tube reaction mixture has been
+heated to 220 0 C - 250 o C. It has also been shown that DMU and TMB which are products of reaction of MIC with water below 2000 C, can be transformed to MICT, DMI, DIONE and Methylated
+Amines in further reactions in which MIC, trace metal and chloroform are involved. From a study
+of these chemical transformations and quantities of products fround in the residue in tank 610,
+it is possible to arrive at a total materials balance. It is thus estimated that 12,087 kilograms of MIC
+and 595 kilograms of chloroform reacted with 512 kilograms of water to produce the residue containing 6,964 kg. of MICT, 2,675 kg. CMI, 391 kg. DIONE, 161 kg. DMU, 117 kg. TMB, 191 kg.
+TMU, 246 kg. DMA, 129 kg. MMA and 423 kg. TMA as well as 177 kg. of chloride. This represents
+
+37
+
+

@@ -1,0 +1,65 @@
+56
+In figures 2 and J we have shown the short term concentration with and without the use of a power law.
+The
+values obtained with the power law are lower.
+In Appendix J we have also presented values of the
+long term concentration with the help of a power law and
+wi thout po\ver law for a very stable atmoaphere to simulate th.
+worat meteorolollcAl oondition..
+Th • • ,~i.u. peak oonoentration i. 28.1~ 11m) at a di.tance of 2 k. from a .taok bei,bt
+of ~O m. This occurs with a power law for northwesterly wind.
+in January_ Without a power law the corre8ponding value i. 3rJ~
+If the stack
+
+h~jght
+
+is raised to 80 _, the maximwu peak
+
+15 rerluced to 10.3flg/m
+
+3
+
+concentr~tion
+
+f or nor th-vesterly winds in January.
+
+Tbe maxlmum concentration at 8 distance 40 km downstream
+is 1.}.,<.4 g/m 3. 'lor northwesterly winds in January without a power
+laue
+If we use a power law however, the maximum concentration
+40 km dO\fnwind is reduced to 0.6 Alg/.) lor a stack height ot
+40 m.
+For bigher s tack (SO m) this i8 reduced to 0.% A ,/m 3 .
+b
+
+AGRA WINDS
+
+The study is mainly based on the wind data 01 Delhi
+which is 140 km away from the site of the refinery",
+Ideally
+wind data of Yathura should be used for the purpose of these
+compu~ations.
+But, 8S sucb data were not. available, the Delhi
+data ~ere used. A lew comparative checks were made between
+Dt'lhi and Agra and wind data.
+Agra i8 nearer to Wathura than
+Delhi. TheBe checks suggest that-a large difference in the
+final results would not be caused by the uaa of Delhi winde.
+It must be emphasized, however, that the quality of
+the data for Agra was not 8S reliable a8 that of Del~i and the
+records were available for only one year.
+I~ order to beco ••
+more confident about the accuraoy of our aulphur-dioxide •• timates, an observatory haa been established at the site of Mathura Refinery and another . i l l be 8et up at Agra near the raj Wah.
+
+c.
+
+lrlADRAS WI NO DA TA
+
+As we had mentioned earlier, computations were made
+with the wind data of Madras.
+It Was lelt that these estimates of ooncentration could be checked, if necessary,
+against field observations.
+Thi. would provide a check on
+the reI iabili ty of 0 ur model.
+
+

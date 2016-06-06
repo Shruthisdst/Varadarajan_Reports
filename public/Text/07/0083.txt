@@ -1,0 +1,90 @@
+3.4
+
+Comments
+
+The residue contains iron, chromium and
+nickel, ahnost in the same ratio as in stainless steel 304/316. This could be due to corrosion of the material due to the hydrochloric
+acid produced as envisaged in the reactions
+mentioned earlier.
+Sodium is present in the residue to the
+extent of 50-90 ppm. The process water contains only 15 ppm sodium. If all the sodium
+in the residue is to be accounted from process
+water only, it had to enter the tank in enonnous
+quantity. Hence one has to look for other
+sources of sodium e.g. alkali solution in the
+VGS.
+The cause of the presence of 20-30 ppm
+calcium and of 2 ppm magnesium in the residue,
+is being investigated.
+The exploratory laboratory experiments
+carried out so far provide sufficient information
+to enable a logical and plausible scenario to be
+developed for the chemical reactions that
+occured in taDk 610.
+3.5
+
+Gaseous Products of Reaction of MIC
+
+In the above set of experiments on the chemical
+transformation of MIC under different conditions and the analysis of the residue, it was not
+possible to collect gaseous products and examine
+them. Facilities for such collection of. gaseous
+material are being established.
+
+detected.
+The behaviour of MIC prepared by a different route, namely from sodium azide and
+acetyl chloride has been studied. When heated
+in sealed glass tubes to 3000 e and the contents
+examined, the presence of hydrogen cyanide
+in small amounts has been noted. Under the
+same conditions, it has been found that MIC
+sample from tank 611 does not yield hydrogen
+cyanide. It was felt that the chlorofonn present
+in the samples from tank ~11 may have an
+influence on thermal degradation, Therefore,
+small amounts of chloroform were added to
+the chloroform free MIC made through sodium
+azide and acetyl chloride route and the material
+was heated. In this case, hydrogen cyanide
+could not be detected. It appears chloroform
+inhibits the break down of MIC prepared by the
+sodium azide-acetyl chloride route may act
+as activators for formation of hydrogen cyanide.
+For such studies on inhibitors and activators,
+highly purified MIC is required. It is found
+that highly purified MIC tends to polymerise
+very readily at room temperature. By suitable
+storage, it is proposed to keep highly purified
+MIC non polymerised and then examine the
+influence of minor additives to MIC on thermal
+decomposition at high temperature.
+
+lVlIeT, DMI, Dione, DMU and TMB are all
+products found in the residue in tank 610. It
+has been estimated by detailed calculation that
+about 500 kg. of water which had entered the
+tank, would have reacted with MIC before the
+temperature rose to 1500 C. At temperatures
+above 200 0 C, the five materials listed would be
+In preliminary experiments, MIC, water in the main products and the possibility of these
+and ferric chloride were placed in a stainless producing hydrogen cyanide at further higher
+steel tube as described under Annexure 3.1. temperature has been examined. Weighted
+The tube was closed with cap to which was amounts (100-150 mg) of each material in
+attached a pressure valve and a thin pipe. The sealed glass vials have been heated for half an
+valve was closed and the tube heated to 300 0 C hour at aoooc, the cooled vial placed under
+and maintained at the temperature for
+half an dilute alkali in standard flasks and the seal
+o
+hour. The tube was then cooled to -5C and the broken to release material. The solution made
+end of the pipe was placed in a known quantity upto 100 ml was analysed for cyanide by
+of dilute aqueous alkali. The valve was opened standard procedures. Only traces could be
+and the tube and contents were warmed up to detected in some cases. Thus, there seems to
+800 C,to volatilise gases and low boiling ma- be little or no formation of cyanide from
+terials. The gaseous products were thus trapped these five materials even in the absence of
+in the dilute aqueous alkali. The aqueous alkali chloroform. Further detailed work on behaviour
+was examined for the presence of cyanide by at higher temperatures and on influence of
+standard APHA methods. Cyanide was not other components.is planned.
+
+76
+
+

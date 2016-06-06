@@ -1,0 +1,82 @@
+At a pH less than 8 {winch is adjusted by development. Absorbance of developed colour
+NaH2P04) the eN- in the alkaline solution of was recorded at 578 nm within 15 min fronl
+alkali Inetal cyanide is converted to cyanogen- the time at which the pyridine barbituric acid
+chloride, (eNCl) by chloramine-To This (eNCI) reagent was added. A calibration CUl'Ve was
+reacts with Pyridine-Barbituric acid reagent slotted by using series of standard known conto produce a dye. The absorbance of this aque- centration cyanide solutions of suitable range
+ous solution is then measured at 578 nm.
+and the concentration of cyanide in test solution was found from the standard curves.
+Preparation of solutions
+lon-selective electrode
+(a) Chloramine '- T - 19 in 100 ml of water
+
+Solutions. Standard cyanide solution 0.5 gm of
+(b) Sodium dihydrogen phosphate- (1 m) 138 g of NaH2P04. H20 in one litre of
+
+water.
+(c) Sodium hydroxide
+(O.25N)
+10 g of NaOH in one lit of water.
+
+Dissolve
+
+(d) Pyridine-Barbituric acid reagent.
+
+sodiuIn cyanide was dissolved in O.IN Sodium
+hydroxide. Solution was standardised by titrating against standard silver nitrate potentiometrically. A cyanide ion selective electrode
+coupled with a reference electrode was used
+for the titration.
+
+Equipments. Digital high impedance mv meter,
+
+eN
+
+15g of Barbituric acid was taken into 250 ml
+volumetric flask and just enough water was
+added to wash sides of the flask and to wet the
+barbituric acid. To this 75 mlro! pyridine was
+added. To this 15 ml conc. HCI was added and
+allowed to cool to room~ t~Hllferature. It was
+then diluted upto the mark and was shaken
+well.
+
+Procedure
+A suitable volume of test solution was taken
+and diluted to 20 ml with 0.25N NaOH. This
+portion was. placed in a 50 ml volumetric flask.
+
+15 ml of phosphate buffer was added and
+mixed thoroughly. To this solution 2 ml chloramine-T solution was added and swirled to
+mix. To this 5 ml pyridine barbituric acid
+solution was added and again swirled to mix.
+It was diluted to the mark with water and
+mixed well. It was kept for 8 min. for colou'
+
+62
+
+electrode (anion) and a single junction reference electrode.
+
+Calibration cu rve
+Standard CN solutions were prepared by serial
+dilution of stock solution. Measurements were
+carried out by introducing eN electrode and
+reference electrode in respective solutions.
+mv readings were under stirred conditions.
+Readings for the standard solutions are given
+below.
+Cone. ppm
+468
+46.8
+4.68
+0.46
+
+mv Read
+
+260
+195
+195
+85
+
+Calibration curve was prepared by plotting
+eN cone. (100 axis) against mv readings.
+
+

@@ -1,0 +1,128 @@
+Detennination of amines
+
+Retention times of amines were as follows:
+
+Various columns were investigated for the
+separation and quantitative analysis of amines
+by GLe. The column described below was
+developed and was found to be suitable for
+the quantitative estimation of amines.
+
+Monomethylamine
+
+3.85 min
+
+Dimethylamine
+
+5.29 min
+
+Trimethylamine
+
+5.99 min
+
+Sample Preparation
+
+Reliability Test
+
+About 1 g of the sample was extracted with
+50 ml water and injected in the Gas Chromatograph. The percentages of amines were calculated directly.
+
+Compounds
+
+Wt. taken
+g/lOO ml
+
+MMA
+
+0.36
+0.72
+1.44
+
+0.36
+0.70
+1.52
+
+DMA
+
+0.46
+0.92
+1.84
+
+0.45
+0.94
+1.76
+
+TMA
+
+0.26
+0.52
+1.04
+
+0.25
+0.53
+1.12
+
+Standard Solutions
+Standard mixture, containing MMA, DMA
+and TMA were prepared from the corresponding standard solutions of amines. Standard
+solutions (0.5t1zl) were injected into the Gas
+Chromatograph. The ID Table was prepared
+and filed. The reliability of the method was
+checked by injecting known concentration
+of the amines in the Gas Chromatograph.
+
+Wt. found
+g/lOO ml.
+
+FIG A-I
+START
+
+08.21.11.02.
+r= 0")
+~' • • _1 ~
+
+IA
+
+~~=----"7
+-4
+._
+...
+
+~o
+
+.b.
+
+13
+
+2. 15
+
+5.3
+
+I
+
+13.66
+
+1 7 0.,
+I
+
+•
+
+_
+
+3(1. :36
+
+..) I:'
+I=-'. l::l:I~ b
+
+STOP
+
+'"',
+.!)
+
+M
+
+\
+
+69
+
+

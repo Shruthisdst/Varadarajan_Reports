@@ -1,0 +1,127 @@
+gen chloride from phosgene and estimation of
+the amount of hydrogen chloride by titration
+with alkali. A further modification involved
+addition of sodium iodide solution to MIC and
+estimation of iodine liberation by titration
+with sodium thiosulphate. The modified method
+was used only when abnormally high values
+for phosgene content were obtained.
+These procedures were examined by Dr.
+Varadarajan on the morning of 7th December,
+1984. He concluded that water could react
+readily with phosgene as well as methylcarbarnoyl chloride (MCC) present to give HCI.
+In the method involving alkali titration, the
+total of phosgene and MCC can be estimated.
+Similarly, in the second method also, while
+phosgene may liberate iodine quickly, the
+HCI formed from MCC would also produce
+hydrogen iodide and iodine by air oxidation.
+It would not be possible to estimate phosgene
+levels reliably by either procedure. This was
+experimentally verified in the Factory on the
+morning of 7th December, through estimations carried out by addition of specific
+amounts of HCI to MIC. In discussions with
+Factory Management, it was agreed that any
+water entering the material stored in MIC
+tanks, would react first with phosgene and
+MCC, and produce HCI. Reaction of water
+with MIC to produce Dimethyl Urea (DMU)
+or Tri-Methyl Biuret (TMB) is much slower
+than the reaction of water with phosgene or
+MCC The relevant reactions are listed below:
+COCI~ • H 0
+
+2
+
+CHJNHCOCI
+
+The earlier appreciation was that 1.5 to
+2.0 tonnes of water would have been required
+to account for the reactions, in tank 610. These
+fresh considerations on the role of water in
+destroying quickly phosgene present as inhibitor, led to a hypothesis whereby small
+amounts of water could lead to violent reactions. Since the tanks are buried and had material stored for a few years, without opportunities for cleaning or inspection, and since
+nitrogen and MIC were fed in, without analysis
+of quality of stored discreet batches, there may
+be possibilities for ingress of tiny amounts of
+metal or water, without being detected.
+These necessitated urgent attention for the
+safe disposal of the material in tank 611 and for
+avoiding any ingress of small amounts of water
+or metal particles such as iron rust into the tank
+611.
+The measures introduced included of the
+following:
+
+i.
+
+-,.,>
+
+....
+
+Ultimate safe disposal of MIC
+
+2HCI • CO2
+
+ty> • CHJNCO •
+•
+
+HC.
+
+CH)NH""'" CO • CO.
+CH NH /
+2
+I
+
+......-..~') CH]NH
+
+)rCO
+
+• cO 2
+
+CH) NeONH CH)
+
+From these, it appeared that relatively
+small amounts of water of the order of a few
+litres, entering 42 tonnes of MIC in tank 610,
+would allow all the phosgene and MCC present
+to react, giving HC!. Phosgene and MCC would
+be totally absent or reduced to low level below
+the minimum prescribed by Union Carbide to
+act as inhibitor of polymerisation. With a
+slight excess of water hydrochloric acid would
+be available and this may react with the material
+of the tank or with any small particle of metal
+which may have been present. This would
+produce ionisable metal chlorides. In the ab-
+
+50
+
+sence of the inhibitor, MIC could undergo
+polymerisation rapidly. Hydrochloric acid and
+metal chlorides may be expected to cataJ.yse a
+violent and explosive polymerisation. The
+heat produced at any point, in the absence
+of inhibitor would promote a chain reaction,
+leading to a very rapid increase in temperature,
+vaporisation, increase in pressure and leakage
+of gas.
+
+To dispose MIC, four alternatives were considered. The first involved dumping liquid lV1IC
+into large quantities of water in a contained
+area near the factory. Such a facility could
+not be located. The reaction with cold water
+may take time and loss of vapour MIC into
+the atmosphere may not be precluded and hence
+this method was not practical and safe. The
+second envisaged dilution of MIC with carbon
+tetrachloride to act as a heat sink and subsequent feeding of the MIC carbon tetrachloride
+mixture into aqueous alkali in VGS. Carbon
+tetrachloride would settle in the bottom and
+displace alkali solution causing alkali to overflow. This was not therefore proceeded with.
+The third proposal was to feed liquid MIt;
+into aqueous alkali in VGS. It was noted chloroform present in MIC would produce dichloro
+carbenes with highly obnoxious odour, the
+spread of which would create considerable
+
+

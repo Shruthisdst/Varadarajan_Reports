@@ -1,0 +1,39 @@
+APPENDIX II
+Energy Balance Calculations
+The total heat liberated can be calculated as
+
+LHn
+
+Q=
+where
+
+Rn = Amount (gmoles) of reactant n consumed/total amount reacted
+A Hn = Heat liberated/gmole
+
+Q=
+
+5466.497 x 10 3 kcal
+
+IDitial quantity of MIC = 40909 kg.
+Residue = 15200 kg.
+This implies that amount of MIC escaped = 29012 kg.
+Therefore we calculate heat liberated = Sensible heating + evaporation + heating of residue
+giving 5466.497 x 10 3 = 40909 x 0.5 x (Tp - 20) + 25709 x 123.88 + 15200 x 0.5 (T - Tp)
+leading to the conclusion that final temperature T = 1490 C
+Similarly the final temperature can be calculated for various vaporization temperatures.
+Vaporization temperature, T, °c
+
+40
+50
+
+60
+
+Final temperature, T, °c
+
+198.8
+-173.59
+156.67
+
+83
+
+

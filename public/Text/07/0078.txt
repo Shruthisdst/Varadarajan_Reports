@@ -1,0 +1,92 @@
+Instrument and chromatographic conditions
+Shimadzu Gas Chromatograph RIA coupled
+with the reporting integrator was used for
+all chromatographic estimations. The performance of the chromatograph was checked
+periodically by injecting standard mixtures.
+
+GLC conditions
+Column - 8% TEPA + 2% KOH on chromosorb 102 (SS column of 1/8" ID x 6
+feet)
+Detector - Flame Ionisation Detector(FID)
+Carrier gas - nitrogen (50 ml/min)
+Column oven temperature - 850 C
+Injection port temperature - 1500 C
+Detector temperature - 2250 C
+Total analysis time - 15 min
+Quantitation method - Absolute calibration
+curve method 44
+Determination of Chlorides by Potentiometric
+Titration
+Chloride content (CI-) was determined by
+titrating against standard silver nitrate solution potentiometrically. Residue samples from
+tank 610 as well as other samples were determined by this procedure. All the samples after
+diluting with water were made acidic with dilute
+nitric acid before titration.
+
+A magnetic stirrer was used for stirring the
+solutions during titrations. The end point of
+the titration was determined by plotting m V
+against volume of standard AgNOa added. The
+end point potential was set at + 300 mV.
+Procedure
+About 0.5 to 1 g of a sample was accurately
+weighed using a Sartorius Balance. The weighed
+sample was transferred into a 250 ml beaker
+and diluted to about 80 ml with distilled water.
+The solution was made acidic by adding 5 ml
+of 1:3 dilute nitric acid. The chloride ion
+selective electrode and the reference electrode
+(D/J reference electrode with sodium nitrate
+in the outer compartment) were introduced
+into the solution and kept on the magnetic
+stirrer. A Teflon coated magnetic needle was
+used as the stirring bar. The electrodes were
+connected to the automatic titrator. The end
+point of the titrator was set at + 300 m V.
+Before starting the titration, the solution was
+stirred well to ensure that all the chlorides
+are dissolved in the solution. The stirring was
+continued throughout the titration. The burette
+addition automatically stopped when the
+potential reached + 300 m V. The volume of
+silver nitrate solution added was noted down
+after the titration was over.
+The chloride content in the sample was
+calculated by using the equation:
+1 ml of O.1N AgN03
+
+= 8.55 mg cr
+
+Preparation of Standard Compounds
+Trimethyl Urea
+
+Reagents and Apparatus
+A R Grade reagents were used for all the
+
+work.
+1. 0.1 N silver nitrate was prepared by dissolving 85 g of silver nitrate in 5 litres of deionised-distilled water. The solution was
+standardised using sodium chloride-as
+standard.
+2. Mettler automatic titrator was used for
+all the titrations. ORION CHLORIDE
+ion selective electrode along with a double
+junction reference electrode was used as
+the indicator electrode system.
+
+NN - Dimethylamine in ether was treated with
+MIC in ether at 0-5 0 C. The product was isolat-
+
+ed after keeping the reaction mixture under
+stirring overnight. The reaction mixt,ure was
+filtered and washed with ether. A colourless
+crystalline product was obtained in quantitative yield.
+1,3,5 Trimethyl Biuret
+MIC and sym-dimethyl urea (dry) were heated
+
+at 100°C in s.s. bomb for 2 hr. The reaction
+mixture was felt at room temperature evernight.
+The following day the reactor was opened and
+the excess MIC was evaporated by keeping the
+71
+
+

@@ -1,0 +1,133 @@
+c
+c
+
+THIS IS
+
+r~ASE
+
+III
+
+c
+
+f\EAL Nt'He
+
+DIMENSION V(3/,F(3)
+
+,S\3},P(31~YG'3)
+
+cor1t lON
+
+X I) f B T f,HO , ['P , DH 1 ,DH':::, Vi-I:.., E 1 BF: , E: BF: , AP , RF ,
+
+COMMON
+
+Y1MIC.~LE~,·,RCO=1,~ALE~ ,TOTP,RTRIH,R~H~,CD
+
+CHAf\;:'CTER FN.,..13
+TYPE t.,' Fi 1 t= flaln~ to sto,-e tht- r
+
+8!.::>t.\J t..~:
+
+RFTR 1'1, VL)RCO:' f
+
+v.=tr. TRt1
+
+?'
+
+fiCCEPT 17.,FN
+FORM~T(A15)
+
+17
+
+TYPE
+
+*,
+
+r~CCEPT
+
+RDH3 ==
+RFTRlt'l
+
+I
+
+TU1T : ?
+
+I
+
+*, TLMT
+1 .. ::
+= 1 .. 0
+
+CD :::; 1.75
+RCMT1=500.
+H.:::.(j .. 005
+VARTRt-1= 1 • ~)!.jr.::05
+
+YiNIC
+
+= 2123~.
+
+AIt-IVOL :::.3100::.94
+
+AALEf.ii<",=11075m 69
+
+AIt.JP =10. 7::7
+
+c
+
+Op2G the fIle for storing
+OPEN (UtJI T=2, F I L"E=FN ,STtITUS== NEW' )
+Input para.rletet- values here. N is the no.
+N :::. 2
+N5 :.: 1
+I
+
+c
+
+of equations to be solved
+
+YO(1)=4.3~175EOS
+
+\'0 (2) =169.8378
+AP=-AINP
+
+E2BR = :20.0
+RHO :=1. ~
+CP = 0.5
+DH3 := 300.0*57 .. 0
+RO=1.87500
+TYPE *,'lnitlaJ gu€:.'ss values are:'
+
+TYPE *,'YO(l)::::',YO(l), 'YO(2)::::',YO(2) ,'TIME=',RO
+WRITE(:?,*) 'Initial guess values are: .
+"JRITE(2,*) ''10(1)=' ,YO(l), 'YO(2)=' ,YO(2), 'TINE::::' ,RO, 'Y1MIC
+1=' ,Y H·lIe
+WRITE(~,*}'VARTRIM=',VARTRM,'HUH~=',RDHl
+
+WRITE(2,*' 'RFTRIM=',RFTRIM, 'CD=',CD
+WRITE(2,*) 'XO,Y(1),Y(2),AP,TOTP,Y1MIC,AALEAK,AVOL,RCMT1'
+Y (1) = YO (1)
+Y(2) = YO(;;:')
+F(l) == Y(l}
+F(:!) == Y(2)
+GOTO 140
+Xu :.:: RO
+F ( 1) :::: EDN 1 (Y)
+F(2) = EON:::(¥)
+00 10 J = 1,N
+S(J)
+V(J)
+p(J)
+F(J)
+
+:25
+
+140
+
+'y(J)
+
+92
+
+3{J)+Oe~"*H-xF{J}
+
+

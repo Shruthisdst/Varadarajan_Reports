@@ -1,0 +1,51 @@
+5,'
+(i) The vertical diffusion coefficient (6e t ) coulti
+be changed by a factor of 4 by 20! error in 'a '. 'k' the
+coeffic1c.ntB used hy"1cF.lroy (loc .cit) to exprP-88 the dependence of
+6~
+on dOwt1lolind rl i st·"lnce.
+(1i)
+It the ratio 6~h e"{ceerts 1.0. then the error in
+coocentration e6tiMates, purely on accoqnt of errors in 6;L
+or h, would he small. On the other hand. for very 8i1l8.11
+values of thi8 ratio (~ O.5)~ a small error in 62 or h
+could create very large error in concentration values. An
+examination of typical values suggest that errors in 62 ,
+could generate an 8vera~e error of about 50~ in our eAtimates of Con:entration.
+(iil) If the wind profile is expressed by a power law,
+then (a) the e.t~tes of peak concentration, and (b) the
+concentration 40 Jon downwind would be reduced .pproximate1y
+Ii
+by a factor of 1/2. Som~
+doubt exists, however. on the
+appropriate value of the exponent to be ueed in the power
+law. A value of n - 0.5 t.nl8 used in the present study. The
+use of this wind profile ~ggest8 a maximum long term
+concentration of 28.~g/m in January at 2 km from the
+stack. At a rl istance 40 bn. do"'~wind, the maximUl"ll concentration is 0.44 in January for 8 80 m stack.
+(iv)
+Hare reliahle nines Anemor.raph data are needed at
+the site ot the refinery to improve our calculations which
+arp, ba8ed on Ilelhi wim o-haervatione •__ To overcome this, a
+meteorological observatory has been establisherl at the site
+of Mathur. Refinery and another will be located near Taj
+"fahal at Agra.
+(v)
+Long- term c~ncentr-at1onB of -sulphur d1oxl~.e froa the
+ref inery in Madra s have been compu ted and presented in
+Append 1x IV. They could he used to tea t the resu1 ts of
+this mathematical model.
+
+(vi)
+
+The present computations aA8U1"'e a single source.
+
+An assessment of the effect of multiple stacks will improve
+
+the results.
+(vii) To avoid acute injury to vegetation, tne risk of
+pulmonary diseases in human heings ani corrosion of building material. the permissihle 1ave1 of 81l1phur-ct ioxide
+wou1tJ he approximately, 11)t)0,A4.g/m3 for short term (1 hour)
+... nd 10-20 "'-s/m3 for long terJ1! (annUAl concentration).
+
+

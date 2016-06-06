@@ -1,0 +1,84 @@
+~
+
+ii :of DMI, DIONE and methylated amines (MMA, DMA, TMA) are found when
+C
+MIC is heated in stainless steel closed tubes to temperatures upto 200 G
+
+with water and trace amount of ferric chloride. The formation of others
+rquire temperatures above 200 G
+C. DIONE is formed only when chloroform
+is present in the initial mixture.
+
+The composition of residue in these trials
+
+in closest to that found in the residue of tank 610, when the sealed tube
+reaction mixture has been heated to 220°C - 250°C.
+
+It has also been shown
+
+that DMU and TMB which are products of reaction of MIC with water below
+20QGC, can be transformed to MICT, DMI, DIONE and Methylated A mines
+in further reactions in which MIC, trace metal and chloroform are involved.
+From a study of these chemical transformations and quantities of products
+found in the residue in tank 610, it is possible to arrive at a total materials
+balance.
+
+It is thus estimated that 12,087 kilograms of &tIC and 595 kilograms
+
+of chloroform reacted with 512 kilograms of water to produce the residue
+containing 6,964 kg. of MICT, 2,675 kg. DMI, 391 kg. DIONE, 161 kg. DMU,
+117 kg. TMB, 191 kg. TMU, 246 kg. DMA, 129 kg. MMA 'and 423 kg. TMA
+as well as 177 kg. of chloride.
+
+This represents in part the chloride and fully
+
+all other materials in the residue of tank 610.
+
+From the products found
+
+in the residue, the calculated amount of heats of. chemical reactions and
+the extent of bulging of the ex humed tank, it is surmised that the temperature
+in the tank rose above 250°C at the time of the accident. It has been observed,
+in preliminary laboratory experiments that pure MIC, made by a route- which
+does not involve phosgene or chloroform, when subjected to heatirg to 300 G
+C
+produces small amounts of hydrogen cyanide.
+hydrogen cyanide formation is not found.
+
+In the presence of chloroform,
+Further experiments at higher
+
+temperatures are planned.
+A detailed analysis of the features of design of the plant has
+been made together with the characteristics of MIC.
+
+with traces of metallic
+
+impurities~
+
+MIC, when contaminated
+
+which act as catalysts, undergoes a violent
+
+polymerisation, and the heat generated can volatilise a large proportion
+of MIC.
+
+The gas is highly toxic on inhalation.
+
+Use of iron, steel, aluminium,
+
+zin::, galvanised iron, tin, copper are prohibited from use in areas where
+MIC can come in contact.
+
+Commercially produced MIC contains phosgene
+
+which according to Union Carbide, acts as inhibitor of polymerisation.
+
+It
+
+is estimated that ingress of a few Htres of water would lead to the elimination
+of phosgene and hydrolysable chlorides and produce hydrochloric acid which
+
+in turn can produce metallic impurities by reaction with the tank.
+
+

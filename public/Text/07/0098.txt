@@ -1,0 +1,104 @@
+through the R VVH/PVH lines via the blow
+down DMV or through the SRV and RD.
+To account for say 60 ppm of sodium in
+the residue, quantity equivalent to 25 litres
+(about 6.6 gal) of 5% sodium hydroxide
+would have been sufficient. Such an eventuality would have required that the blow
+down DMV was malfunctioning or the SRV
+was not tightly shut and rupture disc had
+been damaged.
+The absence of practically any nitrogen
+pressure on tank 610 for over a month and
+the observation that MIC was leaking out
+of a branch of R VVH on the downstream
+side of Regeneration Gas Cooler Pressure
+Safety Valve at 23.30 hours on the night
+of 2 December, 1984 indicated the possibility of malfunctioning of blowdown DMV.
+
+.
+
+Opportunities for intrusion of water, alkali
+and metal contaminants into tank 610
+thus existed from 22nd October, 1984
+and into tank 611 as well during 30th
+November to 1st December, 1984, when
+there was negligible positive nitrogen pressure in these tanks.
+Trimerisation of MIC to solid material in
+small quantities and consequent choking
+of lines leading to tank was a frequent
+occurence and seems to have been well
+accepted by the plant operating staff.
+Similarly, cleaning and purging with water
+of lines associated with the storage tanks
+was also ~cepted as a routine procedure.
+The hazards presented by ingress of water
+or other contaminants which could cause
+trimerisation and lead to choking was not
+appreciated and the tank 610 was allowed
+to say without positive nitrogen pressure
+from 22nd October to 2nd December, 1984.
+The UCC brochure on MIC makes reference
+to the reaction of water to produce DMU
+and TMB. The heat generated would be
+related to the quantity of water. The brochure also mentions metallic contaminants
+could lead to violent reactions of MIC which
+has the unique combination of properties
+of explosive reactivity, ready volatility
+and high inhalation toxicity. It seems possble that small amounts of water in presence
+of trace amounts of metallic contaminants
+could set off explosive reactions and leakage
+not containable in the inadequate VGS
+system.
+
+-
+
+It was entirely unnecessary to provide
+facilities for storage of such large amount
+of MIC in tanks. The quantities stored were
+quite disproportionate to the capacity of
+further conversion of MIC in downstream
+unit. This permitted MIC to be stored for
+months together without appreciation of
+potential hazards.
+The events on 2nd/ard December, 1984
+arose primarily from these facilities and
+accepted practices.
+The rapid rise in temperature and violent
+reactions that occured necessitate the
+onset of metal ion catalysed polymerisation.
+The presence of chloroform has no influence
+whatsoever in initiating or- accelerating
+the run-away reactions. The chloroform
+present was involved in chemical transformations when the temperature had risen
+above 200 0 C at which stage all the water
+would have already been consumed by
+reactions.
+The quantum of toxic leakage by violent
+chemical reaction is not related to the
+amount of metal and water which initiate
+the reactions but to the quantity of MIC
+stored in a single container. If 42 tonnes of
+MIC had been stored in 210 stainless steel
+drums of 200 litre capacity each, as alternative to a single tank, there would be no
+possibility of leakage of more than one
+fifth of a tonne and effects of even such
+a leakage could be minimised by spray of
+watet or alkali.
+It has been reported that a large number
+leakages of MIC in comparatively small
+quantities have occured from storage vessels and tanks in Union Carbide. The
+causes for such leakages have not been made
+known. While Union Carbide product
+brochure refers to chemical properties
+and reactivity of MIC, including possibilities of violent reaction as well as of possibilities of spillages from drums and tanks
+during transport, no information is. provided
+on the extraordinarily lethal toXIC effects
+of inhalation. Public preparedness for
+eventualities arising out of leakage would
+have been substantially greater if information on these had been generally available.
+For instance, substantial care is exerc~sed
+in the storage and transport of explOSIves
+
+91
+
+

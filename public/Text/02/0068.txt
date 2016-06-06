@@ -1,0 +1,136 @@
+23 Calculation of leakage rates
+The information available on the leakage
+capacity of the safety valve is somewhat ~ncer­
+tain. The available data documents (3) estlmate
+the leakage rate MIC from the tank at 40 psig to
+be around 10 000 pounds/hr. Even here, the
+estimate is ba~ed on the assumption of single
+phase flow and complications due to the twophase nature of the system are ignored .. In the
+present analysis we have accept~ the basiC leakage rate as estimated for the single phase fl~w
+and modified it to take into account the vanations in the pressure and temperature in the
+tank. It is of interest to note that both these
+parameters are changing with time, the leakage
+term is also therefore a variable and is duly
+accounted for in the model. As far as the varia-
+
+A
+
+=
+
+dp
+
+V
+G
+
+T m
+
+S
+
+)'.
+
+tions of flow rate through the vent valve is
+concerned, we assume that it increases as squareroot of pressure in the tank. The effect of temperature is little more involved, in that the temperature affects the Reynolds number of the escaping tluid due to the variation of densities and
+viscosities and the Reynolds number in tum
+affects the coefficients of discharge. The leakage
+term is therefore appended properly to take care
+of such variations and the coefficient of discharge is evaluated from the generalised Cd-R
+e
+relationship (4).
+In an alternative method, one can rely on
+the recent experimental investigations of twophase flow in connection with vent sizing exercises (5). The analysis of experiments leads to
+the following empirical correlation, which can
+be used for calculating the discharge rates:
+
+mq
+0
+
++
+
+Jl.
+
+~
+
+t
+
+(8)
+
+mks un; ts
+
+(C p l.\. T
+
+dt
+
+0
+
+where A is the vent area m is the total charge
+'0
+d I .
+in the vessel (approximately 40 tons, e~ etmg
+with time) V is the vessel volume (approxunately 60,000 iitres), G is the m3SS flux ~~uantity to
+be estimated), C is the liquid speCIfIC heat, ~s
+p
+the temperature at which the valve opens (estImated to be approximately 72°C as seen from
+the results derived of model at the end of phase
+I) T is the maximum temperature reached in
+, m
+f
+.
+the system at time t, dp/dt is the rate 0 ~anation of pressure with temperature and q IS t?e
+average heat generation rate. As would be notICed, except for the vent area and volum~ of the
+vessel, other parameters in this equation are
+time dependent. The mass flux is also therefore
+time dependent.
+The literature data on two-phase systemh
+also indicate that the two-phase critical flow rate
+G can be accurately estimated using the relation
+
+G
+
+70
+
+=
+
+(9)
+
+while the average heat generation rate q obeys
+the relation
+==
+
+1
+
+-C
+2
+
+P
+
+dt
+
+dT
+
+-+dt
+
+s
+
+(10)
+
+dt m
+
+where the quantities in square bracket refer to
+the self heat rates of the set temperature and
+maximum temperature in the system. The
+advantage of relations given by equations (8) to
+(10) is obvious in that one does not require any
+explicit information regarding the kinetics of the
+system. In the present calculations both the
+alternatives have been employed and they seem
+to yield results which agree with each other
+reasonably well.
+
+5.3 A MODEL FORMULATION
+3.1 Overall balance
+
+The accident tank was nearly two thirds filled
+with MIC. It is estimated that it contained about
+8% chloroform. The weights of the individual
+
+

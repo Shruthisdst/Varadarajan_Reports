@@ -1,0 +1,61 @@
+accumulator, 3600 mm (12 feet) diameter and 6900 mm (23 feet) height.
+The capacity of the accumulator is about 80m 3 (21000 gal). The matenal
+of construction of VG S is carbon steel.
+Gases from RVVH, PVH, MMA Vaporiser SRV and chlorine evaporator SRV are routed to VG S.
+
+The gases get srcubbed in VG S by a counter
+
+current flow of the caustic solution through the packed-bed in the upper
+section of VG S.
+The accumulator is filled with 10% caustic solution which is
+circulated through a cycle cooler to the inlet of the VG S by means of a
+circulation pump of about 4500 Ipm, (1200 gpm) capacity.
+
+The strength of
+
+the caustic solution is maintained at 9 to 10% in the accumulator by pumping
+in fresh caustic solution of 2096 strength and process water.
+The 2096 caustic solution make up capacity is around 95 lpm
+(25 gpm).
+
+The gases entering the scrubber, after being scrubbed with the
+
+1096 caustic solution, are either released to the atmosphere through a stack
+at a height of approximately 30.5 meters (l00 feet) from the ground or
+routed to the flare through a knock-out pot.
+
+The gases coming through
+
+the RVVH and PVH can also be diverted to the fJare directly without passing
+through VG S.
+It is intended that off-specificatlon liquid MIC from MIC storage
+tanks can be disposed off by neutrahsation
+
+10
+
+the VG S accumulator at a
+
+controlled rate.
+
+1.1 A
+
+Flare tower :
+
+A flare tower has been instaHed primarily to burn vent gases
+from the carbon monoxide unit and the MMA vapouriser safety valve discharge.
+
+The flare also burns normal vent gases from the MIC storage tanks,
+
+MRS and VG S.
+
+Vents from the MIC storage tanks can either be routed to
+
+VGS or directly to the flare.
+
+However, the flare tower is not expected
+
+to handle large release of MIC vapours directly.
+
+10
+
+

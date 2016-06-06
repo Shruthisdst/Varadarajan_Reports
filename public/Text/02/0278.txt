@@ -1,0 +1,243 @@
+TABLE-3 (a)
+ANOV A ta hIe of Jattefttion/respoDse speed
+Simple Reaction Time (Sound)
+
+Simple Reaction Time (light)
+
+----r------~----------~~~~
+
+D.F~
+
+Sources of variation
+Between group
+
+M.S.
+
+2
+424
+
+Within group
+
+0.0400
+
+F
+
+M.S.
+
+F
+
+2
+
+0.0397
+
+7.065***
+
+424
+
+0.0096
+
+4.166*
+
+D.F.
+
+0.0056
+
+TABLE-3 (b)
+Table of mean and test of significaDce of different comparisons
+
+t-:)
+
+co
+
+0
+
+so
+
+Size
+(n)
+
+Mean
+
+Control
+
+70
+
+0.27
+
+0'05
+
+Control vs Exposed
+
+0.035
+
+0.0128
+
+Exposed
+
+357
+
+0.31
+
+0.11
+
+Control vs Male
+
+0.030
+
+0.0137
+
+2.190
+
+••
+•
+
+Male
+
+190
+
+0.30
+
+0.10
+
+Control vs Female
+
+0.040
+
+0.0139
+
+2.878
+
+*.
+
+Female
+
+167
+
+0.31
+
+0.11
+
+Male vs Female
+
+Control
+
+70
+
+0.18
+
+0.04
+
+Control vs Exposed
+
+0.035
+
+0.0098
+
+3.571
+
+***
+
+Exposed
+
+357
+
+0.22
+
+0.08
+
+Control vs Male
+
+0.030
+
+0.0105
+
+2.857
+
+**
+
+Male
+
+190
+
+0.21
+
+0.08
+
+Control vs Female
+
+0.040
+
+0.0107
+
+3.738
+
+***
+
+Female
+
+167
+
+0.22
+
+0.08
+
+Male vs Female
+
+0.010
+
+0.0079
+
+1.266
+
+(NS)
+
+Group
+
+Character
+
+Simple
+reaction
+time (SRT)
+(light)
+
+Simple
+reaction
+time (SRT)
+(sound)
+
+•
+
+*.
+•••
+
+Significant at p<0.05
+Significant at p<0.01
+Significant at p <0.001
+
+NS=·Not ,signif.ca nt
+
+Comparisons
+
+Diff. of
+mean
+
+0.010
+
+SE
+
+(D)
+
+0.0104
+
+t
+
+Level of
+Significance
+
+2.734
+
+0.962
+
+(NS)
+
+

@@ -11,13 +11,12 @@ class searchModel extends Model {
 
 		$textArray = array();
 		$textQuery = '';
-	
+
 		$filter = '';
 		$words = array();
 
 		if(isset($data['fulltext'])) {
-
-			$filter = 'id IN (SELECT id FROM fulltextsearch WHERE MATCH (text) AGAINST (? IN BOOLEAN MODE))';
+			$filter = 'MATCH (text) AGAINST (? IN BOOLEAN MODE)';
 			array_push($words, $data['fulltext']);
 			unset($data['fulltext']);
 		}
@@ -27,19 +26,45 @@ class searchModel extends Model {
 		if($filter != '') array_unshift($data['filter'], $filter);
 		$data['words'] = array_merge($words, $data['words']);
 
-
 		$sqlFilter = (count($data['filter'] > 1)) ? implode(' and ', $data['filter']) : array_values($data['filter']);
-		$sqlStatement = 'SELECT * FROM ' . METADATA_TABLE . ' WHERE ' . $textQuery . $sqlFilter . $orderBy;
+		$sqlStatement = 'SELECT bcode, btitle, page FROM ' . FULLTEXT_TABLE . ' WHERE ' . $textQuery . $sqlFilter . $orderBy;
 
 		$data['query'] = $sqlStatement;
 		$data['words'] = array_merge($textArray, $data['words']);
 
 		return $data;
 	}
+	//~ public function displayPages($data, $orderBy = '') {
+//~ 
+		//~ $textArray = array();
+		//~ $textQuery = '';
+//~ 
+		//~ $filter = '';
+		//~ $words = array();
+//~ 
+		//~ if(isset($data['fulltext'])) {
+			//~ $filter = 'MATCH (text) AGAINST (? IN BOOLEAN MODE)';
+			//~ array_push($words, $data['fulltext']);
+			//~ unset($data['fulltext']);
+		//~ }
+//~ 
+		//~ $data = $this->regexFilter($data);
+//~ 
+		//~ if($filter != '') array_unshift($data['filter'], $filter);
+		//~ $data['words'] = array_merge($words, $data['words']);
+//~ 
+		//~ $sqlFilter = (count($data['filter'] > 1)) ? implode(' and ', $data['filter']) : array_values($data['filter']);
+		//~ $sqlStatement = 'SELECT bcode, page FROM ' . FULLTEXT_TABLE . ' WHERE ' . $textQuery . $sqlFilter . $orderBy;
+//~ 
+		//~ $data['query'] = $sqlStatement;
+		//~ $data['words'] = array_merge($textArray, $data['words']);
+//~ 
+		//~ return $data;
+	//~ }
 
-	public function executeQuery($data, $journal = DEFAULT_JOURNAL) {
+	public function executeQuery($data) {
 
-		$dbh = $this->db->connect($journal);
+		$dbh = $this->db->connect(DEFAULT_JOURNAL);
 
 		$sth = $dbh->prepare($data['query']);
 		$sth->execute($data['words']);

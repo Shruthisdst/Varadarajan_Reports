@@ -1,0 +1,42 @@
+-15-
+
+2.3.8
+
+A maintenance information centre at each power station is
+being set up. it has a record of past maintenance for each
+piece of equipment. Once sufficient information on maintenance is accumulated and analysed, it would result in better predictability of need for maintenance and for spare
+parts. So far the information centres have been working for
+only a few months and hence the Committee was unable to
+assess its functioning.
+
+2.3.9
+
+Maintenance costing is done on the basis of past experience.
+The scheduled maintenance work is costed on the basis of
+estimated cost of spare parts. The maintenance staff are
+usually part of the regular staff and mayor may not be
+costed separately. The estimates for cost of unscheduled
+outages are based on past experience.
+
+2.3.10 The Plant layouts do not always facilitate maintenance.
+For instance, the layout of oil piping at Gandhinagar and
+of H.P. heater, BF pumps, CE pumps, economiser and superheater at Ukai have made maintenance difficult. The Committee
+suggests that these aspects are kept in mind when new power
+station layouts are designed.
+2.4.0
+
+Review of implementation of earlier committee recommendations.
+
+2.4.1
+
+Several committees have examined the problems of maintenance of thermal sets, in particular the Kulkarni Committee
+Report (1975), the VGB Committee Report (1977) and Rajadhyaksha Committee Report (1980)
+
+~
+
+In addition to its own
+
+independent evaluation, this committee also reviewed the
+progress made by GEE in the implementation of these earlier recommendations. The findings were as follows:
+
+

@@ -1,0 +1,74 @@
+ANNEXURE 2.1
+
+Gas liquid chromatography (G LC)
+
+The first ten compounds of the tank residue listed under 2.2 •.5
+were estimated by G LC.
+
+Various columns were investigated for separation
+
+and quantitative estimation. The following three columns were found suitable
+for the separation of first seven compounds and their quantitative estimation.
+The procedure used fOr determination of amines is described separately.
+
+1.
+
+FFAP - J - 1096
+
+2.
+
+OV-210 + OV-17 - 3-596
+
+3.
+
+Carbowax 20 M TPA - .5-796
+
+Variation in the load of the phase helps in eluting all the components in shorter time.
+Determination of MICT, OMI, Dione and Ureas
+Sample preparation:
+About 3g of the sample was weighed in a 100 ml beaker and'
+repeatedly extracted with acetonecontaining 296 dimethylamine. The extraction
+was repeated four times with 15 ml portions of the acetone containing
+dimethylamine.
+
+Dimethylamine ensures the dissolution of aU the organic
+
+compounds excepting the tarry compounds in the sample.
+were made up to 100 ml and the solution (0.4
+GLC.
+
+The extracts
+
+pO was injected into the
+
+About 3 to 696 of tarry residue remained undissolved. Only metal
+
+chlorides (0.896) could be identified in the insoluble residue.
+were calculated by the reporting integrator.
+
+The results
+
+The accuracy of the results
+
+was checked by injecting known samples into the G LC.
+In the case of analysis done using internal standard quantitation,
+concentration of internal standard was kept constant for standards as welt
+as samples.
+The reliability and reproducibility of the methods were checked
+by analysing known standard samples.
+
+The results obtained by absolute
+
+calibration curve method are tabulated in Table 2.9.
+
+Reliability test used
+
+for the external standard methods was the determination of standard deviation
+for each standard compound.
+
+The results of reliability tests using internal
+
+standard are recorded in the Tabies A-2.3, A-2.4 and A-2.5.
+43
+
+

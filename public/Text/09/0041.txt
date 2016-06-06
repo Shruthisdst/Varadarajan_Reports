@@ -1,0 +1,88 @@
+Suspended Particulate Matter ug/ro3
+
+502 & N02 ag/m3
+
+180
+
+600:
+
+i
+
+I
+
+I
+
+70
+
+!
+
+500 !
+,
+I
+
+400 -
+
+60
+-
+
+50
+
+I
+
+300 ~
+
+40
+30
+
+200 -
+
+20
+100 -
+
+,
+
+o
+
+78
+
+J10
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+90
+
+Year
+
+--- SPM
+CPCB Standards: 140 ug/m3
+
+--t-a- 502
+~ N02
+60 ug/m3
+60 ug/m3
+
+Air Quality Trends: Delhi
+
+91
+
+92
+
+0
+93
+
+

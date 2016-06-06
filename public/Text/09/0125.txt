@@ -1,0 +1,78 @@
+Subject
+
+Air Pollution StudieD to redefine
+tho bounda.ries o~ l.he ~laj Trapezium:
+NH.l!;Ur Hopo_£.' t. 0.£ July 1~9:J.
+
+The report cited above seeks to revise tho boundaries of
+the Taj Trapezium from the earlier one drawn up by an Expert Group
+in -j979. The new boundaries are baaed o,n model projections of
+the scenario that mieht develop in £uture. Tho report. considers
+only the pollutIon released by the industrial complexes at
+Agra, Mathura and Bharatpur. In this context, the following
+comments and suSgcDtlons arc ojtpr~rt lor consideration.
+2.
+
+Model deficiencies and uncertainties.
+The projectiono are based on a Gaussian plume mode]. Computer
+programmes i'or this purpose have been imported i'rom abroad.
+The models a.ssume the following genera.l expressIon for the
+spread of pollution from a sonrce of strength Q ( g/sec )
+
+C (x, !I, a):;;.
+
+(%;'~ IJ20 U) ~p
+
+t 6J -';I°fJzrr."
+
+2. -
+
+(i!;~c..>h"i:-J
+
+(I)
+
+where x o ' Yo are the location coordinates o£ the source, C Is
+the concentration a.nd 0;, at are the ,standard deviatIons in
+the horizontal a.nd ver-t;ica~ directions. Modii'ications are introduced
+to the above seneral expreosion for di££erent source configurations,
+that is, for a continuous point, line or area.
+The report does not specify the exact expression that was
+used for different sources but it is r~leV&lt to point out
+the uncertainties tha-t are inherent in the Gaussian plume model.
+The ma.in assumptions of the model are: (i) the ma.ss or the
+ef.fluent is constant. This can be seen by integra-ting (1).
+(ii) the spread or diffusion in orthogonal direc~ions is aosumed
+to be independent of each other and (lii) the ntandoxd deviatIons
+depend on on a. number of meteoroloelcal facLorD~along with
+travel time and -(;he nature of Lhe terraIn. In vIew or thODO
+assumptions, it is suggested that snnsitivity tests be conducted
+to determine the ranee of model uncertainties.
+To illustrate -this let us consider Lhe .rollowin~ example.
+The slilort -term lateral spread is o.ften ~i ven by an empirical
+expression of the £orm
+
+V; -
+
+oe
+
+O· 01":]
+
+0&
+
+ex)
+
+o 'S-:f
+
+(
+
+:2-)
+
+where
+is the s liandard devia-tion of the azimuthal wind. If an
+error of 20% , say, is made in determining the standard deviation
+2then because equation ("I) contains a term ~ the overall error
+in compu-ting the concentration (G) wIll be cOlwiderably more.
+Sensitivity tento of this naLure will Improve our confidence in
+the model outputs cited in the NNERI r~por·t.
+
+

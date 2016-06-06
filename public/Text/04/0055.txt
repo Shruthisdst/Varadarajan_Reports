@@ -1,0 +1,71 @@
+45
+
+to relate the concentration for two different sampling periods.
+Thus, in ( 3.2 ) Xs is the desired estimate for a period ts
+while 'X.k
+is the estl.mate for the shorter sampll.ng period tk
+Considering
+
+p
+
+~
+
+0.17
+
+We find
+
+where the Buffixes denote 1, J and 2~ hour concentrations.
+The mul ti plicative factors are thus in good agreement wi th
+Ule empirical values ueed in our computations.
+For seasonal or annual average concentra ti on~. ( 3. 1 )
+is averaged over 8 circular region. When this is done. the
+cross wind components are eliminated (Pasquill, 1962). Th~
+average concentration is then expressed by
+
+From hourly obt!ervations of wind speed and direction,
+(3.3)
+the wiud record was divided into 6 number of categories.
+In
+( 3.3 ) the Buffixes i aud j refer to wiud speed and change in
+wind direc·li Oil, while k refers to the mean wind direction nndN
+is the total number of wind fiirection categories. 'The relative
+frequency of the i tb \find speed}
+i tb di FQQti9R j th direction
+change and k tb mean .direction 1s represented by f(u· s. ell)
+I'
+
+J'
+
+"
+
+The categorisation of 1 hour cbanges in wind direct jon
+is a measure of the turbulent structure of the atmos·pbere.
+The three classes th<:?!t were used are
+
+(i)
+
+> 45 o
+
+/l6
+o
+
+(1i)
+
+(iii)
+
+e
+
+22-5 ~ tl6 ~45
+11 0
+
+<
+
+o
+
+22_5°
+
+where A
+is the change in wind direction between the current
+observation and the previous bour.
+
+

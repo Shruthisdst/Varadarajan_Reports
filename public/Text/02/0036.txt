@@ -1,0 +1,191 @@
+2
+
+1
+
+3
+
+4
+
+15.
+
+Core sample MIC Tank E-610 Safety Valve
+nozzle middle
+
+1-2
+
+13.2.85
+
+16.
+
+Core sample MIC Tank E-610 Safety Valve
+nozzle top
+
+1-3
+
+13.2.85
+
+17.
+
+Sample from Dip tube bottom piece tank-610
+
+F·1
+
+13.2.85
+
+18.
+
+Sample from dip tube bottom piece tank-610
+
+F-2
+
+13.2.85
+
+19.
+
+Sample from dip tube bottom piece tank·610
+
+F-3
+
+13.2.85
+
+20.
+
+Sample from dip tube bottom piece tank·610
+
+F-4
+
+13.2.85
+
+2l.
+
+Sample from level indicator Dip Tube
+outside MIC Tank 610
+
+13.2.85
+
+22.
+
+Solids from R/DS/S and DIS Spool
+
+19.12.84
+
+5.20pm
+
+23.
+
+Solids from E·610 RID U/S spool piece
+
+3
+
+19.12.84
+
+5.50pm
+
+24.
+
+Solid from RID U/S iso valve DIS side
+
+4
+
+19.12.84
+
+5.50pm
+
+25.
+
+Solid from R/D, D/S Spool piece
+
+5
+
+19.12.84
+
+5.40pm
+
+26.
+
+RID Dis Spool piece and flange side solids
+E·610 tank
+
+7
+
+19.12.84
+
+6.30pm
+
+Sample from RVVH dead end bleeder
+towards 200TR Shed (20 ml)
+
+11
+
+13.2.85
+
+4.00pm
+
+Sample of liquid from PSV downstream
+bleeder of dryer
+
+9
+
+13.2.85
+
+6.00pm
+
+Side stream cooler PSV DIS Bleeder sample
+2 pc.
+
+13.2.85
+
+6.00pm
+
+Sample from RVVH drain bleeder on
+Desuperheat on 2nd level
+
+13.2.85
+
+6.00pm
+
+27.
+
+28.
+29.
+30.
+3l.
+
+Top core section MIC tank E-610
+
+32.
+
+Mid core section MIC tank E-610
+
+33.
+
+Bottom core section MIC tank E-610
+
+34.
+
+Solid from E-610 Thermowell
+
+20.12.84
+
+3.00pm
+
+35.
+
+Liquid Sample collected from MIC Tank
+610 PSV DIS Valve DIS line RVVH
+
+13.3.85
+
+10.25
+
+R VVH Bleeder above decanter after
+opening RGe PSV DIS valve
+
+14.2.85
+
+16.30hrs
+
+.a7.
+36
+
+

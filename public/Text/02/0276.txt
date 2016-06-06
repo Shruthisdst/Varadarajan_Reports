@@ -1,0 +1,254 @@
+TABLE I (a)
+
+Allalysiag variance (ANOV A)
+Sources of variation
+
+Immediate Memory (Auditory)
+D.F.
+
+Within group
+
+2
+
+15.045
+
+453
+
+Between group
+
+M.S.
+
+Immediate
+
+3.265
+
+F
+
+O.F.
+
+4.61·
+
+2
+
+368
+
+M~mory
+
+(Visual)
+
+M.S.
+
+F
+
+Delayed
+10 sec.
+D.F.
+
+Memory for
+(Visual)
+M.S.
+F
+
+2
+
+3.98
+
+117.785
+
+362
+
+176.80 44.42*·*
+
+25.02···
+
+4.71
+
+TABLE I (b)
+Mean memory scores -and test of significance of different comparisons
+Characters
+
+lAM
+t>,j
+...,J
+
+eo
+
+IVM
+
+DVM
+
+Groups
+
+Sample Mean
+size (n)
+
+S.D.
+
+Comparisons
+
+Diff. of
+means
+
+S.E.D.
+
+t
+
+Level of
+sign!ficance
+
+Control
+Exposed
+Male
+Female
+
+100
+356
+190
+166
+
+8.96
+8.52
+8.71
+8.30
+
+1.75
+1.83
+1.78
+1.87
+
+Control vs Exposed
+Control vs Male
+Control vs Female
+Male vs Female (Exposed)
+
+0.44
+0.25
+0.66
+0.41
+
+0.2044
+0.2232
+0.2287
+0.1920
+
+2.153
+1.120
+2.886
+2.135
+
+•
+
+Control
+Exposed
+Male
+Female
+
+100
+271
+159
+112
+
+6.92
+4.79
+4.55
+5.13
+
+1.35
+2.20
+2.20
+2.16
+
+Control
+Control
+Control
+Male vs
+
+vs Exposed
+vs Male
+vs Female
+Female
+
+2.13
+2.37
+1.79
+0.58
+
+0.2335
+0.2546
+0.2745
+0.2461
+
+9.122
+9.309
+6.521
+2.357
+
+* ••
+***
+***
+
+Control
+Exposed
+Male
+Pemale
+
+100
+265
+156
+109
+
+5.35
+3.55
+3.51
+3.61
+
+1.93
+2.25
+2.29
+2.20
+
+Control vs Exposed
+Control vs Male
+Control vs Femala
+Male vs Female
+
+1.80
+1.84
+1.74
+0.10
+
+0.2547
+
+7.067
+6.619
+5.790
+0.369
+
+•• *
+
+lAM = Immediate auditory memory
+IVM = Immediate visual memory
+OVM=Delayed visual memory for 10 seconds
+N. S. - Not Significant
+D. F. = Degrees of Freedom
+M. S. = Mean Square
+
+0.2780
+0.3005
+0.2709
+·p<O.05
+··p<O.01
+···p<O.001
+
+NS
+
+••
+,..
+
+lie
+
+***
+***
+NS
+
+
