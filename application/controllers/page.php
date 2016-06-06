@@ -13,9 +13,17 @@ class page extends Controller {
 	}
 
 	public function flat() {
-
-		$path = 'flat/' . implode('/', func_get_args());
-		$this->view($path);
+		$data = func_get_args();
+		
+		if($data[0] == "Home")
+		{
+			$this->redirect('listing/books/01');
+		}
+		else
+		{
+			$path = 'flat/' . implode('/', $data);
+			$this->view($path);
+		}
 	}
 }
 
