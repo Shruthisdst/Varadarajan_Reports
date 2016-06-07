@@ -117,7 +117,7 @@ class viewHelper extends View {
 
     public function displayTitle($bcode, $title, $page)
     {
-		$path = VOL_URL . $bcode . '.pdf' . '#page=' . $page;
+		$path = VOL_URL . $bcode . '.pdf' . '#page=' . $this->displayNumber($page);
 		$path = '<a href="'.$path.'" target="_blank">'.$title.'</a>';
 		return $path;
 	}
