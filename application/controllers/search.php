@@ -35,7 +35,7 @@ class search extends Controller {
 			$data = $this->model->preProcessPOST($data);
 			$data = $this->model->searchPatches($data);
 			
-			$query = $this->model->formQuery($data, ' ORDER BY bcode, page DESC');
+			$query = $this->model->formQuery($data, ' ORDER BY bcode, page ASC');
 
 			$result = $this->model->executeQuery($query);
 			($result) ? $this->view('search/result', $result) : $this->view('error/noResults', 'search/index/');
