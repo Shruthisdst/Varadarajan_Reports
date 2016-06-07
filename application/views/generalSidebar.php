@@ -36,7 +36,7 @@
                                 <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/10'?>">Report of the Expert Committee on Atmospheric Environmental Quality and Preservation of Taj Mahal and Agra Monuments</a></h1>
                             </li>
                             <li class="recent-news-wrap">
-                                <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/11'?>">Innovatre India</a></h1>
+                                <h1 class="title-median"><a href="<?=BASE_URL . 'listing/books/11'?>">Innovative India</a></h1>
                             </li>
                             <li class="recent-news-wrap">
                                 <h1 class="title-median"><a href="<?=BASE_URL . 'search/index/'?>">Search</a></h1>
