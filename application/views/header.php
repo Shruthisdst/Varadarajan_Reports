@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Varadarajan Reports</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Scientific Reports of Dr. S. Varadarajan</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -70,7 +70,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle"></a>
-                <p class="navbar-text">Varadarajan Reports</p>
+                <p class="navbar-text">Scientific Reports of Dr. S. Varadarajan</p>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <?=$this->printNavigation($navigation)?>
