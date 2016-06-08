@@ -251,6 +251,9 @@
 .journal-article-list-authors a{
 	color: #777;
 }
+.journal-article-list-authors a:hover{
+	border-bottom: 1px dotted #ea5644;
+}
 .journal-article-first-level a{
 	color: #777;
 }
