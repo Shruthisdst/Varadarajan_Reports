@@ -5,10 +5,12 @@
             <div class="col-padded"><!-- inner custom column -->                
                 <ul class="list-unstyled clear-margins"><!-- widgets -->                    
                     <li class="widget-container widget_recent_news"><!-- widgets list -->               
+<!--
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
                             <li>Search Results</li>
                         </ol>
+-->
                         <ul class="list-unstyled">
                             <li class="journal-article">
                                 <p class="journal-article-title">Search Results</p>
@@ -16,7 +18,7 @@
                                 <!-- <div class="journal-article-meta">
                                     <span class="journal-article-meta-feature">Special issue title goes here</span>
                                 </div> -->
-                            </li>
+                            </li><hr />
                         </ul>
                     </li>
                     <li class="widget-container widget_recent_news">
