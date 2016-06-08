@@ -1,6 +1,6 @@
 <?php
 
-class home extends Controller {
+class reports extends Controller {
 
 	public function __construct() {
 		
@@ -8,8 +8,7 @@ class home extends Controller {
 	}
 
 	public function index() {
-		
-		$this->view('flat/Home/');
+		$this->view('flat/Reports/');
 	}
 }
 

@@ -9,21 +9,12 @@ class page extends Controller {
 
 	public function index() {
 		
-		$this->view('flat/Home/index');
+		$this->view('flat/Reports/index');
 	}
 
 	public function flat() {
-		$data = func_get_args();
-		
-		if($data[0] == "Home")
-		{
-			$this->redirect('listing/books/01');
-		}
-		else
-		{
-			$path = 'flat/' . implode('/', $data);
-			$this->view($path);
-		}
+		$path = 'flat/' . implode('/', func_get_args());
+		$this->view($path);
 	}
 }
 

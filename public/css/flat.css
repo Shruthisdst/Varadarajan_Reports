@@ -101,16 +101,19 @@
 	width: 100%;
 	text-align: left;
 	float: left;
-	margin: 1em 0 0 0;
+	margin: 1em 0em 2em 0em;
+	border-bottom: 1px solid rgba( 0, 0, 0, 0.05 );
+
 }
-.flat-page .left .info{
-	overflow: auto;
+.flat-page .left a{
+	font-weight: 700;
+	color: #636363;
 }
 .flat-page .left img{
-	margin: 0 1.5em 0 0;
+	margin: 0em 1.5em 2em 0;
 	float: left;
+	border: 1px solid #636363;
 }
-
 .flat-page .right{
 	width: 100%;
 	text-align: right;

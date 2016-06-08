@@ -35,6 +35,24 @@
 	line-height: 20px;
 	margin: 0 0 15px 0;
 }
+/*
+.left{
+	width: 100%;
+	text-align: left;
+	float: left;
+	margin: 1em 0em 2em 0em;
+	border-bottom: 1px solid rgba( 0, 0, 0, 0.05 );
+
+}
+.left a{
+	font-weight: 700;
+	color: #636363;
+}
+.left img{
+	margin: 0em 1.5em 2em 0;
+	float: left;
+}
+*/
 .title-median {
 	color: #636363;
 	font-size: 15px;
