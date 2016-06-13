@@ -18,6 +18,13 @@ class listing extends Controller {
 		//~ var_dump($Title);
 		($Title) ? $this->view('listing/books', $Title) : $this->view('error/index');
 	}
+
+	public function books_treeview($bcode = DEFAULT_BCODE) {
+
+		$Title = $this->model->listTitle($bcode);
+		//~ var_dump($Title);
+		($Title) ? $this->view('listing/treeview', $Title) : $this->view('error/index');
+	}
 }
 
 ?>

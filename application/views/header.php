@@ -23,6 +23,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="<?=PUBLIC_URL?>js/lightbox.js"></script>
+	<script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery.js"></script>
+	<script type="text/javascript" src="<?=PUBLIC_URL?>js/treeview.js"></script>
 
     <!-- Only MathHax goes here
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

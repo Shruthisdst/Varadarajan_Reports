@@ -135,6 +135,29 @@ class viewHelper extends View {
         //~ $val = preg_replace('/^;/', '', $val);
         return $val;
     }   
+    function display_stack($stack)
+	{
+		for($j=0;$j<sizeof($stack);$j++)
+		{
+			$disp_array = $disp_array . $stack[$j] . ",";
+		}
+		return $disp_array;
+	}
+
+	function display_tabs($num)
+	{
+		$str_tabs = "";
+		
+		if($num != 0)
+		{
+			for($tab=1;$tab<=$num;$tab++)
+			{
+				$str_tabs = $str_tabs . "\t";
+			}
+		}
+		
+		return $str_tabs;
+	}
 }
 
 ?>
